@@ -1,0 +1,1153 @@
+#SampleID	DateOfCollection	TimeOfCollection	Notes	City	Office	OfficeLocation	Row	Surface	TimePoint	TimePointCategory	Cooler
+S1C.3.Ca.001	5/29/2013	no_data	pre-sterilization	san_diego	1	ceiling	3	carpet	001	1	no_data
+S1C.3.Ce.001	5/29/2013	no_data	pre-sterilization	san_diego	1	ceiling	3	ceiling	001	1	no_data
+S1C.3.Dr.001	5/29/2013	no_data	pre-sterilization	san_diego	1	ceiling	3	drywall	001	1	no_data
+S1F.3.Ca.001	5/29/2013	no_data	pre-sterilization	san_diego	1	floor	3	carpet	001	1	no_data
+S1F.3.Ce.001	5/29/2013	no_data	pre-sterilization	san_diego	1	floor	3	ceiling	001	1	no_data
+S1F.3.Dr.001	5/29/2013	no_data	pre-sterilization	san_diego	1	floor	3	drywall	001	1	no_data
+S1W.3.Ca.001	5/29/2013	no_data	pre-sterilization	san_diego	1	wall	3	carpet	001	1	no_data
+S1W.3.Ce.001	5/29/2013	no_data	pre-sterilization	san_diego	1	wall	3	ceiling	001	1	no_data
+S1W.3.Dr.001	5/29/2013	no_data	pre-sterilization	san_diego	1	wall	3	drywall	001	1	no_data
+S1C.3.Ca.002	5/29/2013	no_data	Post-sterilization	san_diego	1	ceiling	3	carpet	002	1	no_data
+S1C.3.Ce.002	5/29/2013	no_data	Post-sterilization	san_diego	1	ceiling	3	ceiling	002	1	no_data
+S1C.3.Dr.002	5/29/2013	no_data	Post-sterilization	san_diego	1	ceiling	3	drywall	002	1	no_data
+S1F.3.Ca.002	5/29/2013	no_data	Post-sterilization	san_diego	1	floor	3	carpet	002	1	no_data
+S1F.3.Ce.002	5/29/2013	no_data	Post-sterilization	san_diego	1	floor	3	ceiling	002	1	no_data
+S1F.3.Dr.002	5/29/2013	no_data	Post-sterilization	san_diego	1	floor	3	drywall	002	1	no_data
+S1W.3.Ca.002	5/29/2013	no_data	Post-sterilization	san_diego	1	wall	3	carpet	002	1	no_data
+S1W.3.Ce.002	5/29/2013	no_data	Post-sterilization	san_diego	1	wall	3	ceiling	002	1	no_data
+S1W.3.Dr.002	5/29/2013	no_data	Post-sterilization	san_diego	1	wall	3	drywall	002	1	no_data
+S1C.2.Ca.003	5/31/2013	11:05:00	Time Zero, row 2	san_diego	1	ceiling	2	carpet	003	1	no_data
+S1C.2.Ce.003	5/31/2013	11:05:00	Time Zero, row 2	san_diego	1	ceiling	2	ceiling	003	1	no_data
+S1C.2.Dr.003	5/31/2013	11:05:00	Time Zero, row 2	san_diego	1	ceiling	2	drywall	003	1	no_data
+S1F.2.Ca.003	5/31/2013	11:03:00	Time Zero, row 2	san_diego	1	floor	2	carpet	003	1	no_data
+S1F.2.Ce.003	5/31/2013	11:03:00	Time Zero, row 2	san_diego	1	floor	2	ceiling	003	1	no_data
+S1F.2.Dr.003	5/31/2013	11:03:00	Time Zero, row 2	san_diego	1	floor	2	drywall	003	1	no_data
+S1W.2.Ca.003	5/31/2013	10:09:00	Time Zero, row 2	san_diego	1	wall	2	carpet	003	1	no_data
+S1W.2.Ce.003	5/31/2013	10:09:00	Time Zero, row 2	san_diego	1	wall	2	ceiling	003	1	no_data
+S1W.2.Dr.003	5/31/2013	10:09:00	Time Zero, row 2	san_diego	1	wall	2	drywall	003	1	no_data
+S1C.3.Ca.003	5/31/2013	11:05:00	Time Zero, row 3	san_diego	1	ceiling	3	carpet	003	1	no_data
+S1C.3.Ce.003	5/31/2013	11:05:00	Time Zero, row 3	san_diego	1	ceiling	3	ceiling	003	1	no_data
+S1C.3.Dr.003	5/31/2013	11:05:00	Time Zero, row 3	san_diego	1	ceiling	3	drywall	003	1	no_data
+S1F.3.Ca.003	5/31/2013	11:03:00	Time Zero, row 3	san_diego	1	floor	3	carpet	003	1	no_data
+S1F.3.Ce.003	5/31/2013	11:03:00	Time Zero, row 3	san_diego	1	floor	3	ceiling	003	1	no_data
+S1F.3.Dr.003	5/31/2013	11:03:00	Time Zero, row 3	san_diego	1	floor	3	drywall	003	1	no_data
+S1W.3.Ca.003	5/31/2013	10:09:00	Time Zero, row 3	san_diego	1	wall	3	carpet	003	1	no_data
+S1W.3.Ce.003	5/31/2013	10:09:00	Time Zero, row 3	san_diego	1	wall	3	ceiling	003	1	no_data
+S1W.3.Dr.003	5/31/2013	10:09:00	Time Zero, row 3	san_diego	1	wall	3	drywall	003	1	no_data
+S2C.2.Ca.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	ceiling	2	carpet	003	1	no_data
+S2C.2.Ce.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	ceiling	2	ceiling	003	1	no_data
+S2C.2.Dr.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	ceiling	2	drywall	003	1	no_data
+S2F.2.Ca.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	floor	2	carpet	003	1	no_data
+S2F.2.Ce.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	floor	2	ceiling	003	1	no_data
+S2F.2.Dr.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	floor	2	drywall	003	1	no_data
+S2W.2.Ca.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	wall	2	carpet	003	1	no_data
+S2W.2.Ce.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	wall	2	ceiling	003	1	no_data
+S2W.2.Dr.003	5/31/2013	12:30:00	Time Zero, row 2	san_diego	2	wall	2	drywall	003	1	no_data
+S2C.3.Ca.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	ceiling	3	carpet	003	1	no_data
+S2C.3.Ce.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	ceiling	3	ceiling	003	1	no_data
+S2C.3.Dr.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	ceiling	3	drywall	003	1	no_data
+S2F.3.Ca.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	floor	3	carpet	003	1	no_data
+S2F.3.Ce.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	floor	3	ceiling	003	1	no_data
+S2F.3.Dr.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	floor	3	drywall	003	1	no_data
+S2W.3.Ca.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	wall	3	carpet	003	1	no_data
+S2W.3.Ce.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	wall	3	ceiling	003	1	no_data
+S2W.3.Dr.003	5/31/2013	12:30:00	Time Zero, row 3	san_diego	2	wall	3	drywall	003	1	no_data
+S3C.2.Ca.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	ceiling	2	carpet	003	1	no_data
+S3C.2.Ce.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	ceiling	2	ceiling	003	1	no_data
+S3C.2.Dr.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	ceiling	2	drywall	003	1	no_data
+S3F.2.Ca.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	floor	2	carpet	003	1	no_data
+S3F.2.Ce.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	floor	2	ceiling	003	1	no_data
+S3F.2.Dr.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	floor	2	drywall	003	1	no_data
+S3W.2.Ca.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	wall	2	carpet	003	1	no_data
+S3W.2.Ce.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	wall	2	ceiling	003	1	no_data
+S3W.2.Dr.003	5/31/2013	14:00:00	Time Zero, row 2	san_diego	3	wall	2	drywall	003	1	no_data
+S3C.3.Ca.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	ceiling	3	carpet	003	1	no_data
+S3C.3.Ce.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	ceiling	3	ceiling	003	1	no_data
+S3C.3.Dr.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	ceiling	3	drywall	003	1	no_data
+S3F.3.Ca.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	floor	3	carpet	003	1	no_data
+S3F.3.Ce.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	floor	3	ceiling	003	1	no_data
+S3F.3.Dr.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	floor	3	drywall	003	1	no_data
+S3W.3.Ca.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	wall	3	carpet	003	1	no_data
+S3W.3.Ce.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	wall	3	ceiling	003	1	no_data
+S3W.3.Dr.003	5/31/2013	14:00:00	Time Zero, row 3	san_diego	3	wall	3	drywall	003	1	no_data
+S1C.3.Ca.004	6/2/2013	16:20:00	N/A	san_diego	1	ceiling	3	carpet	004	1	no_data
+S1C.3.Ce.004	6/2/2013	16:20:00	N/A	san_diego	1	ceiling	3	ceiling	004	1	no_data
+S1C.3.Dr.004	6/2/2013	16:20:00	N/A	san_diego	1	ceiling	3	drywall	004	1	no_data
+S1F.3.Ca.004	6/2/2013	16:22:00	N/A	san_diego	1	floor	3	carpet	004	1	no_data
+S1F.3.Ce.004	6/2/2013	16:22:00	N/A	san_diego	1	floor	3	ceiling	004	1	no_data
+S1F.3.Dr.004	6/2/2013	16:22:00	N/A	san_diego	1	floor	3	drywall	004	1	no_data
+S1W.3.Ca.004	6/2/2013	16:30:00	N/A	san_diego	1	wall	3	carpet	004	1	no_data
+S1W.3.Ce.004	6/2/2013	16:30:00	N/A	san_diego	1	wall	3	ceiling	004	1	no_data
+S1W.3.Dr.004	6/2/2013	16:30:00	N/A	san_diego	1	wall	3	drywall	004	1	no_data
+S2C.3.Ca.004	6/2/2013	18:35:00	N/A	san_diego	2	ceiling	3	carpet	004	1	no_data
+S2C.3.Ce.004	6/2/2013	18:35:00	N/A	san_diego	2	ceiling	3	ceiling	004	1	no_data
+S2C.3.Dr.004	6/2/2013	18:35:00	N/A	san_diego	2	ceiling	3	drywall	004	1	no_data
+S2F.3.Ca.004	6/2/2013	18:40:00	N/A	san_diego	2	floor	3	carpet	004	1	no_data
+S2F.3.Ce.004	6/2/2013	18:40:00	N/A	san_diego	2	floor	3	ceiling	004	1	no_data
+S2F.3.Dr.004	6/2/2013	18:40:00	N/A	san_diego	2	floor	3	drywall	004	1	no_data
+S2W.3.Ca.004	6/2/2013	18:42:00	N/A	san_diego	2	wall	3	carpet	004	1	no_data
+S2W.3.Ce.004	6/2/2013	18:42:00	N/A	san_diego	2	wall	3	ceiling	004	1	no_data
+S2W.3.Dr.004	6/2/2013	18:42:00	N/A	san_diego	2	wall	3	drywall	004	1	no_data
+S3C.3.Ca.004	6/2/2013	18:51:00	N/A	san_diego	3	ceiling	3	carpet	004	1	no_data
+S3C.3.Ce.004	6/2/2013	18:51:00	N/A	san_diego	3	ceiling	3	ceiling	004	1	no_data
+S3C.3.Dr.004	6/2/2013	18:51:00	N/A	san_diego	3	ceiling	3	drywall	004	1	no_data
+S3F.3.Ca.004	6/2/2013	18:55:00	N/A	san_diego	3	floor	3	carpet	004	1	no_data
+S3F.3.Ce.004	6/2/2013	18:55:00	N/A	san_diego	3	floor	3	ceiling	004	1	no_data
+S3F.3.Dr.004	6/2/2013	18:55:00	N/A	san_diego	3	floor	3	drywall	004	1	no_data
+S3W.3.Ca.004	6/2/2013	19:00:00	N/A	san_diego	3	wall	3	carpet	004	1	no_data
+S3W.3.Ce.004	6/2/2013	19:00:00	N/A	san_diego	3	wall	3	ceiling	004	1	no_data
+S3W.3.Dr.004	6/2/2013	19:00:00	N/A	san_diego	3	wall	3	drywall	004	1	no_data
+S1C.3.Ca.005	6/4/2013	14:55:00	Training Pascal (PR)	san_diego	1	ceiling	3	carpet	005	3	no_data
+S1C.3.Ce.005	6/4/2013	14:55:00	Training Pascal (PR)	san_diego	1	ceiling	3	ceiling	005	3	no_data
+S1C.3.Dr.005	6/4/2013	14:55:00	Training Pascal (PR)	san_diego	1	ceiling	3	drywall	005	3	no_data
+S1F.3.Ca.005	6/4/2013	14:46:00	Training Pascal (PR)	san_diego	1	floor	3	carpet	005	3	no_data
+S1F.3.Ce.005	6/4/2013	14:46:00	Training Pascal (PR)	san_diego	1	floor	3	ceiling	005	3	no_data
+S1F.3.Dr.005	6/4/2013	14:46:00	Training Pascal (PR)	san_diego	1	floor	3	drywall	005	3	no_data
+S1W.3.Ca.005	6/4/2013	14:50:00	Training Pascal (PR)	san_diego	1	wall	3	carpet	005	3	no_data
+S1W.3.Ce.005	6/4/2013	14:50:00	Training Pascal (PR)	san_diego	1	wall	3	ceiling	005	3	no_data
+S1W.3.Dr.005	6/4/2013	14:50:00	Training Pascal (PR)	san_diego	1	wall	3	drywall	005	3	no_data
+S2C.3.Ca.005	6/4/2013	15:10:00	Training Pascal (PR)	san_diego	2	ceiling	3	carpet	005	3	no_data
+S2C.3.Ce.005	6/4/2013	15:10:00	Training Pascal (PR)	san_diego	2	ceiling	3	ceiling	005	3	no_data
+S2C.3.Dr.005	6/4/2013	15:10:00	Training Pascal (PR)	san_diego	2	ceiling	3	drywall	005	3	no_data
+S2F.3.Ca.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	floor	3	carpet	005	3	no_data
+S2F.3.Ce.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	floor	3	ceiling	005	3	no_data
+S2F.3.Dr.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	floor	3	drywall	005	3	no_data
+S2W.3.Ca.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	wall	3	carpet	005	3	no_data
+S2W.3.Ce.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	wall	3	ceiling	005	3	no_data
+S2W.3.Dr.005	6/4/2013	15:05:00	Training Pascal (PR)	san_diego	2	wall	3	drywall	005	3	no_data
+S3C.3.Ca.005	6/4/2013	15:15:00	Training Pascal (PR)	san_diego	3	ceiling	3	carpet	005	3	no_data
+S3C.3.Ce.005	6/4/2013	15:15:00	Training Pascal (PR)	san_diego	3	ceiling	3	ceiling	005	3	no_data
+S3C.3.Dr.005	6/4/2013	15:15:00	Training Pascal (PR)	san_diego	3	ceiling	3	drywall	005	3	no_data
+S3F.3.Ca.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	floor	3	carpet	005	3	no_data
+S3F.3.Ce.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	floor	3	ceiling	005	3	no_data
+S3F.3.Dr.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	floor	3	drywall	005	3	no_data
+S3W.3.Ca.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	wall	3	carpet	005	3	no_data
+S3W.3.Ce.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	wall	3	ceiling	005	3	no_data
+S3W.3.Dr.005	6/4/2013	15:20:00	Training Pascal (PR)	san_diego	3	wall	3	drywall	005	3	no_data
+S1C.3.Ca.006	6/6/2013	16:40:00	PR & JF	san_diego	1	ceiling	3	carpet	006	3	no_data
+S1C.3.Ce.006	6/6/2013	16:40:00	PR & JF	san_diego	1	ceiling	3	ceiling	006	3	no_data
+S1C.3.Dr.006	6/6/2013	16:40:00	PR & JF	san_diego	1	ceiling	3	drywall	006	3	no_data
+S1F.3.Ca.006	6/6/2013	16:40:00	PR & JF	san_diego	1	floor	3	carpet	006	3	no_data
+S1F.3.Ce.006	6/6/2013	16:40:00	PR & JF	san_diego	1	floor	3	ceiling	006	3	no_data
+S1F.3.Dr.006	6/6/2013	16:40:00	PR & JF	san_diego	1	floor	3	drywall	006	3	no_data
+S1W.3.Ca.006	6/6/2013	16:40:00	PR & JF	san_diego	1	wall	3	carpet	006	3	no_data
+S1W.3.Ce.006	6/6/2013	16:40:00	PR & JF	san_diego	1	wall	3	ceiling	006	3	no_data
+S1W.3.Dr.006	6/6/2013	16:40:00	PR & JF	san_diego	1	wall	3	drywall	006	3	no_data
+S2C.3.Ca.006	6/6/2013	16:45:00	PR & JF	san_diego	2	ceiling	3	carpet	006	3	no_data
+S2C.3.Ce.006	6/6/2013	16:45:00	PR & JF	san_diego	2	ceiling	3	ceiling	006	3	no_data
+S2C.3.Dr.006	6/6/2013	16:45:00	PR & JF	san_diego	2	ceiling	3	drywall	006	3	no_data
+S2F.3.Ca.006	6/6/2013	16:45:00	PR & JF	san_diego	2	floor	3	carpet	006	3	no_data
+S2F.3.Ce.006	6/6/2013	16:45:00	PR & JF	san_diego	2	floor	3	ceiling	006	3	no_data
+S2F.3.Dr.006	6/6/2013	16:45:00	PR & JF	san_diego	2	floor	3	drywall	006	3	no_data
+S2W.3.Ca.006	6/6/2013	16:45:00	PR & JF	san_diego	2	wall	3	carpet	006	3	no_data
+S2W.3.Ce.006	6/6/2013	16:45:00	PR & JF	san_diego	2	wall	3	ceiling	006	3	no_data
+S2W.3.Dr.006	6/6/2013	16:45:00	PR & JF	san_diego	2	wall	3	drywall	006	3	no_data
+S3C.3.Ca.006	6/6/2013	16:58:00	PR & JF	san_diego	3	ceiling	3	carpet	006	3	no_data
+S3C.3.Ce.006	6/6/2013	16:58:00	PR & JF	san_diego	3	ceiling	3	ceiling	006	3	no_data
+S3C.3.Dr.006	6/6/2013	16:58:00	PR & JF	san_diego	3	ceiling	3	drywall	006	3	no_data
+S3F.3.Ca.006	6/6/2013	16:58:00	PR & JF	san_diego	3	floor	3	carpet	006	3	no_data
+S3F.3.Ce.006	6/6/2013	16:58:00	PR & JF	san_diego	3	floor	3	ceiling	006	3	no_data
+S3F.3.Dr.006	6/6/2013	16:58:00	PR & JF	san_diego	3	floor	3	drywall	006	3	no_data
+S3W.3.Ca.006	6/6/2013	16:58:00	PR & JF	san_diego	3	wall	3	carpet	006	3	no_data
+S3W.3.Ce.006	6/6/2013	16:58:00	PR & JF	san_diego	3	wall	3	ceiling	006	3	no_data
+S3W.3.Dr.006	6/6/2013	16:58:00	PR & JF	san_diego	3	wall	3	drywall	006	3	no_data
+S1C.3.Ca.007	6/8/2013	17:00:00	JF	san_diego	1	ceiling	3	carpet	007	2	no_data
+S1C.3.Ce.007	6/8/2013	17:00:00	JF	san_diego	1	ceiling	3	ceiling	007	2	no_data
+S1C.3.Dr.007	6/8/2013	17:00:00	JF	san_diego	1	ceiling	3	drywall	007	2	no_data
+S1F.3.Ca.007	6/8/2013	17:00:00	JF	san_diego	1	floor	3	carpet	007	2	no_data
+S1F.3.Ce.007	6/8/2013	17:00:00	JF	san_diego	1	floor	3	ceiling	007	2	no_data
+S1F.3.Dr.007	6/8/2013	17:00:00	JF	san_diego	1	floor	3	drywall	007	2	no_data
+S1W.3.Ca.007	6/8/2013	17:00:00	JF	san_diego	1	wall	3	carpet	007	2	no_data
+S1W.3.Ce.007	6/8/2013	17:00:00	JF	san_diego	1	wall	3	ceiling	007	2	no_data
+S1W.3.Dr.007	6/8/2013	17:00:00	JF	san_diego	1	wall	3	drywall	007	2	no_data
+S2C.3.Ca.007	6/8/2013	17:10:00	JF	san_diego	2	ceiling	3	carpet	007	2	no_data
+S2C.3.Ce.007	6/8/2013	17:10:00	JF	san_diego	2	ceiling	3	ceiling	007	2	no_data
+S2C.3.Dr.007	6/8/2013	17:10:00	JF	san_diego	2	ceiling	3	drywall	007	2	no_data
+S2F.3.Ca.007	6/8/2013	17:10:00	JF	san_diego	2	floor	3	carpet	007	2	no_data
+S2F.3.Ce.007	6/8/2013	17:10:00	JF	san_diego	2	floor	3	ceiling	007	2	no_data
+S2F.3.Dr.007	6/8/2013	17:10:00	JF	san_diego	2	floor	3	drywall	007	2	no_data
+S2W.3.Ca.007	6/8/2013	17:10:00	JF	san_diego	2	wall	3	carpet	007	2	no_data
+S2W.3.Ce.007	6/8/2013	17:10:00	JF	san_diego	2	wall	3	ceiling	007	2	no_data
+S2W.3.Dr.007	6/8/2013	17:10:00	JF	san_diego	2	wall	3	drywall	007	2	no_data
+S3C.3.Ca.007	6/8/2013	17:30:00	JF	san_diego	3	ceiling	3	carpet	007	2	no_data
+S3C.3.Ce.007	6/8/2013	17:30:00	JF	san_diego	3	ceiling	3	ceiling	007	2	no_data
+S3C.3.Dr.007	6/8/2013	17:30:00	JF	san_diego	3	ceiling	3	drywall	007	2	no_data
+S3F.3.Ca.007	6/8/2013	17:30:00	JF	san_diego	3	floor	3	carpet	007	2	no_data
+S3F.3.Ce.007	6/8/2013	17:30:00	JF	san_diego	3	floor	3	ceiling	007	2	no_data
+S3F.3.Dr.007	6/8/2013	17:30:00	JF	san_diego	3	floor	3	drywall	007	2	no_data
+S3W.3.Ca.007	6/8/2013	17:30:00	JF	san_diego	3	wall	3	carpet	007	2	no_data
+S3W.3.Ce.007	6/8/2013	17:30:00	JF	san_diego	3	wall	3	ceiling	007	2	no_data
+S3W.3.Dr.007	6/8/2013	17:30:00	JF	san_diego	3	wall	3	drywall	007	2	no_data
+S1C.3.Ca.008	6/10/2013	14:30:00	PR	san_diego	1	ceiling	3	carpet	008	2	no_data
+S1C.3.Ce.008	6/10/2013	14:30:00	PR	san_diego	1	ceiling	3	ceiling	008	2	no_data
+S1C.3.Dr.008	6/10/2013	14:30:00	PR	san_diego	1	ceiling	3	drywall	008	2	no_data
+S1F.3.Ca.008	6/10/2013	14:30:00	PR	san_diego	1	floor	3	carpet	008	2	no_data
+S1F.3.Ce.008	6/10/2013	14:30:00	PR	san_diego	1	floor	3	ceiling	008	2	no_data
+S1F.3.Dr.008	6/10/2013	14:30:00	PR	san_diego	1	floor	3	drywall	008	2	no_data
+S1W.3.Ca.008	6/10/2013	14:30:00	PR	san_diego	1	wall	3	carpet	008	2	no_data
+S1W.3.Ce.008	6/10/2013	14:30:00	PR	san_diego	1	wall	3	ceiling	008	2	no_data
+S1W.3.Dr.008	6/10/2013	14:30:00	PR	san_diego	1	wall	3	drywall	008	2	no_data
+S2C.3.Ca.008	6/10/2013	14:20:00	PR	san_diego	2	ceiling	3	carpet	008	2	no_data
+S2C.3.Ce.008	6/10/2013	14:20:00	PR	san_diego	2	ceiling	3	ceiling	008	2	no_data
+S2C.3.Dr.008	6/10/2013	14:20:00	PR	san_diego	2	ceiling	3	drywall	008	2	no_data
+S2F.3.Ca.008	6/10/2013	14:20:00	PR	san_diego	2	floor	3	carpet	008	2	no_data
+S2F.3.Ce.008	6/10/2013	14:20:00	PR	san_diego	2	floor	3	ceiling	008	2	no_data
+S2F.3.Dr.008	6/10/2013	14:20:00	PR	san_diego	2	floor	3	drywall	008	2	no_data
+S2W.3.Ca.008	6/10/2013	14:20:00	PR	san_diego	2	wall	3	carpet	008	2	no_data
+S2W.3.Ce.008	6/10/2013	14:20:00	PR	san_diego	2	wall	3	ceiling	008	2	no_data
+S2W.3.Dr.008	6/10/2013	14:20:00	PR	san_diego	2	wall	3	drywall	008	2	no_data
+S3C.3.Ca.008	6/10/2013	14:10:00	PR	san_diego	3	ceiling	3	carpet	008	2	no_data
+S3C.3.Ce.008	6/10/2013	14:10:00	PR	san_diego	3	ceiling	3	ceiling	008	2	no_data
+S3C.3.Dr.008	6/10/2013	14:10:00	PR	san_diego	3	ceiling	3	drywall	008	2	no_data
+S3F.3.Ca.008	6/10/2013	14:10:00	PR	san_diego	3	floor	3	carpet	008	2	no_data
+S3F.3.Ce.008	6/10/2013	14:10:00	PR	san_diego	3	floor	3	ceiling	008	2	no_data
+S3F.3.Dr.008	6/10/2013	14:10:00	PR	san_diego	3	floor	3	drywall	008	2	no_data
+S3W.3.Ca.008	6/10/2013	14:10:00	PR	san_diego	3	wall	3	carpet	008	2	no_data
+S3W.3.Ce.008	6/10/2013	14:10:00	PR	san_diego	3	wall	3	ceiling	008	2	no_data
+S3W.3.Dr.008	6/10/2013	14:10:00	PR	san_diego	3	wall	3	drywall	008	2	no_data
+S1C.3.Ca.009	6/12/2013	12:30:00	PR	san_diego	1	ceiling	3	carpet	009	2	no_data
+S1C.3.Ce.009	6/12/2013	12:30:00	PR	san_diego	1	ceiling	3	ceiling	009	2	no_data
+S1C.3.Dr.009	6/12/2013	12:30:00	PR	san_diego	1	ceiling	3	drywall	009	2	no_data
+S1F.3.Ca.009	6/12/2013	12:30:00	PR	san_diego	1	floor	3	carpet	009	2	no_data
+S1F.3.Ce.009	6/12/2013	12:30:00	PR	san_diego	1	floor	3	ceiling	009	2	no_data
+S1F.3.Dr.009	6/12/2013	12:30:00	PR	san_diego	1	floor	3	drywall	009	2	no_data
+S1W.3.Ca.009	6/12/2013	12:30:00	PR	san_diego	1	wall	3	carpet	009	2	no_data
+S1W.3.Ce.009	6/12/2013	12:30:00	PR	san_diego	1	wall	3	ceiling	009	2	no_data
+S1W.3.Dr.009	6/12/2013	12:30:00	PR	san_diego	1	wall	3	drywall	009	2	no_data
+S2C.3.Ca.009	6/12/2013	12:45:00	PR	san_diego	2	ceiling	3	carpet	009	2	no_data
+S2C.3.Ce.009	6/12/2013	12:45:00	PR	san_diego	2	ceiling	3	ceiling	009	2	no_data
+S2C.3.Dr.009	6/12/2013	12:45:00	PR	san_diego	2	ceiling	3	drywall	009	2	no_data
+S2F.3.Ca.009	6/12/2013	12:45:00	PR	san_diego	2	floor	3	carpet	009	2	no_data
+S2F.3.Ce.009	6/12/2013	12:45:00	PR	san_diego	2	floor	3	ceiling	009	2	no_data
+S2F.3.Dr.009	6/12/2013	12:45:00	PR	san_diego	2	floor	3	drywall	009	2	no_data
+S2W.3.Ca.009	6/12/2013	12:45:00	PR	san_diego	2	wall	3	carpet	009	2	no_data
+S2W.3.Ce.009	6/12/2013	12:45:00	PR	san_diego	2	wall	3	ceiling	009	2	no_data
+S2W.3.Dr.009	6/12/2013	12:45:00	PR	san_diego	2	wall	3	drywall	009	2	no_data
+S3C.3.Ca.009	6/12/2013	12:55:00	PR	san_diego	3	ceiling	3	carpet	009	2	no_data
+S3C.3.Ce.009	6/12/2013	12:55:00	PR	san_diego	3	ceiling	3	ceiling	009	2	no_data
+S3C.3.Dr.009	6/12/2013	12:55:00	PR	san_diego	3	ceiling	3	drywall	009	2	no_data
+S3F.3.Ca.009	6/12/2013	12:55:00	PR	san_diego	3	floor	3	carpet	009	2	no_data
+S3F.3.Ce.009	6/12/2013	12:55:00	PR	san_diego	3	floor	3	ceiling	009	2	no_data
+S3F.3.Dr.009	6/12/2013	12:55:00	PR	san_diego	3	floor	3	drywall	009	2	no_data
+S3W.3.Ca.009	6/12/2013	12:55:00	PR	san_diego	3	wall	3	carpet	009	2	no_data
+S3W.3.Ce.009	6/12/2013	12:55:00	PR	san_diego	3	wall	3	ceiling	009	2	no_data
+S3W.3.Dr.009	6/12/2013	12:55:00	PR	san_diego	3	wall	3	drywall	009	2	no_data
+S1C.3.Ca.010	6/14/2013	13:50:00	PR	san_diego	1	ceiling	3	carpet	010	2	no_data
+S1C.3.Ce.010	6/14/2013	13:50:00	PR	san_diego	1	ceiling	3	ceiling	010	2	no_data
+S1C.3.Dr.010	6/14/2013	13:50:00	PR	san_diego	1	ceiling	3	drywall	010	2	no_data
+S1F.3.Ca.010	6/14/2013	13:50:00	PR, daddy longlegs collected	san_diego	1	floor	3	carpet	010	2	no_data
+S1F.3.Ce.010	6/14/2013	13:50:00	PR, daddy longlegs collected	san_diego	1	floor	3	ceiling	010	2	no_data
+S1F.3.Dr.010	6/14/2013	13:50:00	PR, daddy longlegs collected	san_diego	1	floor	3	drywall	010	2	no_data
+S1W.3.Ca.010	6/14/2013	13:50:00	PR	san_diego	1	wall	3	carpet	010	2	no_data
+S1W.3.Ce.010	6/14/2013	13:50:00	PR	san_diego	1	wall	3	ceiling	010	2	no_data
+S1W.3.Dr.010	6/14/2013	13:50:00	PR	san_diego	1	wall	3	drywall	010	2	no_data
+S2C.3.Ca.010	6/14/2013	14:00:00	PR	san_diego	2	ceiling	3	carpet	010	2	no_data
+S2C.3.Ce.010	6/14/2013	14:00:00	PR	san_diego	2	ceiling	3	ceiling	010	2	no_data
+S2C.3.Dr.010	6/14/2013	14:00:00	PR	san_diego	2	ceiling	3	drywall	010	2	no_data
+S2F.3.Ca.010	6/14/2013	14:00:00	PR	san_diego	2	floor	3	carpet	010	2	no_data
+S2F.3.Ce.010	6/14/2013	14:00:00	PR	san_diego	2	floor	3	ceiling	010	2	no_data
+S2F.3.Dr.010	6/14/2013	14:00:00	PR	san_diego	2	floor	3	drywall	010	2	no_data
+S2W.3.Ca.010	6/14/2013	14:00:00	PR	san_diego	2	wall	3	carpet	010	2	no_data
+S2W.3.Ce.010	6/14/2013	14:00:00	PR	san_diego	2	wall	3	ceiling	010	2	no_data
+S2W.3.Dr.010	6/14/2013	14:00:00	PR	san_diego	2	wall	3	drywall	010	2	no_data
+S3C.3.Ca.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	ceiling	3	carpet	010	2	no_data
+S3C.3.Ce.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	ceiling	3	ceiling	010	2	no_data
+S3C.3.Dr.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	ceiling	3	drywall	010	2	no_data
+S3F.3.Ca.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	floor	3	carpet	010	2	no_data
+S3F.3.Ce.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	floor	3	ceiling	010	2	no_data
+S3F.3.Dr.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	floor	3	drywall	010	2	no_data
+S3W.3.Ca.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	wall	3	carpet	010	2	no_data
+S3W.3.Ce.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	wall	3	ceiling	010	2	no_data
+S3W.3.Dr.010	6/14/2013	14:10:00	PR, swabbed the dog	san_diego	3	wall	3	drywall	010	2	no_data
+S1C.3.Ca.011	6/16/2013	16:30:00	JF	san_diego	1	ceiling	3	carpet	011	2	no_data
+S1C.3.Ce.011	6/16/2013	16:30:00	JF	san_diego	1	ceiling	3	ceiling	011	2	no_data
+S1C.3.Dr.011	6/16/2013	16:30:00	JF	san_diego	1	ceiling	3	drywall	011	2	no_data
+S1F.3.Ca.011	6/16/2013	16:30:00	JF	san_diego	1	floor	3	carpet	011	2	no_data
+S1F.3.Ce.011	6/16/2013	16:30:00	JF	san_diego	1	floor	3	ceiling	011	2	no_data
+S1F.3.Dr.011	6/16/2013	16:30:00	JF	san_diego	1	floor	3	drywall	011	2	no_data
+S1W.3.Ca.011	6/16/2013	16:30:00	JF	san_diego	1	wall	3	carpet	011	2	no_data
+S1W.3.Ce.011	6/16/2013	16:30:00	JF	san_diego	1	wall	3	ceiling	011	2	no_data
+S1W.3.Dr.011	6/16/2013	16:30:00	JF	san_diego	1	wall	3	drywall	011	2	no_data
+S2C.3.Ca.011	6/16/2013	16:45:00	JF	san_diego	2	ceiling	3	carpet	011	2	no_data
+S2C.3.Ce.011	6/16/2013	16:45:00	JF	san_diego	2	ceiling	3	ceiling	011	2	no_data
+S2C.3.Dr.011	6/16/2013	16:45:00	JF	san_diego	2	ceiling	3	drywall	011	2	no_data
+S2F.3.Ca.011	6/16/2013	16:45:00	JF	san_diego	2	floor	3	carpet	011	2	no_data
+S2F.3.Ce.011	6/16/2013	16:45:00	JF	san_diego	2	floor	3	ceiling	011	2	no_data
+S2F.3.Dr.011	6/16/2013	16:45:00	JF	san_diego	2	floor	3	drywall	011	2	no_data
+S2W.3.Ca.011	6/16/2013	16:45:00	JF	san_diego	2	wall	3	carpet	011	2	no_data
+S2W.3.Ce.011	6/16/2013	16:45:00	JF	san_diego	2	wall	3	ceiling	011	2	no_data
+S2W.3.Dr.011	6/16/2013	16:45:00	JF	san_diego	2	wall	3	drywall	011	2	no_data
+S3C.3.Ca.011	6/16/2013	17:00:00	JF	san_diego	3	ceiling	3	carpet	011	2	no_data
+S3C.3.Ce.011	6/16/2013	17:00:00	JF	san_diego	3	ceiling	3	ceiling	011	2	no_data
+S3C.3.Dr.011	6/16/2013	17:00:00	JF	san_diego	3	ceiling	3	drywall	011	2	no_data
+S3F.3.Ca.011	6/16/2013	17:00:00	JF	san_diego	3	floor	3	carpet	011	2	no_data
+S3F.3.Ce.011	6/16/2013	17:00:00	JF	san_diego	3	floor	3	ceiling	011	2	no_data
+S3F.3.Dr.011	6/16/2013	17:00:00	JF	san_diego	3	floor	3	drywall	011	2	no_data
+S3W.3.Ca.011	6/16/2013	17:00:00	JF	san_diego	3	wall	3	carpet	011	2	no_data
+S3W.3.Ce.011	6/16/2013	17:00:00	JF	san_diego	3	wall	3	ceiling	011	2	no_data
+S3W.3.Dr.011	6/16/2013	17:00:00	JF	san_diego	3	wall	3	drywall	011	2	no_data
+S1C.3.Ca.012	6/18/2013	16:55:00	JF	san_diego	1	ceiling	3	carpet	012	2	no_data
+S1C.3.Ce.012	6/18/2013	16:55:00	JF	san_diego	1	ceiling	3	ceiling	012	2	no_data
+S1C.3.Dr.012	6/18/2013	16:55:00	JF	san_diego	1	ceiling	3	drywall	012	2	no_data
+S1F.3.Ca.012	6/18/2013	16:55:00	JF	san_diego	1	floor	3	carpet	012	2	no_data
+S1F.3.Ce.012	6/18/2013	16:55:00	JF	san_diego	1	floor	3	ceiling	012	2	no_data
+S1F.3.Dr.012	6/18/2013	16:55:00	JF	san_diego	1	floor	3	drywall	012	2	no_data
+S1W.3.Ca.012	6/18/2013	16:55:00	JF	san_diego	1	wall	3	carpet	012	2	no_data
+S1W.3.Ce.012	6/18/2013	16:55:00	JF	san_diego	1	wall	3	ceiling	012	2	no_data
+S1W.3.Dr.012	6/18/2013	16:55:00	JF	san_diego	1	wall	3	drywall	012	2	no_data
+S2C.3.Ca.012	6/18/2013	17:05:00	JF	san_diego	2	ceiling	3	carpet	012	2	no_data
+S2C.3.Ce.012	6/18/2013	17:05:00	JF	san_diego	2	ceiling	3	ceiling	012	2	no_data
+S2C.3.Dr.012	6/18/2013	17:05:00	JF	san_diego	2	ceiling	3	drywall	012	2	no_data
+S2F.3.Ca.012	6/18/2013	17:05:00	JF	san_diego	2	floor	3	carpet	012	2	no_data
+S2F.3.Ce.012	6/18/2013	17:05:00	JF	san_diego	2	floor	3	ceiling	012	2	no_data
+S2F.3.Dr.012	6/18/2013	17:05:00	JF	san_diego	2	floor	3	drywall	012	2	no_data
+S2W.3.Ca.012	6/18/2013	17:05:00	JF	san_diego	2	wall	3	carpet	012	2	no_data
+S2W.3.Ce.012	6/18/2013	17:05:00	JF	san_diego	2	wall	3	ceiling	012	2	no_data
+S2W.3.Dr.012	6/18/2013	17:05:00	JF	san_diego	2	wall	3	drywall	012	2	no_data
+S3C.3.Ca.012	6/18/2013	17:15:00	JF	san_diego	3	ceiling	3	carpet	012	2	no_data
+S3C.3.Ce.012	6/18/2013	17:15:00	JF	san_diego	3	ceiling	3	ceiling	012	2	no_data
+S3C.3.Dr.012	6/18/2013	17:15:00	JF	san_diego	3	ceiling	3	drywall	012	2	no_data
+S3F.3.Ca.012	6/18/2013	17:15:00	JF	san_diego	3	floor	3	carpet	012	2	no_data
+S3F.3.Ce.012	6/18/2013	17:15:00	JF	san_diego	3	floor	3	ceiling	012	2	no_data
+S3F.3.Dr.012	6/18/2013	17:15:00	JF	san_diego	3	floor	3	drywall	012	2	no_data
+S3W.3.Ca.012	6/18/2013	17:15:00	JF	san_diego	3	wall	3	carpet	012	2	no_data
+S3W.3.Ce.012	6/18/2013	17:15:00	JF	san_diego	3	wall	3	ceiling	012	2	no_data
+S3W.3.Dr.012	6/18/2013	17:15:00	JF	san_diego	3	wall	3	drywall	012	2	no_data
+S1C.3.Ca.013	6/20/2013	16:00:00	PR	san_diego	1	ceiling	3	carpet	013	2	no_data
+S1C.3.Ce.013	6/20/2013	16:00:00	PR	san_diego	1	ceiling	3	ceiling	013	2	no_data
+S1C.3.Dr.013	6/20/2013	16:00:00	PR	san_diego	1	ceiling	3	drywall	013	2	no_data
+S1F.3.Ca.013	6/20/2013	16:00:00	PR	san_diego	1	floor	3	carpet	013	2	no_data
+S1F.3.Ce.013	6/20/2013	16:00:00	PR	san_diego	1	floor	3	ceiling	013	2	no_data
+S1F.3.Dr.013	6/20/2013	16:00:00	PR	san_diego	1	floor	3	drywall	013	2	no_data
+S1W.3.Ca.013	6/20/2013	16:00:00	PR	san_diego	1	wall	3	carpet	013	2	no_data
+S1W.3.Ce.013	6/20/2013	16:00:00	PR	san_diego	1	wall	3	ceiling	013	2	no_data
+S1W.3.Dr.013	6/20/2013	16:00:00	PR	san_diego	1	wall	3	drywall	013	2	no_data
+S2C.3.Ca.013	6/20/2013	16:10:00	PR	san_diego	2	ceiling	3	carpet	013	2	no_data
+S2C.3.Ce.013	6/20/2013	16:10:00	PR	san_diego	2	ceiling	3	ceiling	013	2	no_data
+S2C.3.Dr.013	6/20/2013	16:10:00	PR	san_diego	2	ceiling	3	drywall	013	2	no_data
+S2F.3.Ca.013	6/20/2013	16:10:00	PR	san_diego	2	floor	3	carpet	013	2	no_data
+S2F.3.Ce.013	6/20/2013	16:10:00	PR	san_diego	2	floor	3	ceiling	013	2	no_data
+S2F.3.Dr.013	6/20/2013	16:10:00	PR	san_diego	2	floor	3	drywall	013	2	no_data
+S2W.3.Ca.013	6/20/2013	16:10:00	PR	san_diego	2	wall	3	carpet	013	2	no_data
+S2W.3.Ce.013	6/20/2013	16:10:00	PR	san_diego	2	wall	3	ceiling	013	2	no_data
+S2W.3.Dr.013	6/20/2013	16:10:00	PR	san_diego	2	wall	3	drywall	013	2	no_data
+S3C.3.Ca.013	6/20/2013	16:30:00	PR	san_diego	3	ceiling	3	carpet	013	2	no_data
+S3C.3.Ce.013	6/20/2013	16:30:00	PR	san_diego	3	ceiling	3	ceiling	013	2	no_data
+S3C.3.Dr.013	6/20/2013	16:30:00	PR	san_diego	3	ceiling	3	drywall	013	2	no_data
+S3F.3.Ca.013	6/20/2013	16:30:00	PR	san_diego	3	floor	3	carpet	013	2	no_data
+S3F.3.Ce.013	6/20/2013	16:30:00	PR	san_diego	3	floor	3	ceiling	013	2	no_data
+S3F.3.Dr.013	6/20/2013	16:30:00	PR	san_diego	3	floor	3	drywall	013	2	no_data
+S3W.3.Ca.013	6/20/2013	16:30:00	PR	san_diego	3	wall	3	carpet	013	2	no_data
+S3W.3.Ce.013	6/20/2013	16:30:00	PR	san_diego	3	wall	3	ceiling	013	2	no_data
+S3W.3.Dr.013	6/20/2013	16:30:00	PR	san_diego	3	wall	3	drywall	013	2	no_data
+S1C.3.Ca.014	6/22/2013	18:50:00	JF	san_diego	1	ceiling	3	carpet	014	2	no_data
+S1C.3.Ce.014	6/22/2013	18:50:00	JF	san_diego	1	ceiling	3	ceiling	014	2	no_data
+S1C.3.Dr.014	6/22/2013	18:50:00	JF	san_diego	1	ceiling	3	drywall	014	2	no_data
+S1F.3.Ca.014	6/22/2013	18:50:00	JF	san_diego	1	floor	3	carpet	014	2	no_data
+S1F.3.Ce.014	6/22/2013	18:50:00	JF	san_diego	1	floor	3	ceiling	014	2	no_data
+S1F.3.Dr.014	6/22/2013	18:50:00	JF	san_diego	1	floor	3	drywall	014	2	no_data
+S1W.3.Ca.014	6/22/2013	18:50:00	JF	san_diego	1	wall	3	carpet	014	2	no_data
+S1W.3.Ce.014	6/22/2013	18:50:00	JF	san_diego	1	wall	3	ceiling	014	2	no_data
+S1W.3.Dr.014	6/22/2013	18:50:00	JF	san_diego	1	wall	3	drywall	014	2	no_data
+S2C.3.Ca.014	6/22/2013	19:00:00	JF	san_diego	2	ceiling	3	carpet	014	2	no_data
+S2C.3.Ce.014	6/22/2013	19:00:00	JF	san_diego	2	ceiling	3	ceiling	014	2	no_data
+S2C.3.Dr.014	6/22/2013	19:00:00	JF	san_diego	2	ceiling	3	drywall	014	2	no_data
+S2F.3.Ca.014	6/22/2013	19:00:00	JF	san_diego	2	floor	3	carpet	014	2	no_data
+S2F.3.Ce.014	6/22/2013	19:00:00	JF	san_diego	2	floor	3	ceiling	014	2	no_data
+S2F.3.Dr.014	6/22/2013	19:00:00	JF	san_diego	2	floor	3	drywall	014	2	no_data
+S2W.3.Ca.014	6/22/2013	19:00:00	JF	san_diego	2	wall	3	carpet	014	2	no_data
+S2W.3.Ce.014	6/22/2013	19:00:00	JF	san_diego	2	wall	3	ceiling	014	2	no_data
+S2W.3.Dr.014	6/22/2013	19:00:00	JF	san_diego	2	wall	3	drywall	014	2	no_data
+S3C.3.Ca.014	6/22/2013	19:10:00	JF	san_diego	3	ceiling	3	carpet	014	2	no_data
+S3C.3.Ce.014	6/22/2013	19:10:00	JF	san_diego	3	ceiling	3	ceiling	014	2	no_data
+S3C.3.Dr.014	6/22/2013	19:10:00	JF	san_diego	3	ceiling	3	drywall	014	2	no_data
+S3F.3.Ca.014	6/22/2013	19:10:00	JF	san_diego	3	floor	3	carpet	014	2	no_data
+S3F.3.Ce.014	6/22/2013	19:10:00	JF	san_diego	3	floor	3	ceiling	014	2	no_data
+S3F.3.Dr.014	6/22/2013	19:10:00	JF	san_diego	3	floor	3	drywall	014	2	no_data
+S3W.3.Ca.014	6/22/2013	19:10:00	JF	san_diego	3	wall	3	carpet	014	2	no_data
+S3W.3.Ce.014	6/22/2013	19:10:00	JF	san_diego	3	wall	3	ceiling	014	2	no_data
+S3W.3.Dr.014	6/22/2013	19:10:00	JF	san_diego	3	wall	3	drywall	014	2	no_data
+S1C.3.Ca.015	6/24/2013	14:10:00	PR	san_diego	1	ceiling	3	carpet	015	3	no_data
+S1C.3.Ce.015	6/24/2013	14:10:00	PR	san_diego	1	ceiling	3	ceiling	015	3	no_data
+S1C.3.Dr.015	6/24/2013	14:10:00	PR	san_diego	1	ceiling	3	drywall	015	3	no_data
+S1F.3.Ca.015	6/24/2013	14:10:00	PR	san_diego	1	floor	3	carpet	015	3	no_data
+S1F.3.Ce.015	6/24/2013	14:10:00	PR	san_diego	1	floor	3	ceiling	015	3	no_data
+S1F.3.Dr.015	6/24/2013	14:10:00	PR	san_diego	1	floor	3	drywall	015	3	no_data
+S1W.3.Ca.015	6/24/2013	14:10:00	PR	san_diego	1	wall	3	carpet	015	3	no_data
+S1W.3.Ce.015	6/24/2013	14:10:00	PR	san_diego	1	wall	3	ceiling	015	3	no_data
+S1W.3.Dr.015	6/24/2013	14:10:00	PR	san_diego	1	wall	3	drywall	015	3	no_data
+S2C.3.Ca.015	6/24/2013	14:20:00	PR	san_diego	2	ceiling	3	carpet	015	3	no_data
+S2C.3.Ce.015	6/24/2013	14:20:00	PR	san_diego	2	ceiling	3	ceiling	015	3	no_data
+S2C.3.Dr.015	6/24/2013	14:20:00	PR	san_diego	2	ceiling	3	drywall	015	3	no_data
+S2F.3.Ca.015	6/24/2013	14:20:00	PR	san_diego	2	floor	3	carpet	015	3	no_data
+S2F.3.Ce.015	6/24/2013	14:20:00	PR	san_diego	2	floor	3	ceiling	015	3	no_data
+S2F.3.Dr.015	6/24/2013	14:20:00	PR	san_diego	2	floor	3	drywall	015	3	no_data
+S2W.3.Ca.015	6/24/2013	14:20:00	PR	san_diego	2	wall	3	carpet	015	3	no_data
+S2W.3.Ce.015	6/24/2013	14:20:00	PR	san_diego	2	wall	3	ceiling	015	3	no_data
+S2W.3.Dr.015	6/24/2013	14:20:00	PR	san_diego	2	wall	3	drywall	015	3	no_data
+S3C.3.Ca.015	6/24/2013	14:30:00	PR	san_diego	3	ceiling	3	carpet	015	3	no_data
+S3C.3.Ce.015	6/24/2013	14:30:00	PR	san_diego	3	ceiling	3	ceiling	015	3	no_data
+S3C.3.Dr.015	6/24/2013	14:30:00	PR	san_diego	3	ceiling	3	drywall	015	3	no_data
+S3F.3.Ca.015	6/24/2013	14:30:00	PR	san_diego	3	floor	3	carpet	015	3	no_data
+S3F.3.Ce.015	6/24/2013	14:30:00	PR	san_diego	3	floor	3	ceiling	015	3	no_data
+S3F.3.Dr.015	6/24/2013	14:30:00	PR	san_diego	3	floor	3	drywall	015	3	no_data
+S3W.3.Ca.015	6/24/2013	14:30:00	PR, 1 expired swab used, same brand double tip (ran out of new)	san_diego	3	wall	3	carpet	015	3	no_data
+S3W.3.Ce.015	6/24/2013	14:30:00	PR, 1 expired swab used, same brand double tip (ran out of new)	san_diego	3	wall	3	ceiling	015	3	no_data
+S3W.3.Dr.015	6/24/2013	14:30:00	PR, 1 expired swab used, same brand double tip (ran out of new)	san_diego	3	wall	3	drywall	015	3	no_data
+S1C.3.Ca.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	ceiling	3	carpet	016	3	no_data
+S1C.3.Ce.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	ceiling	3	ceiling	016	3	no_data
+S1C.3.Dr.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	ceiling	3	drywall	016	3	no_data
+S1F.3.Ca.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	floor	3	carpet	016	3	no_data
+S1F.3.Ce.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	floor	3	ceiling	016	3	no_data
+S1F.3.Dr.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	floor	3	drywall	016	3	no_data
+S1W.3.Ca.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	wall	3	carpet	016	3	no_data
+S1W.3.Ce.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	wall	3	ceiling	016	3	no_data
+S1W.3.Dr.016	6/27/2013	17:25:00	JF, 1 day late (swab shortage)	san_diego	1	wall	3	drywall	016	3	no_data
+S2C.3.Ca.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	ceiling	3	carpet	016	3	no_data
+S2C.3.Ce.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	ceiling	3	ceiling	016	3	no_data
+S2C.3.Dr.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	ceiling	3	drywall	016	3	no_data
+S2F.3.Ca.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	floor	3	carpet	016	3	no_data
+S2F.3.Ce.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	floor	3	ceiling	016	3	no_data
+S2F.3.Dr.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage), little dustbunnies on drywall sample	san_diego	2	floor	3	drywall	016	3	no_data
+S2W.3.Ca.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	wall	3	carpet	016	3	no_data
+S2W.3.Ce.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	wall	3	ceiling	016	3	no_data
+S2W.3.Dr.016	6/27/2013	17:45:00	JF, 1 day late (swab shortage)	san_diego	2	wall	3	drywall	016	3	no_data
+S3C.3.Ca.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage)	san_diego	3	ceiling	3	carpet	016	3	no_data
+S3C.3.Ce.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage)	san_diego	3	ceiling	3	ceiling	016	3	no_data
+S3C.3.Dr.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage)	san_diego	3	ceiling	3	drywall	016	3	no_data
+S3F.3.Ca.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), lots of spiderwebs, spider MIA	san_diego	3	floor	3	carpet	016	3	no_data
+S3F.3.Ce.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), lots of spiderwebs, spider MIA	san_diego	3	floor	3	ceiling	016	3	no_data
+S3F.3.Dr.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), lots of spiderwebs, spider MIA	san_diego	3	floor	3	drywall	016	3	no_data
+S3W.3.Ca.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), visible dog hair near wall plate	san_diego	3	wall	3	carpet	016	3	no_data
+S3W.3.Ce.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), visible dog hair near wall plate	san_diego	3	wall	3	ceiling	016	3	no_data
+S3W.3.Dr.016	6/27/2013	18:00:00	JF, 1 day late (swab shortage), visible dog hair near wall plate	san_diego	3	wall	3	drywall	016	3	no_data
+S1C.3.Ca.017	6/28/2013	14:50:00	PR	san_diego	1	ceiling	3	carpet	017	3	no_data
+S1C.3.Ce.017	6/28/2013	14:50:00	PR	san_diego	1	ceiling	3	ceiling	017	3	no_data
+S1C.3.Dr.017	6/28/2013	14:50:00	PR	san_diego	1	ceiling	3	drywall	017	3	no_data
+S1F.3.Ca.017	6/28/2013	14:50:00	PR	san_diego	1	floor	3	carpet	017	3	no_data
+S1F.3.Ce.017	6/28/2013	14:50:00	PR	san_diego	1	floor	3	ceiling	017	3	no_data
+S1F.3.Dr.017	6/28/2013	14:50:00	PR	san_diego	1	floor	3	drywall	017	3	no_data
+S1W.3.Ca.017	6/28/2013	14:50:00	PR	san_diego	1	wall	3	carpet	017	3	no_data
+S1W.3.Ce.017	6/28/2013	14:50:00	PR	san_diego	1	wall	3	ceiling	017	3	no_data
+S1W.3.Dr.017	6/28/2013	14:50:00	PR	san_diego	1	wall	3	drywall	017	3	no_data
+S2C.3.Ca.017	6/28/2013	17:10:00	PR	san_diego	2	ceiling	3	carpet	017	3	no_data
+S2C.3.Ce.017	6/28/2013	17:10:00	PR	san_diego	2	ceiling	3	ceiling	017	3	no_data
+S2C.3.Dr.017	6/28/2013	17:10:00	PR	san_diego	2	ceiling	3	drywall	017	3	no_data
+S2F.3.Ca.017	6/28/2013	17:10:00	PR	san_diego	2	floor	3	carpet	017	3	no_data
+S2F.3.Ce.017	6/28/2013	17:10:00	PR	san_diego	2	floor	3	ceiling	017	3	no_data
+S2F.3.Dr.017	6/28/2013	17:10:00	PR	san_diego	2	floor	3	drywall	017	3	no_data
+S2W.3.Ca.017	6/28/2013	17:10:00	PR	san_diego	2	wall	3	carpet	017	3	no_data
+S2W.3.Ce.017	6/28/2013	17:10:00	PR	san_diego	2	wall	3	ceiling	017	3	no_data
+S2W.3.Dr.017	6/28/2013	17:10:00	PR	san_diego	2	wall	3	drywall	017	3	no_data
+S3C.3.Ca.017	6/28/2013	17:30:00	PR	san_diego	3	ceiling	3	carpet	017	3	no_data
+S3C.3.Ce.017	6/28/2013	17:30:00	PR	san_diego	3	ceiling	3	ceiling	017	3	no_data
+S3C.3.Dr.017	6/28/2013	17:30:00	PR	san_diego	3	ceiling	3	drywall	017	3	no_data
+S3F.3.Ca.017	6/28/2013	17:30:00	PR	san_diego	3	floor	3	carpet	017	3	no_data
+S3F.3.Ce.017	6/28/2013	17:30:00	PR	san_diego	3	floor	3	ceiling	017	3	no_data
+S3F.3.Dr.017	6/28/2013	17:30:00	PR	san_diego	3	floor	3	drywall	017	3	no_data
+S3W.3.Ca.017	6/28/2013	17:30:00	PR	san_diego	3	wall	3	carpet	017	3	no_data
+S3W.3.Ce.017	6/28/2013	17:30:00	PR	san_diego	3	wall	3	ceiling	017	3	no_data
+S3W.3.Dr.017	6/28/2013	17:30:00	PR	san_diego	3	wall	3	drywall	017	3	no_data
+S1C.3.Ca.018	6/30/2013	16:50:00	PR	san_diego	1	ceiling	3	carpet	018	3	no_data
+S1C.3.Ce.018	6/30/2013	16:50:00	PR	san_diego	1	ceiling	3	ceiling	018	3	no_data
+S1C.3.Dr.018	6/30/2013	16:50:00	PR	san_diego	1	ceiling	3	drywall	018	3	no_data
+S1F.3.Ca.018	6/30/2013	16:50:00	PR	san_diego	1	floor	3	carpet	018	3	no_data
+S1F.3.Ce.018	6/30/2013	16:50:00	PR	san_diego	1	floor	3	ceiling	018	3	no_data
+S1F.3.Dr.018	6/30/2013	16:50:00	PR	san_diego	1	floor	3	drywall	018	3	no_data
+S1W.3.Ca.018	6/30/2013	16:50:00	PR	san_diego	1	wall	3	carpet	018	3	no_data
+S1W.3.Ce.018	6/30/2013	16:50:00	PR	san_diego	1	wall	3	ceiling	018	3	no_data
+S1W.3.Dr.018	6/30/2013	16:50:00	PR	san_diego	1	wall	3	drywall	018	3	no_data
+S2C.3.Ca.018	6/30/2013	17:10:00	PR	san_diego	2	ceiling	3	carpet	018	3	no_data
+S2C.3.Ce.018	6/30/2013	17:10:00	PR	san_diego	2	ceiling	3	ceiling	018	3	no_data
+S2C.3.Dr.018	6/30/2013	17:10:00	PR	san_diego	2	ceiling	3	drywall	018	3	no_data
+S2F.3.Ca.018	6/30/2013	17:10:00	PR	san_diego	2	floor	3	carpet	018	3	no_data
+S2F.3.Ce.018	6/30/2013	17:10:00	PR	san_diego	2	floor	3	ceiling	018	3	no_data
+S2F.3.Dr.018	6/30/2013	17:10:00	PR	san_diego	2	floor	3	drywall	018	3	no_data
+S2W.3.Ca.018	6/30/2013	17:10:00	PR	san_diego	2	wall	3	carpet	018	3	no_data
+S2W.3.Ce.018	6/30/2013	17:10:00	PR	san_diego	2	wall	3	ceiling	018	3	no_data
+S2W.3.Dr.018	6/30/2013	17:10:00	PR	san_diego	2	wall	3	drywall	018	3	no_data
+S3C.3.Ca.018	6/30/2013	17:35:00	PR	san_diego	3	ceiling	3	carpet	018	3	no_data
+S3C.3.Ce.018	6/30/2013	17:35:00	PR	san_diego	3	ceiling	3	ceiling	018	3	no_data
+S3C.3.Dr.018	6/30/2013	17:35:00	PR	san_diego	3	ceiling	3	drywall	018	3	no_data
+S3F.3.Ca.018	6/30/2013	17:35:00	PR	san_diego	3	floor	3	carpet	018	3	no_data
+S3F.3.Ce.018	6/30/2013	17:35:00	PR	san_diego	3	floor	3	ceiling	018	3	no_data
+S3F.3.Dr.018	6/30/2013	17:35:00	PR	san_diego	3	floor	3	drywall	018	3	no_data
+S3W.3.Ca.018	6/30/2013	17:35:00	PR	san_diego	3	wall	3	carpet	018	3	no_data
+S3W.3.Ce.018	6/30/2013	17:35:00	PR	san_diego	3	wall	3	ceiling	018	3	no_data
+S3W.3.Dr.018	6/30/2013	17:35:00	PR	san_diego	3	wall	3	drywall	018	3	no_data
+S1C.3.Ca.019	7/2/2013	16:10:00	PR	san_diego	1	ceiling	3	carpet	019	3	no_data
+S1C.3.Ce.019	7/2/2013	16:10:00	PR	san_diego	1	ceiling	3	ceiling	019	3	no_data
+S1C.3.Dr.019	7/2/2013	16:10:00	PR	san_diego	1	ceiling	3	drywall	019	3	no_data
+S1F.3.Ca.019	7/2/2013	16:10:00	PR	san_diego	1	floor	3	carpet	019	3	no_data
+S1F.3.Ce.019	7/2/2013	16:10:00	PR	san_diego	1	floor	3	ceiling	019	3	no_data
+S1F.3.Dr.019	7/2/2013	16:10:00	PR	san_diego	1	floor	3	drywall	019	3	no_data
+S1W.3.Ca.019	7/2/2013	16:10:00	PR	san_diego	1	wall	3	carpet	019	3	no_data
+S1W.3.Ce.019	7/2/2013	16:10:00	PR	san_diego	1	wall	3	ceiling	019	3	no_data
+S1W.3.Dr.019	7/2/2013	16:10:00	PR	san_diego	1	wall	3	drywall	019	3	no_data
+S2C.3.Ca.019	7/2/2013	16:30:00	PR	san_diego	2	ceiling	3	carpet	019	3	no_data
+S2C.3.Ce.019	7/2/2013	16:30:00	PR	san_diego	2	ceiling	3	ceiling	019	3	no_data
+S2C.3.Dr.019	7/2/2013	16:30:00	PR	san_diego	2	ceiling	3	drywall	019	3	no_data
+S2F.3.Ca.019	7/2/2013	16:30:00	PR	san_diego	2	floor	3	carpet	019	3	no_data
+S2F.3.Ce.019	7/2/2013	16:30:00	PR	san_diego	2	floor	3	ceiling	019	3	no_data
+S2F.3.Dr.019	7/2/2013	16:30:00	PR	san_diego	2	floor	3	drywall	019	3	no_data
+S2W.3.Ca.019	7/2/2013	16:30:00	PR	san_diego	2	wall	3	carpet	019	3	no_data
+S2W.3.Ce.019	7/2/2013	16:30:00	PR	san_diego	2	wall	3	ceiling	019	3	no_data
+S2W.3.Dr.019	7/2/2013	16:30:00	PR	san_diego	2	wall	3	drywall	019	3	no_data
+S3C.3.Ca.019	7/2/2013	16:50:00	PR	san_diego	3	ceiling	3	carpet	019	3	no_data
+S3C.3.Ce.019	7/2/2013	16:50:00	PR	san_diego	3	ceiling	3	ceiling	019	3	no_data
+S3C.3.Dr.019	7/2/2013	16:50:00	PR	san_diego	3	ceiling	3	drywall	019	3	no_data
+S3F.3.Ca.019	7/2/2013	16:50:00	PR	san_diego	3	floor	3	carpet	019	3	no_data
+S3F.3.Ce.019	7/2/2013	16:50:00	PR	san_diego	3	floor	3	ceiling	019	3	no_data
+S3F.3.Dr.019	7/2/2013	16:50:00	PR	san_diego	3	floor	3	drywall	019	3	no_data
+S3W.3.Ca.019	7/2/2013	16:50:00	PR	san_diego	3	wall	3	carpet	019	3	no_data
+S3W.3.Ce.019	7/2/2013	16:50:00	PR	san_diego	3	wall	3	ceiling	019	3	no_data
+S3W.3.Dr.019	7/2/2013	16:50:00	PR	san_diego	3	wall	3	drywall	019	3	no_data
+S1C.3.Ca.020	7/4/2013	17:20:00	JF	san_diego	1	ceiling	3	carpet	020	3	no_data
+S1C.3.Ce.020	7/4/2013	17:20:00	JF	san_diego	1	ceiling	3	ceiling	020	3	no_data
+S1C.3.Dr.020	7/4/2013	17:20:00	JF	san_diego	1	ceiling	3	drywall	020	3	no_data
+S1F.3.Ca.020	7/4/2013	17:20:00	JF	san_diego	1	floor	3	carpet	020	3	no_data
+S1F.3.Ce.020	7/4/2013	17:20:00	JF	san_diego	1	floor	3	ceiling	020	3	no_data
+S1F.3.Dr.020	7/4/2013	17:20:00	JF	san_diego	1	floor	3	drywall	020	3	no_data
+S1W.3.Ca.020	7/4/2013	17:20:00	JF	san_diego	1	wall	3	carpet	020	3	no_data
+S1W.3.Ce.020	7/4/2013	17:20:00	JF	san_diego	1	wall	3	ceiling	020	3	no_data
+S1W.3.Dr.020	7/4/2013	17:20:00	JF	san_diego	1	wall	3	drywall	020	3	no_data
+S2C.3.Ca.020	7/4/2013	17:30:00	JF	san_diego	2	ceiling	3	carpet	020	3	no_data
+S2C.3.Ce.020	7/4/2013	17:30:00	JF	san_diego	2	ceiling	3	ceiling	020	3	no_data
+S2C.3.Dr.020	7/4/2013	17:30:00	JF	san_diego	2	ceiling	3	drywall	020	3	no_data
+S2F.3.Ca.020	7/4/2013	17:30:00	JF	san_diego	2	floor	3	carpet	020	3	no_data
+S2F.3.Ce.020	7/4/2013	17:30:00	JF	san_diego	2	floor	3	ceiling	020	3	no_data
+S2F.3.Dr.020	7/4/2013	17:30:00	JF	san_diego	2	floor	3	drywall	020	3	no_data
+S2W.3.Ca.020	7/4/2013	17:30:00	JF	san_diego	2	wall	3	carpet	020	3	no_data
+S2W.3.Ce.020	7/4/2013	17:30:00	JF	san_diego	2	wall	3	ceiling	020	3	no_data
+S2W.3.Dr.020	7/4/2013	17:30:00	JF	san_diego	2	wall	3	drywall	020	3	no_data
+S3C.3.Ca.020	7/4/2013	17:45:00	JF	san_diego	3	ceiling	3	carpet	020	3	no_data
+S3C.3.Ce.020	7/4/2013	17:45:00	JF	san_diego	3	ceiling	3	ceiling	020	3	no_data
+S3C.3.Dr.020	7/4/2013	17:45:00	JF	san_diego	3	ceiling	3	drywall	020	3	no_data
+S3F.3.Ca.020	7/4/2013	17:45:00	JF	san_diego	3	floor	3	carpet	020	3	no_data
+S3F.3.Ce.020	7/4/2013	17:45:00	JF	san_diego	3	floor	3	ceiling	020	3	no_data
+S3F.3.Dr.020	7/4/2013	17:45:00	JF	san_diego	3	floor	3	drywall	020	3	no_data
+S3W.3.Ca.020	7/4/2013	17:45:00	JF	san_diego	3	wall	3	carpet	020	3	no_data
+S3W.3.Ce.020	7/4/2013	17:45:00	JF	san_diego	3	wall	3	ceiling	020	3	no_data
+S3W.3.Dr.020	7/4/2013	17:45:00	JF	san_diego	3	wall	3	drywall	020	3	no_data
+S1C.3.Ca.021	7/6/2013	10:50:00	JF	san_diego	1	ceiling	3	carpet	021	3	no_data
+S1C.3.Ce.021	7/6/2013	10:50:00	JF	san_diego	1	ceiling	3	ceiling	021	3	no_data
+S1C.3.Dr.021	7/6/2013	10:50:00	JF	san_diego	1	ceiling	3	drywall	021	3	no_data
+S1F.3.Ca.021	7/6/2013	10:50:00	JF	san_diego	1	floor	3	carpet	021	3	no_data
+S1F.3.Ce.021	7/6/2013	10:50:00	JF	san_diego	1	floor	3	ceiling	021	3	no_data
+S1F.3.Dr.021	7/6/2013	10:50:00	JF	san_diego	1	floor	3	drywall	021	3	no_data
+S1W.3.Ca.021	7/6/2013	10:50:00	JF	san_diego	1	wall	3	carpet	021	3	no_data
+S1W.3.Ce.021	7/6/2013	10:50:00	JF	san_diego	1	wall	3	ceiling	021	3	no_data
+S1W.3.Dr.021	7/6/2013	10:50:00	JF	san_diego	1	wall	3	drywall	021	3	no_data
+S2C.3.Ca.021	7/6/2013	11:05:00	JF	san_diego	2	ceiling	3	carpet	021	3	no_data
+S2C.3.Ce.021	7/6/2013	11:05:00	JF	san_diego	2	ceiling	3	ceiling	021	3	no_data
+S2C.3.Dr.021	7/6/2013	11:05:00	JF	san_diego	2	ceiling	3	drywall	021	3	no_data
+S2F.3.Ca.021	7/6/2013	11:05:00	JF	san_diego	2	floor	3	carpet	021	3	no_data
+S2F.3.Ce.021	7/6/2013	11:05:00	JF	san_diego	2	floor	3	ceiling	021	3	no_data
+S2F.3.Dr.021	7/6/2013	11:05:00	JF	san_diego	2	floor	3	drywall	021	3	no_data
+S2W.3.Ca.021	7/6/2013	11:05:00	JF	san_diego	2	wall	3	carpet	021	3	no_data
+S2W.3.Ce.021	7/6/2013	11:05:00	JF	san_diego	2	wall	3	ceiling	021	3	no_data
+S2W.3.Dr.021	7/6/2013	11:05:00	JF	san_diego	2	wall	3	drywall	021	3	no_data
+S3C.3.Ca.021	7/6/2013	11:15:00	JF	san_diego	3	ceiling	3	carpet	021	3	no_data
+S3C.3.Ce.021	7/6/2013	11:15:00	JF	san_diego	3	ceiling	3	ceiling	021	3	no_data
+S3C.3.Dr.021	7/6/2013	11:15:00	JF	san_diego	3	ceiling	3	drywall	021	3	no_data
+S3F.3.Ca.021	7/6/2013	11:15:00	JF	san_diego	3	floor	3	carpet	021	3	no_data
+S3F.3.Ce.021	7/6/2013	11:15:00	JF	san_diego	3	floor	3	ceiling	021	3	no_data
+S3F.3.Dr.021	7/6/2013	11:15:00	JF	san_diego	3	floor	3	drywall	021	3	no_data
+S3W.3.Ca.021	7/6/2013	11:15:00	JF	san_diego	3	wall	3	carpet	021	3	no_data
+S3W.3.Ce.021	7/6/2013	11:15:00	JF	san_diego	3	wall	3	ceiling	021	3	no_data
+S3W.3.Dr.021	7/6/2013	11:15:00	JF	san_diego	3	wall	3	drywall	021	3	no_data
+S1C.3.Ca.022	7/8/2013	14:50:00	PR	san_diego	1	ceiling	3	carpet	022	3	no_data
+S1C.3.Ce.022	7/8/2013	14:50:00	PR	san_diego	1	ceiling	3	ceiling	022	3	no_data
+S1C.3.Dr.022	7/8/2013	14:50:00	PR	san_diego	1	ceiling	3	drywall	022	3	no_data
+S1F.3.Ca.022	7/8/2013	14:50:00	PR	san_diego	1	floor	3	carpet	022	3	no_data
+S1F.3.Ce.022	7/8/2013	14:50:00	PR	san_diego	1	floor	3	ceiling	022	3	no_data
+S1F.3.Dr.022	7/8/2013	14:50:00	PR	san_diego	1	floor	3	drywall	022	3	no_data
+S1W.3.Ca.022	7/8/2013	14:50:00	PR	san_diego	1	wall	3	carpet	022	3	no_data
+S1W.3.Ce.022	7/8/2013	14:50:00	PR	san_diego	1	wall	3	ceiling	022	3	no_data
+S1W.3.Dr.022	7/8/2013	14:50:00	PR	san_diego	1	wall	3	drywall	022	3	no_data
+S2C.3.Ca.022	7/8/2013	14:10:00	PR	san_diego	2	ceiling	3	carpet	022	3	no_data
+S2C.3.Ce.022	7/8/2013	14:10:00	PR	san_diego	2	ceiling	3	ceiling	022	3	no_data
+S2C.3.Dr.022	7/8/2013	14:10:00	PR	san_diego	2	ceiling	3	drywall	022	3	no_data
+S2F.3.Ca.022	7/8/2013	14:10:00	PR	san_diego	2	floor	3	carpet	022	3	no_data
+S2F.3.Ce.022	7/8/2013	14:10:00	PR	san_diego	2	floor	3	ceiling	022	3	no_data
+S2F.3.Dr.022	7/8/2013	14:10:00	PR	san_diego	2	floor	3	drywall	022	3	no_data
+S2W.3.Ca.022	7/8/2013	14:10:00	PR	san_diego	2	wall	3	carpet	022	3	no_data
+S2W.3.Ce.022	7/8/2013	14:10:00	PR	san_diego	2	wall	3	ceiling	022	3	no_data
+S2W.3.Dr.022	7/8/2013	14:10:00	PR	san_diego	2	wall	3	drywall	022	3	no_data
+S3C.3.Ca.022	7/8/2013	14:30:00	PR	san_diego	3	ceiling	3	carpet	022	3	no_data
+S3C.3.Ce.022	7/8/2013	14:30:00	PR	san_diego	3	ceiling	3	ceiling	022	3	no_data
+S3C.3.Dr.022	7/8/2013	14:30:00	PR	san_diego	3	ceiling	3	drywall	022	3	no_data
+S3F.3.Ca.022	7/8/2013	14:30:00	PR	san_diego	3	floor	3	carpet	022	3	no_data
+S3F.3.Ce.022	7/8/2013	14:30:00	PR	san_diego	3	floor	3	ceiling	022	3	no_data
+S3F.3.Dr.022	7/8/2013	14:30:00	PR	san_diego	3	floor	3	drywall	022	3	no_data
+S3W.3.Ca.022	7/8/2013	14:30:00	PR	san_diego	3	wall	3	carpet	022	3	no_data
+S3W.3.Ce.022	7/8/2013	14:30:00	PR	san_diego	3	wall	3	ceiling	022	3	no_data
+S3W.3.Dr.022	7/8/2013	14:30:00	PR	san_diego	3	wall	3	drywall	022	3	no_data
+S1C.3.Ca.023	7/10/2013	16:30:00	JF	san_diego	1	ceiling	3	carpet	023	3	no_data
+S1C.3.Ce.023	7/10/2013	16:30:00	JF	san_diego	1	ceiling	3	ceiling	023	3	no_data
+S1C.3.Dr.023	7/10/2013	16:30:00	JF	san_diego	1	ceiling	3	drywall	023	3	no_data
+S1F.3.Ca.023	7/10/2013	16:30:00	JF	san_diego	1	floor	3	carpet	023	3	no_data
+S1F.3.Ce.023	7/10/2013	16:30:00	JF	san_diego	1	floor	3	ceiling	023	3	no_data
+S1F.3.Dr.023	7/10/2013	16:30:00	JF	san_diego	1	floor	3	drywall	023	3	no_data
+S1W.3.Ca.023	7/10/2013	16:30:00	JF	san_diego	1	wall	3	carpet	023	3	no_data
+S1W.3.Ce.023	7/10/2013	16:30:00	JF	san_diego	1	wall	3	ceiling	023	3	no_data
+S1W.3.Dr.023	7/10/2013	16:30:00	JF	san_diego	1	wall	3	drywall	023	3	no_data
+S2C.3.Ca.023	7/10/2013	16:40:00	JF	san_diego	2	ceiling	3	carpet	023	3	no_data
+S2C.3.Ce.023	7/10/2013	16:40:00	JF	san_diego	2	ceiling	3	ceiling	023	3	no_data
+S2C.3.Dr.023	7/10/2013	16:40:00	JF	san_diego	2	ceiling	3	drywall	023	3	no_data
+S2F.3.Ca.023	7/10/2013	16:40:00	JF	san_diego	2	floor	3	carpet	023	3	no_data
+S2F.3.Ce.023	7/10/2013	16:40:00	JF	san_diego	2	floor	3	ceiling	023	3	no_data
+S2F.3.Dr.023	7/10/2013	16:40:00	JF	san_diego	2	floor	3	drywall	023	3	no_data
+S2W.3.Ca.023	7/10/2013	16:40:00	JF	san_diego	2	wall	3	carpet	023	3	no_data
+S2W.3.Ce.023	7/10/2013	16:40:00	JF	san_diego	2	wall	3	ceiling	023	3	no_data
+S2W.3.Dr.023	7/10/2013	16:40:00	JF	san_diego	2	wall	3	drywall	023	3	no_data
+S3C.3.Ca.023	7/10/2013	16:50:00	JF	san_diego	3	ceiling	3	carpet	023	3	no_data
+S3C.3.Ce.023	7/10/2013	16:50:00	JF	san_diego	3	ceiling	3	ceiling	023	3	no_data
+S3C.3.Dr.023	7/10/2013	16:50:00	JF	san_diego	3	ceiling	3	drywall	023	3	no_data
+S3F.3.Ca.023	7/10/2013	16:50:00	JF	san_diego	3	floor	3	carpet	023	3	no_data
+S3F.3.Ce.023	7/10/2013	16:50:00	JF	san_diego	3	floor	3	ceiling	023	3	no_data
+S3F.3.Dr.023	7/10/2013	16:50:00	JF	san_diego	3	floor	3	drywall	023	3	no_data
+S3W.3.Ca.023	7/10/2013	16:50:00	JF	san_diego	3	wall	3	carpet	023	3	no_data
+S3W.3.Ce.023	7/10/2013	16:50:00	JF	san_diego	3	wall	3	ceiling	023	3	no_data
+S3W.3.Dr.023	7/10/2013	16:50:00	JF	san_diego	3	wall	3	drywall	023	3	no_data
+S1C.3.Ca.024	9/23/2013	12:10:00	no_data	san_diego	1	ceiling	3	carpet	024	3	no_data
+S1C.3.Ce.024	9/23/2013	12:10:00	no_data	san_diego	1	ceiling	3	ceiling	024	3	no_data
+S1C.3.Dr.024	9/23/2013	12:10:00	no_data	san_diego	1	ceiling	3	drywall	024	3	no_data
+S1F.3.Ca.024	9/23/2013	12:10:00	no_data	san_diego	1	floor	3	carpet	024	3	no_data
+S1F.3.Ce.024	9/23/2013	12:10:00	no_data	san_diego	1	floor	3	ceiling	024	3	no_data
+S1F.3.Dr.024	9/23/2013	12:10:00	no_data	san_diego	1	floor	3	drywall	024	3	no_data
+S1W.3.Ca.024	9/23/2013	12:10:00	no_data	san_diego	1	wall	3	carpet	024	3	no_data
+S1W.3.Ce.024	9/23/2013	12:10:00	no_data	san_diego	1	wall	3	ceiling	024	3	no_data
+S1W.3.Dr.024	9/23/2013	12:10:00	no_data	san_diego	1	wall	3	drywall	024	3	no_data
+S2C.3.Ca.024	9/23/2013	12:20:00	no_data	san_diego	2	ceiling	3	carpet	024	3	no_data
+S2C.3.Ce.024	9/23/2013	12:20:00	no_data	san_diego	2	ceiling	3	ceiling	024	3	no_data
+S2C.3.Dr.024	9/23/2013	12:20:00	no_data	san_diego	2	ceiling	3	drywall	024	3	no_data
+S2F.3.Ca.024	9/23/2013	12:20:00	no_data	san_diego	2	floor	3	carpet	024	3	no_data
+S2F.3.Ce.024	9/23/2013	12:20:00	no_data	san_diego	2	floor	3	ceiling	024	3	no_data
+S2F.3.Dr.024	9/23/2013	12:20:00	no_data	san_diego	2	floor	3	drywall	024	3	no_data
+S2W.3.Ca.024	9/23/2013	12:20:00	no_data	san_diego	2	wall	3	carpet	024	3	no_data
+S2W.3.Ce.024	9/23/2013	12:20:00	no_data	san_diego	2	wall	3	ceiling	024	3	no_data
+S2W.3.Dr.024	9/23/2013	12:20:00	no_data	san_diego	2	wall	3	drywall	024	3	no_data
+S3C.3.Ca.024	9/23/2013	12:40:00	no_data	san_diego	3	ceiling	3	carpet	024	3	no_data
+S3C.3.Ce.024	9/23/2013	12:40:00	no_data	san_diego	3	ceiling	3	ceiling	024	3	no_data
+S3C.3.Dr.024	9/23/2013	12:40:00	no_data	san_diego	3	ceiling	3	drywall	024	3	no_data
+S3F.3.Ca.024	9/23/2013	12:40:00	no_data	san_diego	3	floor	3	carpet	024	3	no_data
+S3F.3.Ce.024	9/23/2013	12:40:00	no_data	san_diego	3	floor	3	ceiling	024	3	no_data
+S3F.3.Dr.024	9/23/2013	12:40:00	no_data	san_diego	3	floor	3	drywall	024	3	no_data
+S3W.3.Ca.024	9/23/2013	12:40:00	no_data	san_diego	3	wall	3	carpet	024	3	no_data
+S3W.3.Ce.024	9/23/2013	12:40:00	no_data	san_diego	3	wall	3	ceiling	024	3	no_data
+S3W.3.Dr.024	9/23/2013	12:40:00	no_data	san_diego	3	wall	3	drywall	024	3	no_data
+S1C.3.Ca.025	9/25/2013	15:30:00	no_data	san_diego	1	ceiling	3	carpet	025	3	no_data
+S1C.3.Ce.025	9/25/2013	15:30:00	no_data	san_diego	1	ceiling	3	ceiling	025	3	no_data
+S1C.3.Dr.025	9/25/2013	15:30:00	no_data	san_diego	1	ceiling	3	drywall	025	3	no_data
+S1F.3.Ca.025	9/25/2013	15:30:00	no_data	san_diego	1	floor	3	carpet	025	3	no_data
+S1F.3.Ce.025	9/25/2013	15:30:00	no_data	san_diego	1	floor	3	ceiling	025	3	no_data
+S1F.3.Dr.025	9/25/2013	15:30:00	no_data	san_diego	1	floor	3	drywall	025	3	no_data
+S1W.3.Ca.025	9/25/2013	15:30:00	no_data	san_diego	1	wall	3	carpet	025	3	no_data
+S1W.3.Ce.025	9/25/2013	15:30:00	no_data	san_diego	1	wall	3	ceiling	025	3	no_data
+S1W.3.Dr.025	9/25/2013	15:30:00	no_data	san_diego	1	wall	3	drywall	025	3	no_data
+S2C.3.Ca.025	9/25/2013	15:40:00	no_data	san_diego	2	ceiling	3	carpet	025	3	no_data
+S2C.3.Ce.025	9/25/2013	15:40:00	no_data	san_diego	2	ceiling	3	ceiling	025	3	no_data
+S2C.3.Dr.025	9/25/2013	15:40:00	no_data	san_diego	2	ceiling	3	drywall	025	3	no_data
+S2F.3.Ca.025	9/25/2013	15:40:00	no_data	san_diego	2	floor	3	carpet	025	3	no_data
+S2F.3.Ce.025	9/25/2013	15:40:00	no_data	san_diego	2	floor	3	ceiling	025	3	no_data
+S2F.3.Dr.025	9/25/2013	15:40:00	no_data	san_diego	2	floor	3	drywall	025	3	no_data
+S2W.3.Ca.025	9/25/2013	15:40:00	no_data	san_diego	2	wall	3	carpet	025	3	no_data
+S2W.3.Ce.025	9/25/2013	15:40:00	no_data	san_diego	2	wall	3	ceiling	025	3	no_data
+S2W.3.Dr.025	9/25/2013	15:40:00	no_data	san_diego	2	wall	3	drywall	025	3	no_data
+S3C.3.Ca.025	9/25/2013	15:50:00	no_data	san_diego	3	ceiling	3	carpet	025	3	no_data
+S3C.3.Ce.025	9/25/2013	15:50:00	no_data	san_diego	3	ceiling	3	ceiling	025	3	no_data
+S3C.3.Dr.025	9/25/2013	15:50:00	no_data	san_diego	3	ceiling	3	drywall	025	3	no_data
+S3F.3.Ca.025	9/25/2013	15:50:00	no_data	san_diego	3	floor	3	carpet	025	3	no_data
+S3F.3.Ce.025	9/25/2013	15:50:00	no_data	san_diego	3	floor	3	ceiling	025	3	no_data
+S3F.3.Dr.025	9/25/2013	15:50:00	no_data	san_diego	3	floor	3	drywall	025	3	no_data
+S3W.3.Ca.025	9/25/2013	15:50:00	no_data	san_diego	3	wall	3	carpet	025	3	no_data
+S3W.3.Ce.025	9/25/2013	15:50:00	no_data	san_diego	3	wall	3	ceiling	025	3	no_data
+S3W.3.Dr.025	9/25/2013	15:50:00	no_data	san_diego	3	wall	3	drywall	025	3	no_data
+S1C.3.Ca.026	9/27/2013	15:45:00	no_data	san_diego	1	ceiling	3	carpet	026	3	no_data
+S1C.3.Ce.026	9/27/2013	15:45:00	no_data	san_diego	1	ceiling	3	ceiling	026	3	no_data
+S1C.3.Dr.026	9/27/2013	15:45:00	no_data	san_diego	1	ceiling	3	drywall	026	3	no_data
+S1F.3.Ca.026	9/27/2013	15:45:00	no_data	san_diego	1	floor	3	carpet	026	3	no_data
+S1F.3.Ce.026	9/27/2013	15:45:00	no_data	san_diego	1	floor	3	ceiling	026	3	no_data
+S1F.3.Dr.026	9/27/2013	15:45:00	no_data	san_diego	1	floor	3	drywall	026	3	no_data
+S1W.3.Ca.026	9/27/2013	15:45:00	no_data	san_diego	1	wall	3	carpet	026	3	no_data
+S1W.3.Ce.026	9/27/2013	15:45:00	no_data	san_diego	1	wall	3	ceiling	026	3	no_data
+S1W.3.Dr.026	9/27/2013	15:45:00	no_data	san_diego	1	wall	3	drywall	026	3	no_data
+S2C.3.Ca.026	9/27/2013	15:55:00	no_data	san_diego	2	ceiling	3	carpet	026	3	no_data
+S2C.3.Ce.026	9/27/2013	15:55:00	no_data	san_diego	2	ceiling	3	ceiling	026	3	no_data
+S2C.3.Dr.026	9/27/2013	15:55:00	no_data	san_diego	2	ceiling	3	drywall	026	3	no_data
+S2F.3.Ca.026	9/27/2013	15:55:00	no_data	san_diego	2	floor	3	carpet	026	3	no_data
+S2F.3.Ce.026	9/27/2013	15:55:00	no_data	san_diego	2	floor	3	ceiling	026	3	no_data
+S2F.3.Dr.026	9/27/2013	15:55:00	no_data	san_diego	2	floor	3	drywall	026	3	no_data
+S2W.3.Ca.026	9/27/2013	15:55:00	no_data	san_diego	2	wall	3	carpet	026	3	no_data
+S2W.3.Ce.026	9/27/2013	15:55:00	no_data	san_diego	2	wall	3	ceiling	026	3	no_data
+S2W.3.Dr.026	9/27/2013	15:55:00	no_data	san_diego	2	wall	3	drywall	026	3	no_data
+S3C.3.Ca.026	9/27/2013	16:05:00	no_data	san_diego	3	ceiling	3	carpet	026	3	no_data
+S3C.3.Ce.026	9/27/2013	16:05:00	no_data	san_diego	3	ceiling	3	ceiling	026	3	no_data
+S3C.3.Dr.026	9/27/2013	16:05:00	no_data	san_diego	3	ceiling	3	drywall	026	3	no_data
+S3F.3.Ca.026	9/27/2013	16:05:00	no_data	san_diego	3	floor	3	carpet	026	3	no_data
+S3F.3.Ce.026	9/27/2013	16:05:00	no_data	san_diego	3	floor	3	ceiling	026	3	no_data
+S3F.3.Dr.026	9/27/2013	16:05:00	no_data	san_diego	3	floor	3	drywall	026	3	no_data
+S3W.3.Ca.026	9/27/2013	16:05:00	no_data	san_diego	3	wall	3	carpet	026	3	no_data
+S3W.3.Ce.026	9/27/2013	16:05:00	no_data	san_diego	3	wall	3	ceiling	026	3	no_data
+S3W.3.Dr.026	9/27/2013	16:05:00	no_data	san_diego	3	wall	3	drywall	026	3	no_data
+S1C.3.Ca.027	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	027	3	no_data
+S1C.3.Ce.027	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	027	3	no_data
+S1C.3.Dr.027	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	027	3	no_data
+S1F.3.Ca.027	no_data	no_data	no_data	san_diego	1	floor	3	carpet	027	3	no_data
+S1F.3.Ce.027	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	027	3	no_data
+S1F.3.Dr.027	no_data	no_data	no_data	san_diego	1	floor	3	drywall	027	3	no_data
+S1W.3.Ca.027	no_data	no_data	no_data	san_diego	1	wall	3	carpet	027	3	no_data
+S1W.3.Ce.027	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	027	3	no_data
+S1W.3.Dr.027	no_data	no_data	no_data	san_diego	1	wall	3	drywall	027	3	no_data
+S2C.3.Ca.027	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	027	3	no_data
+S2C.3.Ce.027	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	027	3	no_data
+S2C.3.Dr.027	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	027	3	no_data
+S2F.3.Ca.027	no_data	no_data	no_data	san_diego	2	floor	3	carpet	027	3	no_data
+S2F.3.Ce.027	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	027	3	no_data
+S2F.3.Dr.027	no_data	no_data	no_data	san_diego	2	floor	3	drywall	027	3	no_data
+S2W.3.Ca.027	no_data	no_data	no_data	san_diego	2	wall	3	carpet	027	3	no_data
+S2W.3.Ce.027	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	027	3	no_data
+S2W.3.Dr.027	no_data	no_data	no_data	san_diego	2	wall	3	drywall	027	3	no_data
+S3C.3.Ca.027	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	027	3	no_data
+S3C.3.Ce.027	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	027	3	no_data
+S3C.3.Dr.027	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	027	3	no_data
+S3F.3.Ca.027	no_data	no_data	no_data	san_diego	3	floor	3	carpet	027	3	no_data
+S3F.3.Ce.027	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	027	3	no_data
+S3F.3.Dr.027	no_data	no_data	no_data	san_diego	3	floor	3	drywall	027	3	no_data
+S3W.3.Ca.027	no_data	no_data	no_data	san_diego	3	wall	3	carpet	027	3	no_data
+S3W.3.Ce.027	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	027	3	no_data
+S3W.3.Dr.027	no_data	no_data	no_data	san_diego	3	wall	3	drywall	027	3	no_data
+S1C.3.Ca.028	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	028	3	no_data
+S1C.3.Ce.028	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	028	3	no_data
+S1C.3.Dr.028	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	028	3	no_data
+S1F.3.Ca.028	no_data	no_data	no_data	san_diego	1	floor	3	carpet	028	3	no_data
+S1F.3.Ce.028	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	028	3	no_data
+S1F.3.Dr.028	no_data	no_data	no_data	san_diego	1	floor	3	drywall	028	3	no_data
+S1W.3.Ca.028	no_data	no_data	no_data	san_diego	1	wall	3	carpet	028	3	no_data
+S1W.3.Ce.028	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	028	3	no_data
+S1W.3.Dr.028	no_data	no_data	no_data	san_diego	1	wall	3	drywall	028	3	no_data
+S2C.3.Ca.028	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	028	3	no_data
+S2C.3.Ce.028	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	028	3	no_data
+S2C.3.Dr.028	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	028	3	no_data
+S2F.3.Ca.028	no_data	no_data	no_data	san_diego	2	floor	3	carpet	028	3	no_data
+S2F.3.Ce.028	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	028	3	no_data
+S2F.3.Dr.028	no_data	no_data	no_data	san_diego	2	floor	3	drywall	028	3	no_data
+S2W.3.Ca.028	no_data	no_data	no_data	san_diego	2	wall	3	carpet	028	3	no_data
+S2W.3.Ce.028	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	028	3	no_data
+S2W.3.Dr.028	no_data	no_data	no_data	san_diego	2	wall	3	drywall	028	3	no_data
+S3C.3.Ca.028	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	028	3	no_data
+S3C.3.Ce.028	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	028	3	no_data
+S3C.3.Dr.028	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	028	3	no_data
+S3F.3.Ca.028	no_data	no_data	no_data	san_diego	3	floor	3	carpet	028	3	no_data
+S3F.3.Ce.028	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	028	3	no_data
+S3F.3.Dr.028	no_data	no_data	no_data	san_diego	3	floor	3	drywall	028	3	no_data
+S3W.3.Ca.028	no_data	no_data	no_data	san_diego	3	wall	3	carpet	028	3	no_data
+S3W.3.Ce.028	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	028	3	no_data
+S3W.3.Dr.028	no_data	no_data	no_data	san_diego	3	wall	3	drywall	028	3	no_data
+S1C.3.Ca.029	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	029	3	no_data
+S1C.3.Ce.029	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	029	3	no_data
+S1C.3.Dr.029	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	029	3	no_data
+S1F.3.Ca.029	no_data	no_data	no_data	san_diego	1	floor	3	carpet	029	3	no_data
+S1F.3.Ce.029	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	029	3	no_data
+S1F.3.Dr.029	no_data	no_data	no_data	san_diego	1	floor	3	drywall	029	3	no_data
+S1W.3.Ca.029	no_data	no_data	no_data	san_diego	1	wall	3	carpet	029	3	no_data
+S1W.3.Ce.029	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	029	3	no_data
+S1W.3.Dr.029	no_data	no_data	no_data	san_diego	1	wall	3	drywall	029	3	no_data
+S2C.3.Ca.029	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	029	3	no_data
+S2C.3.Ce.029	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	029	3	no_data
+S2C.3.Dr.029	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	029	3	no_data
+S2F.3.Ca.029	no_data	no_data	no_data	san_diego	2	floor	3	carpet	029	3	no_data
+S2F.3.Ce.029	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	029	3	no_data
+S2F.3.Dr.029	no_data	no_data	no_data	san_diego	2	floor	3	drywall	029	3	no_data
+S2W.3.Ca.029	no_data	no_data	no_data	san_diego	2	wall	3	carpet	029	3	no_data
+S2W.3.Ce.029	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	029	3	no_data
+S2W.3.Dr.029	no_data	no_data	no_data	san_diego	2	wall	3	drywall	029	3	no_data
+S3C.3.Ca.029	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	029	3	no_data
+S3C.3.Ce.029	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	029	3	no_data
+S3C.3.Dr.029	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	029	3	no_data
+S3F.3.Ca.029	no_data	no_data	no_data	san_diego	3	floor	3	carpet	029	3	no_data
+S3F.3.Ce.029	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	029	3	no_data
+S3F.3.Dr.029	no_data	no_data	no_data	san_diego	3	floor	3	drywall	029	3	no_data
+S3W.3.Ca.029	no_data	no_data	no_data	san_diego	3	wall	3	carpet	029	3	no_data
+S3W.3.Ce.029	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	029	3	no_data
+S3W.3.Dr.029	no_data	no_data	no_data	san_diego	3	wall	3	drywall	029	3	no_data
+S1C.3.Ca.030	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	030	3	no_data
+S1C.3.Ce.030	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	030	3	no_data
+S1C.3.Dr.030	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	030	3	no_data
+S1F.3.Ca.030	no_data	no_data	no_data	san_diego	1	floor	3	carpet	030	3	no_data
+S1F.3.Ce.030	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	030	3	no_data
+S1F.3.Dr.030	no_data	no_data	no_data	san_diego	1	floor	3	drywall	030	3	no_data
+S1W.3.Ca.030	no_data	no_data	no_data	san_diego	1	wall	3	carpet	030	3	no_data
+S1W.3.Ce.030	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	030	3	no_data
+S1W.3.Dr.030	no_data	no_data	no_data	san_diego	1	wall	3	drywall	030	3	no_data
+S2C.3.Ca.030	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	030	3	no_data
+S2C.3.Ce.030	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	030	3	no_data
+S2C.3.Dr.030	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	030	3	no_data
+S2F.3.Ca.030	no_data	no_data	no_data	san_diego	2	floor	3	carpet	030	3	no_data
+S2F.3.Ce.030	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	030	3	no_data
+S2F.3.Dr.030	no_data	no_data	no_data	san_diego	2	floor	3	drywall	030	3	no_data
+S2W.3.Ca.030	no_data	no_data	no_data	san_diego	2	wall	3	carpet	030	3	no_data
+S2W.3.Ce.030	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	030	3	no_data
+S2W.3.Dr.030	no_data	no_data	no_data	san_diego	2	wall	3	drywall	030	3	no_data
+S3C.3.Ca.030	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	030	3	no_data
+S3C.3.Ce.030	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	030	3	no_data
+S3C.3.Dr.030	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	030	3	no_data
+S3F.3.Ca.030	no_data	no_data	no_data	san_diego	3	floor	3	carpet	030	3	no_data
+S3F.3.Ce.030	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	030	3	no_data
+S3F.3.Dr.030	no_data	no_data	no_data	san_diego	3	floor	3	drywall	030	3	no_data
+S3W.3.Ca.030	no_data	no_data	no_data	san_diego	3	wall	3	carpet	030	3	no_data
+S3W.3.Ce.030	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	030	3	no_data
+S3W.3.Dr.030	no_data	no_data	no_data	san_diego	3	wall	3	drywall	030	3	no_data
+S1C.3.Ca.031	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	031	3	no_data
+S1C.3.Ce.031	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	031	3	no_data
+S1C.3.Dr.031	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	031	3	no_data
+S1F.3.Ca.031	no_data	no_data	no_data	san_diego	1	floor	3	carpet	031	3	no_data
+S1F.3.Ce.031	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	031	3	no_data
+S1F.3.Dr.031	no_data	no_data	no_data	san_diego	1	floor	3	drywall	031	3	no_data
+S1W.3.Ca.031	no_data	no_data	no_data	san_diego	1	wall	3	carpet	031	3	no_data
+S1W.3.Ce.031	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	031	3	no_data
+S1W.3.Dr.031	no_data	no_data	no_data	san_diego	1	wall	3	drywall	031	3	no_data
+S2C.3.Ca.031	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	031	3	no_data
+S2C.3.Ce.031	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	031	3	no_data
+S2C.3.Dr.031	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	031	3	no_data
+S2F.3.Ca.031	no_data	no_data	no_data	san_diego	2	floor	3	carpet	031	3	no_data
+S2F.3.Ce.031	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	031	3	no_data
+S2F.3.Dr.031	no_data	no_data	no_data	san_diego	2	floor	3	drywall	031	3	no_data
+S2W.3.Ca.031	no_data	no_data	no_data	san_diego	2	wall	3	carpet	031	3	no_data
+S2W.3.Ce.031	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	031	3	no_data
+S2W.3.Dr.031	no_data	no_data	no_data	san_diego	2	wall	3	drywall	031	3	no_data
+S3C.3.Ca.031	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	031	3	no_data
+S3C.3.Ce.031	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	031	3	no_data
+S3C.3.Dr.031	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	031	3	no_data
+S3F.3.Ca.031	no_data	no_data	no_data	san_diego	3	floor	3	carpet	031	3	no_data
+S3F.3.Ce.031	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	031	3	no_data
+S3F.3.Dr.031	no_data	no_data	no_data	san_diego	3	floor	3	drywall	031	3	no_data
+S3W.3.Ca.031	no_data	no_data	no_data	san_diego	3	wall	3	carpet	031	3	no_data
+S3W.3.Ce.031	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	031	3	no_data
+S3W.3.Dr.031	no_data	no_data	no_data	san_diego	3	wall	3	drywall	031	3	no_data
+S1C.3.Ca.032	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	032	3	no_data
+S1C.3.Ce.032	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	032	3	no_data
+S1C.3.Dr.032	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	032	3	no_data
+S1F.3.Ca.032	no_data	no_data	no_data	san_diego	1	floor	3	carpet	032	3	no_data
+S1F.3.Ce.032	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	032	3	no_data
+S1F.3.Dr.032	no_data	no_data	no_data	san_diego	1	floor	3	drywall	032	3	no_data
+S1W.3.Ca.032	no_data	no_data	no_data	san_diego	1	wall	3	carpet	032	3	no_data
+S1W.3.Ce.032	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	032	3	no_data
+S1W.3.Dr.032	no_data	no_data	no_data	san_diego	1	wall	3	drywall	032	3	no_data
+S2C.3.Ca.032	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	032	3	no_data
+S2C.3.Ce.032	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	032	3	no_data
+S2C.3.Dr.032	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	032	3	no_data
+S2F.3.Ca.032	no_data	no_data	no_data	san_diego	2	floor	3	carpet	032	3	no_data
+S2F.3.Ce.032	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	032	3	no_data
+S2F.3.Dr.032	no_data	no_data	no_data	san_diego	2	floor	3	drywall	032	3	no_data
+S2W.3.Ca.032	no_data	no_data	no_data	san_diego	2	wall	3	carpet	032	3	no_data
+S2W.3.Ce.032	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	032	3	no_data
+S2W.3.Dr.032	no_data	no_data	no_data	san_diego	2	wall	3	drywall	032	3	no_data
+S3C.3.Ca.032	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	032	3	no_data
+S3C.3.Ce.032	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	032	3	no_data
+S3C.3.Dr.032	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	032	3	no_data
+S3F.3.Ca.032	no_data	no_data	no_data	san_diego	3	floor	3	carpet	032	3	no_data
+S3F.3.Ce.032	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	032	3	no_data
+S3F.3.Dr.032	no_data	no_data	no_data	san_diego	3	floor	3	drywall	032	3	no_data
+S3W.3.Ca.032	no_data	no_data	no_data	san_diego	3	wall	3	carpet	032	3	no_data
+S3W.3.Ce.032	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	032	3	no_data
+S3W.3.Dr.032	no_data	no_data	no_data	san_diego	3	wall	3	drywall	032	3	no_data
+S1C.3.Ca.033	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	033	3	no_data
+S1C.3.Ce.033	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	033	3	no_data
+S1C.3.Dr.033	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	033	3	no_data
+S1F.3.Ca.033	no_data	no_data	no_data	san_diego	1	floor	3	carpet	033	3	no_data
+S1F.3.Ce.033	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	033	3	no_data
+S1F.3.Dr.033	no_data	no_data	no_data	san_diego	1	floor	3	drywall	033	3	no_data
+S1W.3.Ca.033	no_data	no_data	no_data	san_diego	1	wall	3	carpet	033	3	no_data
+S1W.3.Ce.033	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	033	3	no_data
+S1W.3.Dr.033	no_data	no_data	no_data	san_diego	1	wall	3	drywall	033	3	no_data
+S2C.3.Ca.033	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	033	3	no_data
+S2C.3.Ce.033	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	033	3	no_data
+S2C.3.Dr.033	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	033	3	no_data
+S2F.3.Ca.033	no_data	no_data	no_data	san_diego	2	floor	3	carpet	033	3	no_data
+S2F.3.Ce.033	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	033	3	no_data
+S2F.3.Dr.033	no_data	no_data	no_data	san_diego	2	floor	3	drywall	033	3	no_data
+S2W.3.Ca.033	no_data	no_data	no_data	san_diego	2	wall	3	carpet	033	3	no_data
+S2W.3.Ce.033	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	033	3	no_data
+S2W.3.Dr.033	no_data	no_data	no_data	san_diego	2	wall	3	drywall	033	3	no_data
+S3C.3.Ca.033	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	033	3	no_data
+S3C.3.Ce.033	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	033	3	no_data
+S3C.3.Dr.033	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	033	3	no_data
+S3F.3.Ca.033	no_data	no_data	no_data	san_diego	3	floor	3	carpet	033	3	no_data
+S3F.3.Ce.033	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	033	3	no_data
+S3F.3.Dr.033	no_data	no_data	no_data	san_diego	3	floor	3	drywall	033	3	no_data
+S3W.3.Ca.033	no_data	no_data	no_data	san_diego	3	wall	3	carpet	033	3	no_data
+S3W.3.Ce.033	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	033	3	no_data
+S3W.3.Dr.033	no_data	no_data	no_data	san_diego	3	wall	3	drywall	033	3	no_data
+S1C.2.Ca.033	no_data	no_data	no_data	san_diego	1	ceiling	2	carpet	033	3	no_data
+S1C.2.Ce.033	no_data	no_data	no_data	san_diego	1	ceiling	2	ceiling	033	3	no_data
+S1C.2.Dr.033	no_data	no_data	no_data	san_diego	1	ceiling	2	drywall	033	3	no_data
+S1F.2.Ca.033	no_data	no_data	no_data	san_diego	1	floor	2	carpet	033	3	no_data
+S1F.2.Ce.033	no_data	no_data	no_data	san_diego	1	floor	2	ceiling	033	3	no_data
+S1F.2.Dr.033	no_data	no_data	no_data	san_diego	1	floor	2	drywall	033	3	no_data
+S1W.2.Ca.033	no_data	no_data	no_data	san_diego	1	wall	2	carpet	033	3	no_data
+S1W.2.Ce.033	no_data	no_data	no_data	san_diego	1	wall	2	ceiling	033	3	no_data
+S1W.2.Dr.033	no_data	no_data	no_data	san_diego	1	wall	2	drywall	033	3	no_data
+S2C.2.Ca.033	no_data	no_data	no_data	san_diego	2	ceiling	2	carpet	033	3	no_data
+S2C.2.Ce.033	no_data	no_data	no_data	san_diego	2	ceiling	2	ceiling	033	3	no_data
+S2C.2.Dr.033	no_data	no_data	no_data	san_diego	2	ceiling	2	drywall	033	3	no_data
+S2F.2.Ca.033	no_data	no_data	no_data	san_diego	2	floor	2	carpet	033	3	no_data
+S2F.2.Ce.033	no_data	no_data	no_data	san_diego	2	floor	2	ceiling	033	3	no_data
+S2F.2.Dr.033	no_data	no_data	no_data	san_diego	2	floor	2	drywall	033	3	no_data
+S2W.2.Ca.033	no_data	no_data	no_data	san_diego	2	wall	2	carpet	033	3	no_data
+S2W.2.Ce.033	no_data	no_data	no_data	san_diego	2	wall	2	ceiling	033	3	no_data
+S2W.2.Dr.033	no_data	no_data	no_data	san_diego	2	wall	2	drywall	033	3	no_data
+S3C.2.Ca.033	no_data	no_data	no_data	san_diego	3	ceiling	2	carpet	033	3	no_data
+S3C.2.Ce.033	no_data	no_data	no_data	san_diego	3	ceiling	2	ceiling	033	3	no_data
+S3C.2.Dr.033	no_data	no_data	no_data	san_diego	3	ceiling	2	drywall	033	3	no_data
+S3F.2.Ca.033	no_data	no_data	no_data	san_diego	3	floor	2	carpet	033	3	no_data
+S3F.2.Ce.033	no_data	no_data	no_data	san_diego	3	floor	2	ceiling	033	3	no_data
+S3F.2.Dr.033	no_data	no_data	no_data	san_diego	3	floor	2	drywall	033	3	no_data
+S3W.2.Ca.033	no_data	no_data	no_data	san_diego	3	wall	2	carpet	033	3	no_data
+S3W.2.Ce.033	no_data	no_data	no_data	san_diego	3	wall	2	ceiling	033	3	no_data
+S3W.2.Dr.033	no_data	no_data	no_data	san_diego	3	wall	2	drywall	033	3	no_data
+S1C.3.Ca.034	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	034	3	no_data
+S1C.3.Ce.034	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	034	3	no_data
+S1C.3.Dr.034	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	034	3	no_data
+S1F.3.Ca.034	no_data	no_data	no_data	san_diego	1	floor	3	carpet	034	3	no_data
+S1F.3.Ce.034	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	034	3	no_data
+S1F.3.Dr.034	no_data	no_data	no_data	san_diego	1	floor	3	drywall	034	3	no_data
+S1W.3.Ca.034	no_data	no_data	no_data	san_diego	1	wall	3	carpet	034	3	no_data
+S1W.3.Ce.034	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	034	3	no_data
+S1W.3.Dr.034	no_data	no_data	no_data	san_diego	1	wall	3	drywall	034	3	no_data
+S2C.3.Ca.034	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	034	3	no_data
+S2C.3.Ce.034	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	034	3	no_data
+S2C.3.Dr.034	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	034	3	no_data
+S2F.3.Ca.034	no_data	no_data	no_data	san_diego	2	floor	3	carpet	034	3	no_data
+S2F.3.Ce.034	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	034	3	no_data
+S2F.3.Dr.034	no_data	no_data	no_data	san_diego	2	floor	3	drywall	034	3	no_data
+S2W.3.Ca.034	no_data	no_data	no_data	san_diego	2	wall	3	carpet	034	3	no_data
+S2W.3.Ce.034	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	034	3	no_data
+S2W.3.Dr.034	no_data	no_data	no_data	san_diego	2	wall	3	drywall	034	3	no_data
+S3C.3.Ca.034	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	034	3	no_data
+S3C.3.Ce.034	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	034	3	no_data
+S3C.3.Dr.034	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	034	3	no_data
+S3F.3.Ca.034	no_data	no_data	no_data	san_diego	3	floor	3	carpet	034	3	no_data
+S3F.3.Ce.034	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	034	3	no_data
+S3F.3.Dr.034	no_data	no_data	no_data	san_diego	3	floor	3	drywall	034	3	no_data
+S3W.3.Ca.034	no_data	no_data	no_data	san_diego	3	wall	3	carpet	034	3	no_data
+S3W.3.Ce.034	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	034	3	no_data
+S3W.3.Dr.034	no_data	no_data	no_data	san_diego	3	wall	3	drywall	034	3	no_data
+S1C.3.Ca.035	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	035	3	no_data
+S1C.3.Ce.035	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	035	3	no_data
+S1C.3.Dr.035	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	035	3	no_data
+S1F.3.Ca.035	no_data	no_data	no_data	san_diego	1	floor	3	carpet	035	3	no_data
+S1F.3.Ce.035	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	035	3	no_data
+S1F.3.Dr.035	no_data	no_data	no_data	san_diego	1	floor	3	drywall	035	3	no_data
+S1W.3.Ca.035	no_data	no_data	no_data	san_diego	1	wall	3	carpet	035	3	no_data
+S1W.3.Ce.035	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	035	3	no_data
+S1W.3.Dr.035	no_data	no_data	no_data	san_diego	1	wall	3	drywall	035	3	no_data
+S2C.3.Ca.035	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	035	3	no_data
+S2C.3.Ce.035	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	035	3	no_data
+S2C.3.Dr.035	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	035	3	no_data
+S2F.3.Ca.035	no_data	no_data	no_data	san_diego	2	floor	3	carpet	035	3	no_data
+S2F.3.Ce.035	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	035	3	no_data
+S2F.3.Dr.035	no_data	no_data	no_data	san_diego	2	floor	3	drywall	035	3	no_data
+S2W.3.Ca.035	no_data	no_data	no_data	san_diego	2	wall	3	carpet	035	3	no_data
+S2W.3.Ce.035	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	035	3	no_data
+S2W.3.Dr.035	no_data	no_data	no_data	san_diego	2	wall	3	drywall	035	3	no_data
+S3C.3.Ca.035	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	035	3	no_data
+S3C.3.Ce.035	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	035	3	no_data
+S3C.3.Dr.035	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	035	3	no_data
+S3F.3.Ca.035	no_data	no_data	no_data	san_diego	3	floor	3	carpet	035	3	no_data
+S3F.3.Ce.035	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	035	3	no_data
+S3F.3.Dr.035	no_data	no_data	no_data	san_diego	3	floor	3	drywall	035	3	no_data
+S3W.3.Ca.035	no_data	no_data	no_data	san_diego	3	wall	3	carpet	035	3	no_data
+S3W.3.Ce.035	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	035	3	no_data
+S3W.3.Dr.035	no_data	no_data	no_data	san_diego	3	wall	3	drywall	035	3	no_data
+S1C.3.Ca.036	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	036	3	no_data
+S1C.3.Ce.036	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	036	3	no_data
+S1C.3.Dr.036	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	036	3	no_data
+S1F.3.Ca.036	no_data	no_data	no_data	san_diego	1	floor	3	carpet	036	3	no_data
+S1F.3.Ce.036	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	036	3	no_data
+S1F.3.Dr.036	no_data	no_data	no_data	san_diego	1	floor	3	drywall	036	3	no_data
+S1W.3.Ca.036	no_data	no_data	no_data	san_diego	1	wall	3	carpet	036	3	no_data
+S1W.3.Ce.036	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	036	3	no_data
+S1W.3.Dr.036	no_data	no_data	no_data	san_diego	1	wall	3	drywall	036	3	no_data
+S2C.3.Ca.036	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	036	3	no_data
+S2C.3.Ce.036	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	036	3	no_data
+S2C.3.Dr.036	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	036	3	no_data
+S2F.3.Ca.036	no_data	no_data	no_data	san_diego	2	floor	3	carpet	036	3	no_data
+S2F.3.Ce.036	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	036	3	no_data
+S2F.3.Dr.036	no_data	no_data	no_data	san_diego	2	floor	3	drywall	036	3	no_data
+S2W.3.Ca.036	no_data	no_data	no_data	san_diego	2	wall	3	carpet	036	3	no_data
+S2W.3.Ce.036	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	036	3	no_data
+S2W.3.Dr.036	no_data	no_data	no_data	san_diego	2	wall	3	drywall	036	3	no_data
+S3C.3.Ca.036	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	036	3	no_data
+S3C.3.Ce.036	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	036	3	no_data
+S3C.3.Dr.036	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	036	3	no_data
+S3F.3.Ca.036	no_data	no_data	no_data	san_diego	3	floor	3	carpet	036	3	no_data
+S3F.3.Ce.036	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	036	3	no_data
+S3F.3.Dr.036	no_data	no_data	no_data	san_diego	3	floor	3	drywall	036	3	no_data
+S3W.3.Ca.036	no_data	no_data	no_data	san_diego	3	wall	3	carpet	036	3	no_data
+S3W.3.Ce.036	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	036	3	no_data
+S3W.3.Dr.036	no_data	no_data	no_data	san_diego	3	wall	3	drywall	036	3	no_data
+S1C.3.Ca.037	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	037	3	no_data
+S1C.3.Ce.037	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	037	3	no_data
+S1C.3.Dr.037	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	037	3	no_data
+S1F.3.Ca.037	no_data	no_data	no_data	san_diego	1	floor	3	carpet	037	3	no_data
+S1F.3.Ce.037	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	037	3	no_data
+S1F.3.Dr.037	no_data	no_data	no_data	san_diego	1	floor	3	drywall	037	3	no_data
+S1W.3.Ca.037	no_data	no_data	no_data	san_diego	1	wall	3	carpet	037	3	no_data
+S1W.3.Ce.037	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	037	3	no_data
+S1W.3.Dr.037	no_data	no_data	no_data	san_diego	1	wall	3	drywall	037	3	no_data
+S2C.3.Ca.037	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	037	3	no_data
+S2C.3.Ce.037	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	037	3	no_data
+S2C.3.Dr.037	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	037	3	no_data
+S2F.3.Ca.037	no_data	no_data	no_data	san_diego	2	floor	3	carpet	037	3	no_data
+S2F.3.Ce.037	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	037	3	no_data
+S2F.3.Dr.037	no_data	no_data	no_data	san_diego	2	floor	3	drywall	037	3	no_data
+S2W.3.Ca.037	no_data	no_data	no_data	san_diego	2	wall	3	carpet	037	3	no_data
+S2W.3.Ce.037	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	037	3	no_data
+S2W.3.Dr.037	no_data	no_data	no_data	san_diego	2	wall	3	drywall	037	3	no_data
+S3C.3.Ca.037	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	037	3	no_data
+S3C.3.Ce.037	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	037	3	no_data
+S3C.3.Dr.037	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	037	3	no_data
+S3F.3.Ca.037	no_data	no_data	no_data	san_diego	3	floor	3	carpet	037	3	no_data
+S3F.3.Ce.037	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	037	3	no_data
+S3F.3.Dr.037	no_data	no_data	no_data	san_diego	3	floor	3	drywall	037	3	no_data
+S3W.3.Ca.037	no_data	no_data	no_data	san_diego	3	wall	3	carpet	037	3	no_data
+S3W.3.Ce.037	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	037	3	no_data
+S3W.3.Dr.037	no_data	no_data	no_data	san_diego	3	wall	3	drywall	037	3	no_data
+S1C.3.Ca.038	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	038	3	no_data
+S1C.3.Ce.038	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	038	3	no_data
+S1C.3.Dr.038	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	038	3	no_data
+S1F.3.Ca.038	no_data	no_data	no_data	san_diego	1	floor	3	carpet	038	3	no_data
+S1F.3.Ce.038	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	038	3	no_data
+S1F.3.Dr.038	no_data	no_data	no_data	san_diego	1	floor	3	drywall	038	3	no_data
+S1W.3.Ca.038	no_data	no_data	no_data	san_diego	1	wall	3	carpet	038	3	no_data
+S1W.3.Ce.038	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	038	3	no_data
+S1W.3.Dr.038	no_data	no_data	no_data	san_diego	1	wall	3	drywall	038	3	no_data
+S2C.3.Ca.038	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	038	3	no_data
+S2C.3.Ce.038	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	038	3	no_data
+S2C.3.Dr.038	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	038	3	no_data
+S2F.3.Ca.038	no_data	no_data	no_data	san_diego	2	floor	3	carpet	038	3	no_data
+S2F.3.Ce.038	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	038	3	no_data
+S2F.3.Dr.038	no_data	no_data	no_data	san_diego	2	floor	3	drywall	038	3	no_data
+S2W.3.Ca.038	no_data	no_data	no_data	san_diego	2	wall	3	carpet	038	3	no_data
+S2W.3.Ce.038	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	038	3	no_data
+S2W.3.Dr.038	no_data	no_data	no_data	san_diego	2	wall	3	drywall	038	3	no_data
+S3C.3.Ca.038	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	038	3	no_data
+S3C.3.Ce.038	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	038	3	no_data
+S3C.3.Dr.038	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	038	3	no_data
+S3F.3.Ca.038	no_data	no_data	no_data	san_diego	3	floor	3	carpet	038	3	no_data
+S3F.3.Ce.038	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	038	3	no_data
+S3F.3.Dr.038	no_data	no_data	no_data	san_diego	3	floor	3	drywall	038	3	no_data
+S3W.3.Ca.038	no_data	no_data	no_data	san_diego	3	wall	3	carpet	038	3	no_data
+S3W.3.Ce.038	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	038	3	no_data
+S3W.3.Dr.038	no_data	no_data	no_data	san_diego	3	wall	3	drywall	038	3	no_data
+S1C.3.Ca.039	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	039	3	no_data
+S1C.3.Ce.039	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	039	3	no_data
+S1C.3.Dr.039	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	039	3	no_data
+S1F.3.Ca.039	no_data	no_data	no_data	san_diego	1	floor	3	carpet	039	3	no_data
+S1F.3.Ce.039	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	039	3	no_data
+S1F.3.Dr.039	no_data	no_data	no_data	san_diego	1	floor	3	drywall	039	3	no_data
+S1W.3.Ca.039	no_data	no_data	no_data	san_diego	1	wall	3	carpet	039	3	no_data
+S1W.3.Ce.039	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	039	3	no_data
+S1W.3.Dr.039	no_data	no_data	no_data	san_diego	1	wall	3	drywall	039	3	no_data
+S2C.3.Ca.039	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	039	3	no_data
+S2C.3.Ce.039	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	039	3	no_data
+S2C.3.Dr.039	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	039	3	no_data
+S2F.3.Ca.039	no_data	no_data	no_data	san_diego	2	floor	3	carpet	039	3	no_data
+S2F.3.Ce.039	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	039	3	no_data
+S2F.3.Dr.039	no_data	no_data	no_data	san_diego	2	floor	3	drywall	039	3	no_data
+S2W.3.Ca.039	no_data	no_data	no_data	san_diego	2	wall	3	carpet	039	3	no_data
+S2W.3.Ce.039	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	039	3	no_data
+S2W.3.Dr.039	no_data	no_data	no_data	san_diego	2	wall	3	drywall	039	3	no_data
+S3C.3.Ca.039	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	039	3	no_data
+S3C.3.Ce.039	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	039	3	no_data
+S3C.3.Dr.039	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	039	3	no_data
+S3F.3.Ca.039	no_data	no_data	no_data	san_diego	3	floor	3	carpet	039	3	no_data
+S3F.3.Ce.039	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	039	3	no_data
+S3F.3.Dr.039	no_data	no_data	no_data	san_diego	3	floor	3	drywall	039	3	no_data
+S3W.3.Ca.039	no_data	no_data	no_data	san_diego	3	wall	3	carpet	039	3	no_data
+S3W.3.Ce.039	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	039	3	no_data
+S3W.3.Dr.039	no_data	no_data	no_data	san_diego	3	wall	3	drywall	039	3	no_data
+S1C.3.Ca.040	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	040	3	no_data
+S1C.3.Ce.040	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	040	3	no_data
+S1C.3.Dr.040	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	040	3	no_data
+S1F.3.Ca.040	no_data	no_data	no_data	san_diego	1	floor	3	carpet	040	3	no_data
+S1F.3.Ce.040	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	040	3	no_data
+S1F.3.Dr.040	no_data	no_data	no_data	san_diego	1	floor	3	drywall	040	3	no_data
+S1W.3.Ca.040	no_data	no_data	no_data	san_diego	1	wall	3	carpet	040	3	no_data
+S1W.3.Ce.040	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	040	3	no_data
+S1W.3.Dr.040	no_data	no_data	no_data	san_diego	1	wall	3	drywall	040	3	no_data
+S2C.3.Ca.040	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	040	3	no_data
+S2C.3.Ce.040	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	040	3	no_data
+S2C.3.Dr.040	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	040	3	no_data
+S2F.3.Ca.040	no_data	no_data	no_data	san_diego	2	floor	3	carpet	040	3	no_data
+S2F.3.Ce.040	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	040	3	no_data
+S2F.3.Dr.040	no_data	no_data	no_data	san_diego	2	floor	3	drywall	040	3	no_data
+S2W.3.Ca.040	no_data	no_data	no_data	san_diego	2	wall	3	carpet	040	3	no_data
+S2W.3.Ce.040	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	040	3	no_data
+S2W.3.Dr.040	no_data	no_data	no_data	san_diego	2	wall	3	drywall	040	3	no_data
+S3C.3.Ca.040	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	040	3	no_data
+S3C.3.Ce.040	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	040	3	no_data
+S3C.3.Dr.040	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	040	3	no_data
+S3F.3.Ca.040	no_data	no_data	no_data	san_diego	3	floor	3	carpet	040	3	no_data
+S3F.3.Ce.040	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	040	3	no_data
+S3F.3.Dr.040	no_data	no_data	no_data	san_diego	3	floor	3	drywall	040	3	no_data
+S3W.3.Ca.040	no_data	no_data	no_data	san_diego	3	wall	3	carpet	040	3	no_data
+S3W.3.Ce.040	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	040	3	no_data
+S3W.3.Dr.040	no_data	no_data	no_data	san_diego	3	wall	3	drywall	040	3	no_data
+S1C.3.Ca.041	no_data	no_data	no_data	san_diego	1	ceiling	3	carpet	041	3	no_data
+S1C.3.Ce.041	no_data	no_data	no_data	san_diego	1	ceiling	3	ceiling	041	3	no_data
+S1C.3.Dr.041	no_data	no_data	no_data	san_diego	1	ceiling	3	drywall	041	3	no_data
+S1F.3.Ca.041	no_data	no_data	no_data	san_diego	1	floor	3	carpet	041	3	no_data
+S1F.3.Ce.041	no_data	no_data	no_data	san_diego	1	floor	3	ceiling	041	3	no_data
+S1F.3.Dr.041	no_data	no_data	no_data	san_diego	1	floor	3	drywall	041	3	no_data
+S1W.3.Ca.041	no_data	no_data	no_data	san_diego	1	wall	3	carpet	041	3	no_data
+S1W.3.Ce.041	no_data	no_data	no_data	san_diego	1	wall	3	ceiling	041	3	no_data
+S1W.3.Dr.041	no_data	no_data	no_data	san_diego	1	wall	3	drywall	041	3	no_data
+S2C.3.Ca.041	no_data	no_data	no_data	san_diego	2	ceiling	3	carpet	041	3	no_data
+S2C.3.Ce.041	no_data	no_data	no_data	san_diego	2	ceiling	3	ceiling	041	3	no_data
+S2C.3.Dr.041	no_data	no_data	no_data	san_diego	2	ceiling	3	drywall	041	3	no_data
+S2F.3.Ca.041	no_data	no_data	no_data	san_diego	2	floor	3	carpet	041	3	no_data
+S2F.3.Ce.041	no_data	no_data	no_data	san_diego	2	floor	3	ceiling	041	3	no_data
+S2F.3.Dr.041	no_data	no_data	no_data	san_diego	2	floor	3	drywall	041	3	no_data
+S2W.3.Ca.041	no_data	no_data	no_data	san_diego	2	wall	3	carpet	041	3	no_data
+S2W.3.Ce.041	no_data	no_data	no_data	san_diego	2	wall	3	ceiling	041	3	no_data
+S2W.3.Dr.041	no_data	no_data	no_data	san_diego	2	wall	3	drywall	041	3	no_data
+S3C.3.Ca.041	no_data	no_data	no_data	san_diego	3	ceiling	3	carpet	041	3	no_data
+S3C.3.Ce.041	no_data	no_data	no_data	san_diego	3	ceiling	3	ceiling	041	3	no_data
+S3C.3.Dr.041	no_data	no_data	no_data	san_diego	3	ceiling	3	drywall	041	3	no_data
+S3F.3.Ca.041	no_data	no_data	no_data	san_diego	3	floor	3	carpet	041	3	no_data
+S3F.3.Ce.041	no_data	no_data	no_data	san_diego	3	floor	3	ceiling	041	3	no_data
+S3F.3.Dr.041	no_data	no_data	no_data	san_diego	3	floor	3	drywall	041	3	no_data
+S3W.3.Ca.041	no_data	no_data	no_data	san_diego	3	wall	3	carpet	041	3	no_data
+S3W.3.Ce.041	no_data	no_data	no_data	san_diego	3	wall	3	ceiling	041	3	no_data
+S3W.3.Dr.041	no_data	no_data	no_data	san_diego	3	wall	3	drywall	041	3	no_data
+S1C.2.Ca.041	no_data	no_data	no_data	san_diego	1	ceiling	2	carpet	041	3	no_data
+S1C.2.Ce.041	no_data	no_data	no_data	san_diego	1	ceiling	2	ceiling	041	3	no_data
+S1C.2.Dr.041	no_data	no_data	no_data	san_diego	1	ceiling	2	drywall	041	3	no_data
+S1F.2.Ca.041	no_data	no_data	no_data	san_diego	1	floor	2	carpet	041	3	no_data
+S1F.2.Ce.041	no_data	no_data	no_data	san_diego	1	floor	2	ceiling	041	3	no_data
+S1F.2.Dr.041	no_data	no_data	no_data	san_diego	1	floor	2	drywall	041	3	no_data
+S1W.2.Ca.041	no_data	no_data	no_data	san_diego	1	wall	2	carpet	041	3	no_data
+S1W.2.Ce.041	no_data	no_data	no_data	san_diego	1	wall	2	ceiling	041	3	no_data
+S1W.2.Dr.041	no_data	no_data	no_data	san_diego	1	wall	2	drywall	041	3	no_data
+S2C.2.Ca.041	no_data	no_data	no_data	san_diego	2	ceiling	2	carpet	041	3	no_data
+S2C.2.Ce.041	no_data	no_data	no_data	san_diego	2	ceiling	2	ceiling	041	3	no_data
+S2C.2.Dr.041	no_data	no_data	no_data	san_diego	2	ceiling	2	drywall	041	3	no_data
+S2F.2.Ca.041	no_data	no_data	no_data	san_diego	2	floor	2	carpet	041	3	no_data
+S2F.2.Ce.041	no_data	no_data	no_data	san_diego	2	floor	2	ceiling	041	3	no_data
+S2F.2.Dr.041	no_data	no_data	no_data	san_diego	2	floor	2	drywall	041	3	no_data
+S2W.2.Ca.041	no_data	no_data	no_data	san_diego	2	wall	2	carpet	041	3	no_data
+S2W.2.Ce.041	no_data	no_data	no_data	san_diego	2	wall	2	ceiling	041	3	no_data
+S2W.2.Dr.041	no_data	no_data	no_data	san_diego	2	wall	2	drywall	041	3	no_data
+S3C.2.Ca.041	no_data	no_data	no_data	san_diego	3	ceiling	2	carpet	041	3	no_data
+S3C.2.Ce.041	no_data	no_data	no_data	san_diego	3	ceiling	2	ceiling	041	3	no_data
+S3C.2.Dr.041	no_data	no_data	no_data	san_diego	3	ceiling	2	drywall	041	3	no_data
+S3F.2.Ca.041	no_data	no_data	no_data	san_diego	3	floor	2	carpet	041	3	no_data
+S3F.2.Ce.041	no_data	no_data	no_data	san_diego	3	floor	2	ceiling	041	3	no_data
+S3F.2.Dr.041	no_data	no_data	no_data	san_diego	3	floor	2	drywall	041	3	no_data
+S3W.2.Ca.041	no_data	no_data	no_data	san_diego	3	wall	2	carpet	041	3	no_data
+S3W.2.Ce.041	no_data	no_data	no_data	san_diego	3	wall	2	ceiling	041	3	no_data
+S3W.2.Dr.041	no_data	no_data	no_data	san_diego	3	wall	2	drywall	041	3	no_data

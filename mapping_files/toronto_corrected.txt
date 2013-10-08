@@ -1,0 +1,811 @@
+#SampleID	DateOfCollection	TimeOfCollection	Notes	City	Office	OfficeLocation	Row	Surface	TimePoint	TimePointCategory	Cooler
+T1C.2.Ca.001	7/3/2013	11:45:00	T1C was de-sterilized 3 hours before the other T1 plates during T3 prep	toronto	1	ceiling	2	carpet	001	1	2
+T1C.2.Ce.001	7/3/2013	11:47:00	"                                          """	toronto	1	ceiling	2	ceiling	001	1	2
+T1C.2.Dr.001	7/3/2013	11:46:00	"                                          """	toronto	1	ceiling	2	drywall	001	1	2
+T1F.2.Ca.001	7/3/2013	14:50:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	2	carpet	001	1	2
+T1F.2.Ce.001	7/3/2013	14:51:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	2	ceiling	001	1	2
+T1F.2.Dr.001	7/3/2013	14:50:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	2	drywall	001	1	2
+T1W.2.Ca.001	7/3/2013	14:55:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	2	carpet	001	1	2
+T1W.2.Ce.001	7/3/2013	14:57:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	2	ceiling	001	1	2
+T1W.2.Dr.001	7/3/2013	14:56:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	2	drywall	001	1	2
+T2C.2.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	2	carpet	001	1	2
+T2C.2.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	2	ceiling	001	1	2
+T2C.2.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	2	drywall	001	1	2
+T2F.2.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	2	carpet	001	1	2
+T2F.2.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	2	ceiling	001	1	2
+T2F.2.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	2	drywall	001	1	2
+T2W.2.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	2	carpet	001	1	2
+T2W.2.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	2	ceiling	001	1	2
+T2W.2.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	2	drywall	001	1	2
+T3C.2.Ca.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	2	carpet	001	1	2
+T3C.2.Ce.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	2	ceiling	001	1	2
+T3C.2.Dr.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	2	drywall	001	1	2
+T3F.2.Ca.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	2	carpet	001	1	2
+T3F.2.Ce.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	2	ceiling	001	1	2
+T3F.2.Dr.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	2	drywall	001	1	2
+T3W.2.Ca.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	2	carpet	001	1	2
+T3W.2.Ce.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	2	ceiling	001	1	2
+T3W.2.Dr.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	2	drywall	001	1	2
+T1C.3.Ca.001	7/3/2013	11:50:00	T1C was de-sterilized 3 hours before the other T1 plates during T3 prep	toronto	1	ceiling	3	carpet	001	1	1
+T1C.3.Ce.001	7/3/2013	11:49:00	T1C was de-sterilized 3 hours before the other T1 plates during T3 prep	toronto	1	ceiling	3	ceiling	001	1	1
+T1C.3.Dr.001	7/3/2013	11:48:00	T1C was de-sterilized 3 hours before the other T1 plates during T3 prep	toronto	1	ceiling	3	drywall	001	1	1
+T1F.3.Ca.001	7/3/2013	14:53:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	3	carpet	001	1	1
+T1F.3.Ce.001	7/3/2013	15:52:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	3	ceiling	001	1	1
+T1F.3.Dr.001	7/3/2013	15:52:00	DM and JS (done right after de-sterilization) 	toronto	1	floor	3	drywall	001	1	1
+T1W.3.Ca.001	7/3/2013	15:00:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	3	carpet	001	1	1
+T1W.3.Ce.001	7/3/2013	14:59:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	3	ceiling	001	1	1
+T1W.3.Dr.001	7/3/2013	14:58:00	DM and JS (done right after de-sterilization) 	toronto	1	wall	3	drywall	001	1	1
+T2C.3.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	3	carpet	001	1	1
+T2C.3.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	3	ceiling	001	1	1
+T2C.3.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	ceiling	3	drywall	001	1	1
+T2F.3.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	3	carpet	001	1	1
+T2F.3.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	3	ceiling	001	1	1
+T2F.3.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	floor	3	drywall	001	1	1
+T2W.3.Ca.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	3	carpet	001	1	1
+T2W.3.Ce.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	3	ceiling	001	1	1
+T2W.3.Dr.001	7/3/2013	10:18:00	DM and JS (done right after de-sterilization) 	toronto	2	wall	3	drywall	001	1	1
+T3C.3.Ca.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	3	carpet	001	1	1
+T3C.3.Ce.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	3	ceiling	001	1	1
+T3C.3.Dr.001	7/3/2013	11:35:00	DM and JS (done right after de-sterilization) 	toronto	3	ceiling	3	drywall	001	1	1
+T3F.3.Ca.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	3	carpet	001	1	1
+T3F.3.Ce.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	3	ceiling	001	1	1
+T3F.3.Dr.001	7/3/2013	11:50:00	DM and JS (done right after de-sterilization) 	toronto	3	floor	3	drywall	001	1	1
+T3W.3.Ca.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	3	carpet	001	1	1
+T3W.3.Ce.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	3	ceiling	001	1	1
+T3W.3.Dr.001	7/3/2013	12:03:00	DM and JS (done right after de-sterilization) 	toronto	3	wall	3	drywall	001	1	1
+T1C.3.Ca.002	7/5/2013	11:15:00	DM	toronto	1	ceiling	3	carpet	002	1	1
+T1C.3.Ce.002	7/5/2013	11:14:00	DM	toronto	1	ceiling	3	ceiling	002	1	1
+T1C.3.Dr.002	7/5/2013	11:13:00	DM	toronto	1	ceiling	3	drywall	002	1	1
+T1F.3.Ca.002	7/5/2013	11:17:00	DM	toronto	1	floor	3	carpet	002	1	1
+T1F.3.Ce.002	7/5/2013	11:18:00	DM	toronto	1	floor	3	ceiling	002	1	1
+T1F.3.Dr.002	7/5/2013	11:18:00	DM	toronto	1	floor	3	drywall	002	1	1
+T1W.3.Ca.002	7/5/2013	11:16:00	JS	toronto	1	wall	3	carpet	002	1	1
+T1W.3.Ce.002	7/5/2013	11:16:00	JS	toronto	1	wall	3	ceiling	002	1	1
+T1W.3.Dr.002	7/5/2013	11:15:00	JS	toronto	1	wall	3	drywall	002	1	1
+T2C.3.Ca.002	7/5/2013	10:33:00	JS	toronto	2	ceiling	3	carpet	002	1	1
+T2C.3.Ce.002	7/5/2013	10:34:00	JS	toronto	2	ceiling	3	ceiling	002	1	1
+T2C.3.Dr.002	7/5/2013	10:33:00	JS	toronto	2	ceiling	3	drywall	002	1	1
+T2F.3.Ca.002	7/5/2013	10:38:00	DM	toronto	2	floor	3	carpet	002	1	1
+T2F.3.Ce.002	7/5/2013	10:37:00	DM	toronto	2	floor	3	ceiling	002	1	1
+T2F.3.Dr.002	7/5/2013	10:36:00	DM	toronto	2	floor	3	drywall	002	1	1
+T2W.3.Ca.002	7/5/2013	10:38:00	JS	toronto	2	wall	3	carpet	002	1	1
+T2W.3.Ce.002	7/5/2013	10:37:00	JS	toronto	2	wall	3	ceiling	002	1	1
+T2W.3.Dr.002	7/5/2013	10:36:00	JS	toronto	2	wall	3	drywall	002	1	1
+T3C.3.Ca.002	7/5/2013	10:49:00	DM	toronto	3	ceiling	3	carpet	002	1	1
+T3C.3.Ce.002	7/5/2013	10:50:00	DM	toronto	3	ceiling	3	ceiling	002	1	1
+T3C.3.Dr.002	7/5/2013	10:51:00	DM	toronto	3	ceiling	3	drywall	002	1	1
+T3F.3.Ca.002	7/5/2013	10:49:00	JS	toronto	3	floor	3	carpet	002	1	1
+T3F.3.Ce.002	7/5/2013	10:50:00	JS	toronto	3	floor	3	ceiling	002	1	1
+T3F.3.Dr.002	7/5/2013	10:51:00	JS	toronto	3	floor	3	drywall	002	1	1
+T3W.3.Ca.002	7/5/2013	10:48:00	JS	toronto	3	wall	3	carpet	002	1	1
+T3W.3.Ce.002	7/5/2013	10:47:00	JS	toronto	3	wall	3	ceiling	002	1	1
+T3W.3.Dr.002	7/5/2013	10:46:00	JS	toronto	3	wall	3	drywall	002	1	1
+T1C.3.Ca.003	7/7/2013	10:37:00	JS	toronto	1	ceiling	3	carpet	003	1	1
+T1C.3.Ce.003	7/7/2013	10:37:00	JS	toronto	1	ceiling	3	ceiling	003	1	1
+T1C.3.Dr.003	7/7/2013	10:38:00	JS	toronto	1	ceiling	3	drywall	003	1	1
+T1F.3.Ca.003	7/7/2013	10:39:00	JS	toronto	1	floor	3	carpet	003	1	1
+T1F.3.Ce.003	7/7/2013	10:39:00	JS	toronto	1	floor	3	ceiling	003	1	1
+T1F.3.Dr.003	7/7/2013	10:39:00	JS	toronto	1	floor	3	drywall	003	1	1
+T1W.3.Ca.003	7/7/2013	10:41:00	JS	toronto	1	wall	3	carpet	003	1	1
+T1W.3.Ce.003	7/7/2013	10:41:00	JS	toronto	1	wall	3	ceiling	003	1	1
+T1W.3.Dr.003	7/7/2013	10:41:00	JS	toronto	1	wall	3	drywall	003	1	1
+T2C.3.Ca.003	7/7/2013	10:06:00	JS	toronto	2	ceiling	3	carpet	003	1	1
+T2C.3.Ce.003	7/7/2013	10:06:00	JS	toronto	2	ceiling	3	ceiling	003	1	1
+T2C.3.Dr.003	7/7/2013	10:07:00	JS	toronto	2	ceiling	3	drywall	003	1	1
+T2F.3.Ca.003	7/7/2013	10:10:00	JS	toronto	2	floor	3	carpet	003	1	1
+T2F.3.Ce.003	7/7/2013	10:09:00	JS	toronto	2	floor	3	ceiling	003	1	1
+T2F.3.Dr.003	7/7/2013	10:08:00	JS	toronto	2	floor	3	drywall	003	1	1
+T2W.3.Ca.003	7/7/2013	10:05:00	JS	toronto	2	wall	3	carpet	003	1	1
+T2W.3.Ce.003	7/7/2013	10:04:00	JS	toronto	2	wall	3	ceiling	003	1	1
+T2W.3.Dr.003	7/7/2013	10:03:00	JS	toronto	2	wall	3	drywall	003	1	1
+T3C.3.Ca.003	7/7/2013	10:16:00	JS	toronto	3	ceiling	3	carpet	003	1	1
+T3C.3.Ce.003	7/7/2013	10:16:00	JS	toronto	3	ceiling	3	ceiling	003	1	1
+T3C.3.Dr.003	7/7/2013	10:15:00	JS	toronto	3	ceiling	3	drywall	003	1	1
+T3F.3.Ca.003	7/7/2013	10:19:00	JS	toronto	3	floor	3	carpet	003	1	1
+T3F.3.Ce.003	7/7/2013	10:19:00	JS	toronto	3	floor	3	ceiling	003	1	1
+T3F.3.Dr.003	7/7/2013	10:18:00	JS	toronto	3	floor	3	drywall	003	1	1
+T3W.3.Ca.003	7/7/2013	10:21:00	JS	toronto	3	wall	3	carpet	003	1	1
+T3W.3.Ce.003	7/7/2013	10:22:00	JS	toronto	3	wall	3	ceiling	003	1	1
+T3W.3.Dr.003	7/7/2013	10:21:00	JS	toronto	3	wall	3	drywall	003	1	1
+T1C.3.Ca.004	7/9/2013	10:56:00	DM	toronto	1	ceiling	3	carpet	004	1	1
+T1C.3.Ce.004	7/9/2013	10:55:00	DM	toronto	1	ceiling	3	ceiling	004	1	1
+T1C.3.Dr.004	7/9/2013	10:54:00	DM	toronto	1	ceiling	3	drywall	004	1	1
+T1F.3.Ca.004	7/9/2013	10:49:00	DM	toronto	1	floor	3	carpet	004	1	1
+T1F.3.Ce.004	7/9/2013	10:48:00	DM	toronto	1	floor	3	ceiling	004	1	1
+T1F.3.Dr.004	7/9/2013	10:48:00	DM	toronto	1	floor	3	drywall	004	1	1
+T1W.3.Ca.004	7/9/2013	10:52:00	DM	toronto	1	wall	3	carpet	004	1	1
+T1W.3.Ce.004	7/9/2013	10:51:00	DM	toronto	1	wall	3	ceiling	004	1	1
+T1W.3.Dr.004	7/9/2013	10:51:00	DM	toronto	1	wall	3	drywall	004	1	1
+T2C.3.Ca.004	7/9/2013	11:09:00	DM	toronto	2	ceiling	3	carpet	004	1	1
+T2C.3.Ce.004	7/9/2013	11:09:00	DM	toronto	2	ceiling	3	ceiling	004	1	1
+T2C.3.Dr.004	7/9/2013	11:08:00	DM	toronto	2	ceiling	3	drywall	004	1	1
+T2F.3.Ca.004	7/9/2013	11:12:00	DM	toronto	2	floor	3	carpet	004	1	1
+T2F.3.Ce.004	7/9/2013	11:12:00	DM	toronto	2	floor	3	ceiling	004	1	1
+T2F.3.Dr.004	7/9/2013	11:11:00	DM	toronto	2	floor	3	drywall	004	1	1
+T2W.3.Ca.004	7/9/2013	11:07:00	DM	toronto	2	wall	3	carpet	004	1	1
+T2W.3.Ce.004	7/9/2013	11:06:00	DM	toronto	2	wall	3	ceiling	004	1	1
+T2W.3.Dr.004	7/9/2013	11:06:00	DM	toronto	2	wall	3	drywall	004	1	1
+T3C.3.Ca.004	7/9/2013	12:01:00	DM	toronto	3	ceiling	3	carpet	004	1	1
+T3C.3.Ce.004	7/9/2013	12:00:00	DM	toronto	3	ceiling	3	ceiling	004	1	1
+T3C.3.Dr.004	7/9/2013	11:59:00	DM	toronto	3	ceiling	3	drywall	004	1	1
+T3F.3.Ca.004	7/9/2013	11:57:00	DM	toronto	3	floor	3	carpet	004	1	1
+T3F.3.Ce.004	7/9/2013	11:56:00	DM	toronto	3	floor	3	ceiling	004	1	1
+T3F.3.Dr.004	7/9/2013	11:56:00	DM	toronto	3	floor	3	drywall	004	1	1
+T3W.3.Ca.004	7/9/2013	11:54:00	DM	toronto	3	wall	3	carpet	004	1	1
+T3W.3.Ce.004	7/9/2013	11:53:00	DM	toronto	3	wall	3	ceiling	004	1	1
+T3W.3.Dr.004	7/9/2013	11:51:00	"DM --- Swab made accidental Contact and rubbed TSW.3.Ca	toronto	3	wall	3	drywall	004	1	1
+T1C.3.Ca.005	7/11/2013	11:09:00	DM	toronto	1	ceiling	3	carpet	005	3	3
+T1C.3.Ce.005	7/11/2013	11:09:00	DM	toronto	1	ceiling	3	ceiling	005	3	3
+T1C.3.Dr.005	7/11/2013	11:08:00	DM	toronto	1	ceiling	3	drywall	005	3	3
+T1F.3.Ca.005	7/11/2013	11:16:00	DM *(some glue came off of the carpet sample and stayed on the swab tip)	toronto	1	floor	3	carpet	005	3	3
+T1F.3.Ce.005	7/11/2013	11:16:00	DM	toronto	1	floor	3	ceiling	005	3	3
+T1F.3.Dr.005	7/11/2013	11:15:00	DM	toronto	1	floor	3	drywall	005	3	3
+T1W.3.Ca.005	7/11/2013	11:13:00	DM	toronto	1	wall	3	carpet	005	3	3
+T1W.3.Ce.005	7/11/2013	11:13:00	DM	toronto	1	wall	3	ceiling	005	3	3
+T1W.3.Dr.005	7/11/2013	11:12:00	DM	toronto	1	wall	3	drywall	005	3	3
+T2C.3.Ca.005	7/11/2013	10:58:00	DM	toronto	2	ceiling	3	carpet	005	3	3
+T2C.3.Ce.005	7/11/2013	10:57:00	DM	toronto	2	ceiling	3	ceiling	005	3	3
+T2C.3.Dr.005	7/11/2013	10:57:00	DM	toronto	2	ceiling	3	drywall	005	3	3
+T2F.3.Ca.005	7/11/2013	11:01:00	DM	toronto	2	floor	3	carpet	005	3	3
+T2F.3.Ce.005	7/11/2013	11:00:00	DM	toronto	2	floor	3	ceiling	005	3	3
+T2F.3.Dr.005	7/11/2013	10:59:00	DM	toronto	2	floor	3	drywall	005	3	3
+T2W.3.Ca.005	7/11/2013	10:55:00	DM	toronto	2	wall	3	carpet	005	3	3
+T2W.3.Ce.005	7/11/2013	10:55:00	DM	toronto	2	wall	3	ceiling	005	3	3
+T2W.3.Dr.005	7/11/2013	10:54:00	DM	toronto	2	wall	3	drywall	005	3	3
+T3C.3.Ca.005	7/11/2013	11:38:00	DM	toronto	3	ceiling	3	carpet	005	3	3
+T3C.3.Ce.005	7/11/2013	11:38:00	DM	toronto	3	ceiling	3	ceiling	005	3	3
+T3C.3.Dr.005	7/11/2013	11:37:00	DM	toronto	3	ceiling	3	drywall	005	3	3
+T3F.3.Ca.005	7/11/2013	11:36:00	DM	toronto	3	floor	3	carpet	005	3	3
+T3F.3.Ce.005	7/11/2013	11:35:00	DM	toronto	3	floor	3	ceiling	005	3	3
+T3F.3.Dr.005	7/11/2013	11:35:00	DM	toronto	3	floor	3	drywall	005	3	3
+T3W.3.Ca.005	7/11/2013	11:34:00	DM	toronto	3	wall	3	carpet	005	3	3
+T3W.3.Ce.005	7/11/2013	11:33:00	DM	toronto	3	wall	3	ceiling	005	3	3
+T3W.3.Dr.005	7/11/2013	11:33:00	DM	toronto	3	wall	3	drywall	005	3	3
+T1C.3.Ca.006	7/13/2013	14:34:00	JS	toronto	1	ceiling	3	carpet	006	3	3
+T1C.3.Ce.006	7/13/2013	14:35:00	JS	toronto	1	ceiling	3	ceiling	006	3	3
+T1C.3.Dr.006	7/13/2013	14:35:00	JS	toronto	1	ceiling	3	drywall	006	3	3
+T1F.3.Ca.006	7/13/2013	14:37:00	JS	toronto	1	floor	3	carpet	006	3	3
+T1F.3.Ce.006	7/13/2013	14:37:00	JS	toronto	1	floor	3	ceiling	006	3	3
+T1F.3.Dr.006	7/13/2013	14:37:00	JS	toronto	1	floor	3	drywall	006	3	3
+T1W.3.Ca.006	7/13/2013	14:39:00	JS	toronto	1	wall	3	carpet	006	3	3
+T1W.3.Ce.006	7/13/2013	14:38:00	JS	toronto	1	wall	3	ceiling	006	3	3
+T1W.3.Dr.006	7/13/2013	14:39:00	JS	toronto	1	wall	3	drywall	006	3	3
+T2C.3.Ca.006	7/13/2013	14:10:00	JS	toronto	2	ceiling	3	carpet	006	3	3
+T2C.3.Ce.006	7/13/2013	14:09:00	JS	toronto	2	ceiling	3	ceiling	006	3	3
+T2C.3.Dr.006	7/13/2013	14:10:00	JS	toronto	2	ceiling	3	drywall	006	3	3
+T2F.3.Ca.006	7/13/2013	14:11:00	JS	toronto	2	floor	3	carpet	006	3	3
+T2F.3.Ce.006	7/13/2013	14:12:00	JS	toronto	2	floor	3	ceiling	006	3	3
+T2F.3.Dr.006	7/13/2013	14:11:00	JS	toronto	2	floor	3	drywall	006	3	3
+T2W.3.Ca.006	7/13/2013	14:05:00	JS	toronto	2	wall	3	carpet	006	3	3
+T2W.3.Ce.006	7/13/2013	14:07:00	JS	toronto	2	wall	3	ceiling	006	3	3
+T2W.3.Dr.006	7/13/2013	14:06:00	JS	toronto	2	wall	3	drywall	006	3	3
+T3C.3.Ca.006	7/13/2013	14:21:00	JS	toronto	3	ceiling	3	carpet	006	3	3
+T3C.3.Ce.006	7/13/2013	14:22:00	JS	toronto	3	ceiling	3	ceiling	006	3	3
+T3C.3.Dr.006	7/13/2013	14:21:00	JS	toronto	3	ceiling	3	drywall	006	3	3
+T3F.3.Ca.006	7/13/2013	14:23:00	JS	toronto	3	floor	3	carpet	006	3	3
+T3F.3.Ce.006	7/13/2013	14:24:00	JS	toronto	3	floor	3	ceiling	006	3	3
+T3F.3.Dr.006	7/13/2013	14:23:00	JS	toronto	3	floor	3	drywall	006	3	3
+T3W.3.Ca.006	7/13/2013	14:25:00	JS	toronto	3	wall	3	carpet	006	3	3
+T3W.3.Ce.006	7/13/2013	14:25:00	JS	toronto	3	wall	3	ceiling	006	3	3
+T3W.3.Dr.006	7/13/2013	14:25:00	JS	toronto	3	wall	3	drywall	006	3	3
+T1C.3.Ca.007	7/15/2013	13:41:00	"JS accidentally started swiping row 2 (about 3 inches of contact)	toronto	1	ceiling	3	carpet	007	2	3
+T1C.3.Ce.007	7/15/2013	13:41:00	"JS accidentally started swiping row 2 (about 3 inches of contact)	toronto	1	ceiling	3	ceiling	007	2	3
+T1C.3.Dr.007	7/15/2013	13:41:00	"JS accidentally started swiping row 2 (about 3 inches of contact)	toronto	1	ceiling	3	drywall	007	2	3
+T1F.3.Ca.007	7/15/2013	13:46:00	JS	toronto	1	floor	3	carpet	007	2	3
+T1F.3.Ce.007	7/15/2013	13:46:00	JS	toronto	1	floor	3	ceiling	007	2	3
+T1F.3.Dr.007	7/15/2013	13:46:00	JS	toronto	1	floor	3	drywall	007	2	3
+T1W.3.Ca.007	7/15/2013	13:44:00	JS	toronto	1	wall	3	carpet	007	2	3
+T1W.3.Ce.007	7/15/2013	13:44:00	JS	toronto	1	wall	3	ceiling	007	2	3
+T1W.3.Dr.007	7/15/2013	13:44:00	JS	toronto	1	wall	3	drywall	007	2	3
+T2C.3.Ca.007	7/15/2013	13:24:00	JS	toronto	2	ceiling	3	carpet	007	2	3
+T2C.3.Ce.007	7/15/2013	13:24:00	JS	toronto	2	ceiling	3	ceiling	007	2	3
+T2C.3.Dr.007	7/15/2013	13:24:00	JS	toronto	2	ceiling	3	drywall	007	2	3
+T2F.3.Ca.007	7/15/2013	13:28:00	JS	toronto	2	floor	3	carpet	007	2	3
+T2F.3.Ce.007	7/15/2013	13:28:00	JS	toronto	2	floor	3	ceiling	007	2	3
+T2F.3.Dr.007	7/15/2013	13:28:00	JS	toronto	2	floor	3	drywall	007	2	3
+T2W.3.Ca.007	7/15/2013	13:26:00	JS	toronto	2	wall	3	carpet	007	2	3
+T2W.3.Ce.007	7/15/2013	13:26:00	JS	toronto	2	wall	3	ceiling	007	2	3
+T2W.3.Dr.007	7/15/2013	13:26:00	JS	toronto	2	wall	3	drywall	007	2	3
+T3C.3.Ca.007	7/15/2013	13:56:00	JS	toronto	3	ceiling	3	carpet	007	2	3
+T3C.3.Ce.007	7/15/2013	13:56:00	JS	toronto	3	ceiling	3	ceiling	007	2	3
+T3C.3.Dr.007	7/15/2013	13:56:00	JS	toronto	3	ceiling	3	drywall	007	2	3
+T3F.3.Ca.007	7/15/2013	14:00:00	JS	toronto	3	floor	3	carpet	007	2	3
+T3F.3.Ce.007	7/15/2013	14:00:00	JS	toronto	3	floor	3	ceiling	007	2	3
+T3F.3.Dr.007	7/15/2013	14:00:00	JS	toronto	3	floor	3	drywall	007	2	3
+T3W.3.Ca.007	7/15/2013	14:01:00	JS	toronto	3	wall	3	carpet	007	2	3
+T3W.3.Ce.007	7/15/2013	14:01:00	JS	toronto	3	wall	3	ceiling	007	2	3
+T3W.3.Dr.007	7/15/2013	14:01:00	JS	toronto	3	wall	3	drywall	007	2	3
+T1C.3.Ca.008	7/17/2013	10:56:00	DM	toronto	1	ceiling	3	carpet	008	2	3
+T1C.3.Ce.008	7/17/2013	10:57:00	DM	toronto	1	ceiling	3	ceiling	008	2	3
+T1C.3.Dr.008	7/17/2013	10:57:00	DM   Touched Stem of Swab with glove	toronto	1	ceiling	3	drywall	008	2	3
+T1F.3.Ca.008	7/17/2013	10:39:00	DM	toronto	1	floor	3	carpet	008	2	3
+T1F.3.Ce.008	7/17/2013	10:39:00	DM	toronto	1	floor	3	ceiling	008	2	3
+T1F.3.Dr.008	7/17/2013	10:39:00	DM	toronto	1	floor	3	drywall	008	2	3
+T1W.3.Ca.008	7/17/2013	10:41:00	DM	toronto	1	wall	3	carpet	008	2	3
+T1W.3.Ce.008	7/17/2013	10:41:00	DM	toronto	1	wall	3	ceiling	008	2	3
+T1W.3.Dr.008	7/17/2013	10:42:00	DM	toronto	1	wall	3	drywall	008	2	3
+T2C.3.Ca.008	7/17/2013	10:53:00	DM	toronto	2	ceiling	3	carpet	008	2	3
+T2C.3.Ce.008	7/17/2013	10:53:00	DM	toronto	2	ceiling	3	ceiling	008	2	3
+T2C.3.Dr.008	7/17/2013	10:53:00	DM	toronto	2	ceiling	3	drywall	008	2	3
+T2F.3.Ca.008	7/17/2013	10:56:00	DM	toronto	2	floor	3	carpet	008	2	3
+T2F.3.Ce.008	7/17/2013	10:56:00	DM	toronto	2	floor	3	ceiling	008	2	3
+T2F.3.Dr.008	7/17/2013	10:56:00	DM	toronto	2	floor	3	drywall	008	2	3
+T2W.3.Ca.008	7/17/2013	10:57:00	DM	toronto	2	wall	3	carpet	008	2	3
+T2W.3.Ce.008	7/17/2013	10:57:00	DM	toronto	2	wall	3	ceiling	008	2	3
+T2W.3.Dr.008	7/17/2013	10:57:00	DM	toronto	2	wall	3	drywall	008	2	3
+T3C.3.Ca.008	7/17/2013	11:07:00	DM	toronto	3	ceiling	3	carpet	008	2	3
+T3C.3.Ce.008	7/17/2013	11:07:00	DM	toronto	3	ceiling	3	ceiling	008	2	3
+T3C.3.Dr.008	7/17/2013	11:08:00	DM	toronto	3	ceiling	3	drywall	008	2	3
+T3F.3.Ca.008	7/17/2013	11:10:00	DM	toronto	3	floor	3	carpet	008	2	3
+T3F.3.Ce.008	7/17/2013	11:10:00	DM	toronto	3	floor	3	ceiling	008	2	3
+T3F.3.Dr.008	7/17/2013	11:10:00	DM	toronto	3	floor	3	drywall	008	2	3
+T3W.3.Ca.008	7/17/2013	11:12:00	DM	toronto	3	wall	3	carpet	008	2	3
+T3W.3.Ce.008	7/17/2013	11:12:00	DM	toronto	3	wall	3	ceiling	008	2	3
+T3W.3.Dr.008	7/17/2013	11:12:00	DM	toronto	3	wall	3	drywall	008	2	3
+T1C.3.Ca.009	7/19/2013	11:58:00	DM	toronto	1	ceiling	3	carpet	009	2	2
+T1C.3.Ce.009	7/19/2013	11:58:00	DM	toronto	1	ceiling	3	ceiling	009	2	2
+T1C.3.Dr.009	7/19/2013	11:58:00	DM	toronto	1	ceiling	3	drywall	009	2	2
+T1F.3.Ca.009	7/19/2013	12:00:00	DM	toronto	1	floor	3	carpet	009	2	2
+T1F.3.Ce.009	7/19/2013	12:00:00	DM	toronto	1	floor	3	ceiling	009	2	2
+T1F.3.Dr.009	7/19/2013	12:00:00	DM	toronto	1	floor	3	drywall	009	2	2
+T1W.3.Ca.009	7/19/2013	12:02:00	DM	toronto	1	wall	3	carpet	009	2	2
+T1W.3.Ce.009	7/19/2013	12:02:00	DM	toronto	1	wall	3	ceiling	009	2	2
+T1W.3.Dr.009	7/19/2013	12:02:00	DM	toronto	1	wall	3	drywall	009	2	2
+T2C.3.Ca.009	7/19/2013	12:12:00	DM	toronto	2	ceiling	3	carpet	009	2	2
+T2C.3.Ce.009	7/19/2013	12:12:00	DM	toronto	2	ceiling	3	ceiling	009	2	2
+T2C.3.Dr.009	7/19/2013	12:12:00	DM	toronto	2	ceiling	3	drywall	009	2	2
+T2F.3.Ca.009	7/19/2013	12:14:00	DM	toronto	2	floor	3	carpet	009	2	2
+T2F.3.Ce.009	7/19/2013	12:14:00	DM	toronto	2	floor	3	ceiling	009	2	2
+T2F.3.Dr.009	7/19/2013	12:14:00	DM	toronto	2	floor	3	drywall	009	2	2
+T2W.3.Ca.009	7/19/2013	12:16:00	DM	toronto	2	wall	3	carpet	009	2	2
+T2W.3.Ce.009	7/19/2013	12:16:00	DM	toronto	2	wall	3	ceiling	009	2	2
+T2W.3.Dr.009	7/19/2013	12:16:00	DM	toronto	2	wall	3	drywall	009	2	2
+T3C.3.Ca.009	7/19/2013	12:26:00	DM	toronto	3	ceiling	3	carpet	009	2	2
+T3C.3.Ce.009	7/19/2013	12:26:00	DM	toronto	3	ceiling	3	ceiling	009	2	2
+T3C.3.Dr.009	7/19/2013	12:26:00	DM	toronto	3	ceiling	3	drywall	009	2	2
+T3F.3.Ca.009	7/19/2013	12:28:00	DM	toronto	3	floor	3	carpet	009	2	2
+T3F.3.Ce.009	7/19/2013	12:28:00	DM	toronto	3	floor	3	ceiling	009	2	2
+T3F.3.Dr.009	7/19/2013	12:28:00	DM	toronto	3	floor	3	drywall	009	2	2
+T3W.3.Ca.009	7/19/2013	12:30:00	DM	toronto	3	wall	3	carpet	009	2	2
+T3W.3.Ce.009	7/19/2013	12:30:00	DM	toronto	3	wall	3	ceiling	009	2	2
+T3W.3.Dr.009	7/19/2013	12:30:00	DM	toronto	3	wall	3	drywall	009	2	2
+T1C.3.Ca.010	7/21/2013	15:42:00	JS	toronto	1	ceiling	3	carpet	010	2	2
+T1C.3.Ce.010	7/21/2013	15:42:00	JS	toronto	1	ceiling	3	ceiling	010	2	2
+T1C.3.Dr.010	7/21/2013	15:42:00	JS	toronto	1	ceiling	3	drywall	010	2	2
+T1F.3.Ca.010	7/21/2013	15:39:00	JS	toronto	1	floor	3	carpet	010	2	2
+T1F.3.Ce.010	7/21/2013	15:39:00	JS	toronto	1	floor	3	ceiling	010	2	2
+T1F.3.Dr.010	7/21/2013	15:39:00	JS	toronto	1	floor	3	drywall	010	2	2
+T1W.3.Ca.010	7/21/2013	15:37:00	JS	toronto	1	wall	3	carpet	010	2	2
+T1W.3.Ce.010	7/21/2013	15:37:00	JS	toronto	1	wall	3	ceiling	010	2	2
+T1W.3.Dr.010	7/21/2013	15:37:00	JS	toronto	1	wall	3	drywall	010	2	2
+T2C.3.Ca.010	7/21/2013	15:27:00	JS	toronto	2	ceiling	3	carpet	010	2	2
+T2C.3.Ce.010	7/21/2013	15:27:00	JS	toronto	2	ceiling	3	ceiling	010	2	2
+T2C.3.Dr.010	7/21/2013	15:27:00	JS	toronto	2	ceiling	3	drywall	010	2	2
+T2F.3.Ca.010	7/21/2013	15:31:00	JS	toronto	2	floor	3	carpet	010	2	2
+T2F.3.Ce.010	7/21/2013	15:31:00	JS	toronto	2	floor	3	ceiling	010	2	2
+T2F.3.Dr.010	7/21/2013	15:31:00	JS	toronto	2	floor	3	drywall	010	2	2
+T2W.3.Ca.010	7/21/2013	15:29:00	JS	toronto	2	wall	3	carpet	010	2	2
+T2W.3.Ce.010	7/21/2013	15:29:00	JS	toronto	2	wall	3	ceiling	010	2	2
+T2W.3.Dr.010	7/21/2013	15:29:00	JS	toronto	2	wall	3	drywall	010	2	2
+T3C.3.Ca.010	7/21/2013	15:15:00	JS	toronto	3	ceiling	3	carpet	010	2	2
+T3C.3.Ce.010	7/21/2013	15:15:00	JS	toronto	3	ceiling	3	ceiling	010	2	2
+T3C.3.Dr.010	7/21/2013	15:15:00	JS	toronto	3	ceiling	3	drywall	010	2	2
+T3F.3.Ca.010	7/21/2013	15:18:00	JS	toronto	3	floor	3	carpet	010	2	2
+T3F.3.Ce.010	7/21/2013	15:18:00	JS	toronto	3	floor	3	ceiling	010	2	2
+T3F.3.Dr.010	7/21/2013	15:18:00	JS	toronto	3	floor	3	drywall	010	2	2
+T3W.3.Ca.010	7/21/2013	15:21:00	JS	toronto	3	wall	3	carpet	010	2	2
+T3W.3.Ce.010	7/21/2013	15:21:00	JS	toronto	3	wall	3	ceiling	010	2	2
+T3W.3.Dr.010	7/21/2013	15:21:00	JS	toronto	3	wall	3	drywall	010	2	2
+T1C.3.Ca.011	7/23/2013	10:33:00	DM	toronto	1	ceiling	3	carpet	011	2	2
+T1C.3.Ce.011	7/23/2013	10:33:00	DM	toronto	1	ceiling	3	ceiling	011	2	2
+T1C.3.Dr.011	7/23/2013	10:33:00	DM	toronto	1	ceiling	3	drywall	011	2	2
+T1F.3.Ca.011	7/23/2013	10:37:00	DM	toronto	1	floor	3	carpet	011	2	2
+T1F.3.Ce.011	7/23/2013	10:37:00	DM	toronto	1	floor	3	ceiling	011	2	2
+T1F.3.Dr.011	7/23/2013	10:37:00	DM	toronto	1	floor	3	drywall	011	2	2
+T1W.3.Ca.011	7/23/2013	10:39:00	DM	toronto	1	wall	3	carpet	011	2	2
+T1W.3.Ce.011	7/23/2013	10:39:00	DM	toronto	1	wall	3	ceiling	011	2	2
+T1W.3.Dr.011	7/23/2013	10:39:00	DM	toronto	1	wall	3	drywall	011	2	2
+T2C.3.Ca.011	7/23/2013	10:52:00	DM	toronto	2	ceiling	3	carpet	011	2	2
+T2C.3.Ce.011	7/23/2013	10:52:00	DM	toronto	2	ceiling	3	ceiling	011	2	2
+T2C.3.Dr.011	7/23/2013	10:52:00	DM	toronto	2	ceiling	3	drywall	011	2	2
+T2F.3.Ca.011	7/23/2013	10:54:00	DM	toronto	2	floor	3	carpet	011	2	2
+T2F.3.Ce.011	7/23/2013	10:54:00	DM	toronto	2	floor	3	ceiling	011	2	2
+T2F.3.Dr.011	7/23/2013	10:54:00	DM (sterilization was broken briefly in lab while labeling, red cap pulled off exposing inside of tube to air)	toronto	2	floor	3	drywall	011	2	2
+T2W.3.Ca.011	7/23/2013	10:56:00	DM	toronto	2	wall	3	carpet	011	2	2
+T2W.3.Ce.011	7/23/2013	10:56:00	DM	toronto	2	wall	3	ceiling	011	2	2
+T2W.3.Dr.011	7/23/2013	10:56:00	DM	toronto	2	wall	3	drywall	011	2	2
+T3C.3.Ca.011	7/23/2013	11:08:00	DM	toronto	3	ceiling	3	carpet	011	2	2
+T3C.3.Ce.011	7/23/2013	11:08:00	DM	toronto	3	ceiling	3	ceiling	011	2	2
+T3C.3.Dr.011	7/23/2013	11:08:00	DM	toronto	3	ceiling	3	drywall	011	2	2
+T3F.3.Ca.011	7/23/2013	11:10:00	DM	toronto	3	floor	3	carpet	011	2	2
+T3F.3.Ce.011	7/23/2013	11:10:00	DM	toronto	3	floor	3	ceiling	011	2	2
+T3F.3.Dr.011	7/23/2013	11:10:00	DM	toronto	3	floor	3	drywall	011	2	2
+T3W.3.Ca.011	7/23/2013	11:12:00	DM	toronto	3	wall	3	carpet	011	2	2
+T3W.3.Ce.011	7/23/2013	11:12:00	DM	toronto	3	wall	3	ceiling	011	2	2
+T3W.3.Dr.011	7/23/2013	11:12:00	DM	toronto	3	wall	3	drywall	011	2	2
+T1C.3.Ca.012	7/25/2013	10:54:00	JS	toronto	1	ceiling	3	carpet	012	2	2
+T1C.3.Ce.012	7/25/2013	10:54:00	JS	toronto	1	ceiling	3	ceiling	012	2	2
+T1C.3.Dr.012	7/25/2013	10:54:00	JS	toronto	1	ceiling	3	drywall	012	2	2
+T1F.3.Ca.012	7/25/2013	10:55:00	JS	toronto	1	floor	3	carpet	012	2	2
+T1F.3.Ce.012	7/25/2013	10:56:00	JS	toronto	1	floor	3	ceiling	012	2	2
+T1F.3.Dr.012	7/25/2013	10:56:00	JS	toronto	1	floor	3	drywall	012	2	2
+T1W.3.Ca.012	7/25/2013	10:58:00	JS	toronto	1	wall	3	carpet	012	2	2
+T1W.3.Ce.012	7/25/2013	10:58:00	JS	toronto	1	wall	3	ceiling	012	2	2
+T1W.3.Dr.012	7/25/2013	10:58:00	JS	toronto	1	wall	3	drywall	012	2	2
+T2C.3.Ca.012	7/25/2013	11:15:00	JS	toronto	2	ceiling	3	carpet	012	2	2
+T2C.3.Ce.012	7/25/2013	11:15:00	JS	toronto	2	ceiling	3	ceiling	012	2	2
+T2C.3.Dr.012	7/25/2013	11:15:00	JS	toronto	2	ceiling	3	drywall	012	2	2
+T2F.3.Ca.012	7/25/2013	11:11:00	JS	toronto	2	floor	3	carpet	012	2	2
+T2F.3.Ce.012	7/25/2013	11:11:00	JS	toronto	2	floor	3	ceiling	012	2	2
+T2F.3.Dr.012	7/25/2013	11:11:00	JS	toronto	2	floor	3	drywall	012	2	2
+T2W.3.Ca.012	7/25/2013	11:13:00	JS	toronto	2	wall	3	carpet	012	2	2
+T2W.3.Ce.012	7/25/2013	11:13:00	JS	toronto	2	wall	3	ceiling	012	2	2
+T2W.3.Dr.012	7/25/2013	11:13:00	JS	toronto	2	wall	3	drywall	012	2	2
+T3C.3.Ca.012	7/25/2013	11:28:00	JS	toronto	3	ceiling	3	carpet	012	2	2
+T3C.3.Ce.012	7/25/2013	11:28:00	JS	toronto	3	ceiling	3	ceiling	012	2	2
+T3C.3.Dr.012	7/25/2013	11:28:00	JS	toronto	3	ceiling	3	drywall	012	2	2
+T3F.3.Ca.012	7/25/2013	11:22:00	JS	toronto	3	floor	3	carpet	012	2	2
+T3F.3.Ce.012	7/25/2013	11:22:00	JS	toronto	3	floor	3	ceiling	012	2	2
+T3F.3.Dr.012	7/25/2013	11:22:00	JS	toronto	3	floor	3	drywall	012	2	2
+T3W.3.Ca.012	7/25/2013	11:24:00	JS	toronto	3	wall	3	carpet	012	2	2
+T3W.3.Ce.012	7/25/2013	11:24:00	JS	toronto	3	wall	3	ceiling	012	2	2
+T3W.3.Dr.012	7/25/2013	11:24:00	JS	toronto	3	wall	3	drywall	012	2	2
+T1C.3.Ca.013	7/27/2013	15:00:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	1	ceiling	3	carpet	013	2	2
+T1C.3.Ce.013	7/27/2013	15:00:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	1	ceiling	3	ceiling	013	2	2
+T1C.3.Dr.013	7/27/2013	15:00:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	1	ceiling	3	drywall	013	2	2
+T1F.3.Ca.013	7/27/2013	15:12:00	JS (taken out of freezer 9:30 13-08-21)	toronto	1	floor	3	carpet	013	2	2
+T1F.3.Ce.013	7/27/2013	15:12:00	JS (taken out of freezer 9:30 13-08-21)	toronto	1	floor	3	ceiling	013	2	2
+T1F.3.Dr.013	7/27/2013	15:12:00	JS (taken out of freezer 9:30 13-08-21)	toronto	1	floor	3	drywall	013	2	2
+T1W.3.Ca.013	7/27/2013	15:02:00	JS (taken out of freezer 9:30 13-08-21)	toronto	1	wall	3	carpet	013	2	2
+T1W.3.Ce.013	7/27/2013	15:02:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	1	wall	3	ceiling	013	2	2
+T1W.3.Dr.013	7/27/2013	15:02:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	1	wall	3	drywall	013	2	2
+T2C.3.Ca.013	7/27/2013	14:50:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	2	ceiling	3	carpet	013	2	2
+T2C.3.Ce.013	7/27/2013	14:50:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	ceiling	3	ceiling	013	2	2
+T2C.3.Dr.013	7/27/2013	14:50:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	ceiling	3	drywall	013	2	2
+T2F.3.Ca.013	7/27/2013	14:48:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	floor	3	carpet	013	2	2
+T2F.3.Ce.013	7/27/2013	14:48:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	floor	3	ceiling	013	2	2
+T2F.3.Dr.013	7/27/2013	14:48:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	floor	3	drywall	013	2	2
+T2W.3.Ca.013	7/27/2013	14:52:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	wall	3	carpet	013	2	2
+T2W.3.Ce.013	7/27/2013	14:52:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	wall	3	ceiling	013	2	2
+T2W.3.Dr.013	7/27/2013	14:52:00	JS (taken out of freezer 9:30 13-08-21)	toronto	2	wall	3	drywall	013	2	2
+T3C.3.Ca.013	7/27/2013	15:22:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	ceiling	3	carpet	013	2	2
+T3C.3.Ce.013	7/27/2013	15:22:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	ceiling	3	ceiling	013	2	2
+T3C.3.Dr.013	7/27/2013	15:22:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	ceiling	3	drywall	013	2	2
+T3F.3.Ca.013	7/27/2013	15:24:00	JS (taken out of freezer 9:30 13-08-21)	toronto	3	floor	3	carpet	013	2	2
+T3F.3.Ce.013	7/27/2013	15:24:00	JS (taken out of freezer 9:30 13-08-21)	toronto	3	floor	3	ceiling	013	2	2
+T3F.3.Dr.013	7/27/2013	15:24:00	JS (taken out of freezer 9:30 13-08-21)	toronto	3	floor	3	drywall	013	2	2
+T3W.3.Ca.013	7/27/2013	15:26:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	wall	3	carpet	013	2	2
+T3W.3.Ce.013	7/27/2013	15:26:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	wall	3	ceiling	013	2	2
+T3W.3.Dr.013	7/27/2013	15:26:00	JS (taken out of frz 9:30 13-08-21, relabelled)	toronto	3	wall	3	drywall	013	2	2
+T1C.3.Ca.014	7/29/2013	16:18:00	DM	toronto	1	ceiling	3	carpet	014	2	3
+T1C.3.Ce.014	7/29/2013	16:18:00	DM	toronto	1	ceiling	3	ceiling	014	2	3
+T1C.3.Dr.014	7/29/2013	16:18:00	DM	toronto	1	ceiling	3	drywall	014	2	3
+T1F.3.Ca.014	7/29/2013	16:20:00	DM	toronto	1	floor	3	carpet	014	2	3
+T1F.3.Ce.014	7/29/2013	16:20:00	DM	toronto	1	floor	3	ceiling	014	2	3
+T1F.3.Dr.014	7/29/2013	16:20:00	DM	toronto	1	floor	3	drywall	014	2	3
+T1W.3.Ca.014	7/29/2013	16:22:00	DM	toronto	1	wall	3	carpet	014	2	3
+T1W.3.Ce.014	7/29/2013	16:22:00	DM	toronto	1	wall	3	ceiling	014	2	3
+T1W.3.Dr.014	7/29/2013	16:22:00	DM	toronto	1	wall	3	drywall	014	2	3
+T2C.3.Ca.014	7/29/2013	16:30:00	DM	toronto	2	ceiling	3	carpet	014	2	3
+T2C.3.Ce.014	7/29/2013	16:30:00	DM	toronto	2	ceiling	3	ceiling	014	2	3
+T2C.3.Dr.014	7/29/2013	16:30:00	DM	toronto	2	ceiling	3	drywall	014	2	3
+T2F.3.Ca.014	7/29/2013	16:32:00	DM	toronto	2	floor	3	carpet	014	2	3
+T2F.3.Ce.014	7/29/2013	16:32:00	DM	toronto	2	floor	3	ceiling	014	2	3
+T2F.3.Dr.014	7/29/2013	16:32:00	DM	toronto	2	floor	3	drywall	014	2	3
+T2W.3.Ca.014	7/29/2013	16:34:00	DM (made 6 passes on sample (covered half of sample) with swab that had been used on Dr sample after mixing up swabs in hand. Reswabed with sterile swab and threw out overlapped swab)	toronto	2	wall	3	carpet	014	2	3
+T2W.3.Ce.014	7/29/2013	16:34:00	DM	toronto	2	wall	3	ceiling	014	2	3
+T2W.3.Dr.014	7/29/2013	16:34:00	DM (double swipped, first swab was used again by accident on Ca sample and thrown out)	toronto	2	wall	3	drywall	014	2	3
+T3C.3.Ca.014	7/29/2013	15:48:00	DM	toronto	3	ceiling	3	carpet	014	2	3
+T3C.3.Ce.014	7/29/2013	15:48:00	DM	toronto	3	ceiling	3	ceiling	014	2	3
+T3C.3.Dr.014	7/29/2013	15:48:00	DM	toronto	3	ceiling	3	drywall	014	2	3
+T3F.3.Ca.014	7/29/2013	15:50:00	DM	toronto	3	floor	3	carpet	014	2	3
+T3F.3.Ce.014	7/29/2013	15:50:00	DM	toronto	3	floor	3	ceiling	014	2	3
+T3F.3.Dr.014	7/29/2013	15:50:00	DM	toronto	3	floor	3	drywall	014	2	3
+T3W.3.Ca.014	7/29/2013	15:52:00	DM	toronto	3	wall	3	carpet	014	2	3
+T3W.3.Ce.014	7/29/2013	15:52:00	DM	toronto	3	wall	3	ceiling	014	2	3
+T3W.3.Dr.014	7/29/2013	15:52:00	DM	toronto	3	wall	3	drywall	014	2	3
+T1C.3.Ca.015	7/31/2013	13:59:00	DM	toronto	1	ceiling	3	carpet	015	3	3
+T1C.3.Ce.015	7/31/2013	13:59:00	DM	toronto	1	ceiling	3	ceiling	015	3	3
+T1C.3.Dr.015	7/31/2013	13:59:00	DM	toronto	1	ceiling	3	drywall	015	3	3
+T1F.3.Ca.015	7/31/2013	14:01:00	DM	toronto	1	floor	3	carpet	015	3	3
+T1F.3.Ce.015	7/31/2013	14:01:00	DM	toronto	1	floor	3	ceiling	015	3	3
+T1F.3.Dr.015	7/31/2013	14:01:00	DM	toronto	1	floor	3	drywall	015	3	3
+T1W.3.Ca.015	7/31/2013	14:03:00	DM	toronto	1	wall	3	carpet	015	3	3
+T1W.3.Ce.015	7/31/2013	14:03:00	DM	toronto	1	wall	3	ceiling	015	3	3
+T1W.3.Dr.015	7/31/2013	14:03:00	DM	toronto	1	wall	3	drywall	015	3	3
+T2C.3.Ca.015	7/31/2013	13:48:00	DM	toronto	2	ceiling	3	carpet	015	3	3
+T2C.3.Ce.015	7/31/2013	13:48:00	DM	toronto	2	ceiling	3	ceiling	015	3	3
+T2C.3.Dr.015	7/31/2013	13:48:00	DM	toronto	2	ceiling	3	drywall	015	3	3
+T2F.3.Ca.015	7/31/2013	13:50:00	DM	toronto	2	floor	3	carpet	015	3	3
+T2F.3.Ce.015	7/31/2013	13:50:00	DM	toronto	2	floor	3	ceiling	015	3	3
+T2F.3.Dr.015	7/31/2013	13:50:00	DM	toronto	2	floor	3	drywall	015	3	3
+T2W.3.Ca.015	7/31/2013	13:52:00	DM	toronto	2	wall	3	carpet	015	3	3
+T2W.3.Ce.015	7/31/2013	13:52:00	DM	toronto	2	wall	3	ceiling	015	3	3
+T2W.3.Dr.015	7/31/2013	13:52:00	DM	toronto	2	wall	3	drywall	015	3	3
+T3C.3.Ca.015	7/31/2013	13:36:00	DM	toronto	3	ceiling	3	carpet	015	3	3
+T3C.3.Ce.015	7/31/2013	13:36:00	DM	toronto	3	ceiling	3	ceiling	015	3	3
+T3C.3.Dr.015	7/31/2013	13:36:00	DM	toronto	3	ceiling	3	drywall	015	3	3
+T3F.3.Ca.015	7/31/2013	13:38:00	DM	toronto	3	floor	3	carpet	015	3	3
+T3F.3.Ce.015	7/31/2013	13:38:00	DM	toronto	3	floor	3	ceiling	015	3	3
+T3F.3.Dr.015	7/31/2013	13:38:00	DM	toronto	3	floor	3	drywall	015	3	3
+T3W.3.Ca.015	7/31/2013	13:40:00	DM	toronto	3	wall	3	carpet	015	3	3
+T3W.3.Ce.015	7/31/2013	13:40:00	DM	toronto	3	wall	3	ceiling	015	3	3
+T3W.3.Dr.015	7/31/2013	13:40:00	DM	toronto	3	wall	3	drywall	015	3	3
+T1C.3.Ca.016	8/2/2013	13:19:00	JS	toronto	1	ceiling	3	carpet	016	3	3
+T1C.3.Ce.016	8/2/2013	13:19:00	JS	toronto	1	ceiling	3	ceiling	016	3	3
+T1C.3.Dr.016	8/2/2013	13:19:00	JS	toronto	1	ceiling	3	drywall	016	3	3
+T1F.3.Ca.016	8/2/2013	13:21:00	JS	toronto	1	floor	3	carpet	016	3	3
+T1F.3.Ce.016	8/2/2013	13:21:00	JS	toronto	1	floor	3	ceiling	016	3	3
+T1F.3.Dr.016	8/2/2013	13:21:00	JS	toronto	1	floor	3	drywall	016	3	3
+T1W.3.Ca.016	8/2/2013	13:24:00	JS	toronto	1	wall	3	carpet	016	3	3
+T1W.3.Ce.016	8/2/2013	13:24:00	JS	toronto	1	wall	3	ceiling	016	3	3
+T1W.3.Dr.016	8/2/2013	13:24:00	JS	toronto	1	wall	3	drywall	016	3	3
+T2C.3.Ca.016	8/2/2013	13:31:00	JS	toronto	2	ceiling	3	carpet	016	3	3
+T2C.3.Ce.016	8/2/2013	13:31:00	JS	toronto	2	ceiling	3	ceiling	016	3	3
+T2C.3.Dr.016	8/2/2013	13:31:00	JS	toronto	2	ceiling	3	drywall	016	3	3
+T2F.3.Ca.016	8/2/2013	13:35:00	JS	toronto	2	floor	3	carpet	016	3	3
+T2F.3.Ce.016	8/2/2013	13:35:00	JS	toronto	2	floor	3	ceiling	016	3	3
+T2F.3.Dr.016	8/2/2013	13:35:00	JS	toronto	2	floor	3	drywall	016	3	3
+T2W.3.Ca.016	8/2/2013	13:33:00	JS	toronto	2	wall	3	carpet	016	3	3
+T2W.3.Ce.016	8/2/2013	13:33:00	JS	toronto	2	wall	3	ceiling	016	3	3
+T2W.3.Dr.016	8/2/2013	13:33:00	JS	toronto	2	wall	3	drywall	016	3	3
+T3C.3.Ca.016	8/2/2013	13:43:00	JS	toronto	3	ceiling	3	carpet	016	3	3
+T3C.3.Ce.016	8/2/2013	13:43:00	JS	toronto	3	ceiling	3	ceiling	016	3	3
+T3C.3.Dr.016	8/2/2013	13:43:00	JS	toronto	3	ceiling	3	drywall	016	3	3
+T3F.3.Ca.016	8/2/2013	13:45:00	JS	toronto	3	floor	3	carpet	016	3	3
+T3F.3.Ce.016	8/2/2013	13:45:00	JS	toronto	3	floor	3	ceiling	016	3	3
+T3F.3.Dr.016	8/2/2013	13:45:00	JS	toronto	3	floor	3	drywall	016	3	3
+T3W.3.Ca.016	8/2/2013	13:41:00	JS	toronto	3	wall	3	carpet	016	3	3
+T3W.3.Ce.016	8/2/2013	13:41:00	JS	toronto	3	wall	3	ceiling	016	3	3
+T3W.3.Dr.016	8/2/2013	13:41:00	JS	toronto	3	wall	3	drywall	016	3	3
+T1C.3.Ca.017	8/4/2013	11:00:00	JS	toronto	1	ceiling	3	carpet	017	3	3
+T1C.3.Ce.017	8/4/2013	11:00:00	JS	toronto	1	ceiling	3	ceiling	017	3	3
+T1C.3.Dr.017	8/4/2013	11:00:00	JS	toronto	1	ceiling	3	drywall	017	3	3
+T1F.3.Ca.017	8/4/2013	10:59:00	JS	toronto	1	floor	3	carpet	017	3	3
+T1F.3.Ce.017	8/4/2013	10:59:00	JS	toronto	1	floor	3	ceiling	017	3	3
+T1F.3.Dr.017	8/4/2013	10:59:00	JS	toronto	1	floor	3	drywall	017	3	3
+T1W.3.Ca.017	8/4/2013	11:03:00	JS	toronto	1	wall	3	carpet	017	3	3
+T1W.3.Ce.017	8/4/2013	11:03:00	JS	toronto	1	wall	3	ceiling	017	3	3
+T1W.3.Dr.017	8/4/2013	11:03:00	JS	toronto	1	wall	3	drywall	017	3	3
+T2C.3.Ca.017	8/4/2013	10:52:00	JS	toronto	2	ceiling	3	carpet	017	3	3
+T2C.3.Ce.017	8/4/2013	10:52:00	JS	toronto	2	ceiling	3	ceiling	017	3	3
+T2C.3.Dr.017	8/4/2013	10:52:00	JS	toronto	2	ceiling	3	drywall	017	3	3
+T2F.3.Ca.017	8/4/2013	10:48:00	JS	toronto	2	floor	3	carpet	017	3	3
+T2F.3.Ce.017	8/4/2013	10:48:00	JS	toronto	2	floor	3	ceiling	017	3	3
+T2F.3.Dr.017	8/4/2013	10:48:00	JS	toronto	2	floor	3	drywall	017	3	3
+T2W.3.Ca.017	8/4/2013	10:49:00	JS	toronto	2	wall	3	carpet	017	3	3
+T2W.3.Ce.017	8/4/2013	10:49:00	JS	toronto	2	wall	3	ceiling	017	3	3
+T2W.3.Dr.017	8/4/2013	10:49:00	JS	toronto	2	wall	3	drywall	017	3	3
+T3C.3.Ca.017	8/4/2013	10:42:00	JS	toronto	3	ceiling	3	carpet	017	3	3
+T3C.3.Ce.017	8/4/2013	10:42:00	JS	toronto	3	ceiling	3	ceiling	017	3	3
+T3C.3.Dr.017	8/4/2013	10:42:00	JS	toronto	3	ceiling	3	drywall	017	3	3
+T3F.3.Ca.017	8/4/2013	10:38:00	JS	toronto	3	floor	3	carpet	017	3	3
+T3F.3.Ce.017	8/4/2013	10:38:00	JS	toronto	3	floor	3	ceiling	017	3	3
+T3F.3.Dr.017	8/4/2013	10:38:00	JS	toronto	3	floor	3	drywall	017	3	3
+T3W.3.Ca.017	8/4/2013	10:39:00	JS	toronto	3	wall	3	carpet	017	3	3
+T3W.3.Ce.017	8/4/2013	10:39:00	JS	toronto	3	wall	3	ceiling	017	3	3
+T3W.3.Dr.017	8/4/2013	10:39:00	JS	toronto	3	wall	3	drywall	017	3	3
+T1C.3.Ca.018	8/6/2013	15:16:00	DM 	toronto	1	ceiling	3	carpet	018	3	1
+T1C.3.Ce.018	8/6/2013	15:16:00	DM	toronto	1	ceiling	3	ceiling	018	3	1
+T1C.3.Dr.018	8/6/2013	15:16:00	DM one tip of swab touched finger tip of glove briefely before being put back in tube	toronto	1	ceiling	3	drywall	018	3	1
+T1F.3.Ca.018	8/6/2013	15:18:00	DM	toronto	1	floor	3	carpet	018	3	1
+T1F.3.Ce.018	8/6/2013	15:18:00	DM	toronto	1	floor	3	ceiling	018	3	1
+T1F.3.Dr.018	8/6/2013	15:18:00	DM	toronto	1	floor	3	drywall	018	3	1
+T1W.3.Ca.018	8/6/2013	15:19:00	DM	toronto	1	wall	3	carpet	018	3	1
+T1W.3.Ce.018	8/6/2013	15:19:00	DM	toronto	1	wall	3	ceiling	018	3	1
+T1W.3.Dr.018	8/6/2013	15:19:00	DM	toronto	1	wall	3	drywall	018	3	1
+T2C.3.Ca.018	8/6/2013	15:29:00	DM	toronto	2	ceiling	3	carpet	018	3	1
+T2C.3.Ce.018	8/6/2013	15:29:00	DM	toronto	2	ceiling	3	ceiling	018	3	1
+T2C.3.Dr.018	8/6/2013	15:29:00	DM	toronto	2	ceiling	3	drywall	018	3	1
+T2F.3.Ca.018	8/6/2013	15:30:00	DM	toronto	2	floor	3	carpet	018	3	1
+T2F.3.Ce.018	8/6/2013	15:30:00	DM	toronto	2	floor	3	ceiling	018	3	1
+T2F.3.Dr.018	8/6/2013	15:30:00	DM	toronto	2	floor	3	drywall	018	3	1
+T2W.3.Ca.018	8/6/2013	15:32:00	DM	toronto	2	wall	3	carpet	018	3	1
+T2W.3.Ce.018	8/6/2013	15:32:00	DM	toronto	2	wall	3	ceiling	018	3	1
+T2W.3.Dr.018	8/6/2013	15:32:00	DM	toronto	2	wall	3	drywall	018	3	1
+T3C.3.Ca.018	8/6/2013	15:38:00	DM	toronto	3	ceiling	3	carpet	018	3	1
+T3C.3.Ce.018	8/6/2013	15:38:00	DM	toronto	3	ceiling	3	ceiling	018	3	1
+T3C.3.Dr.018	8/6/2013	15:38:00	DM	toronto	3	ceiling	3	drywall	018	3	1
+T3F.3.Ca.018	8/6/2013	15:39:00	DM	toronto	3	floor	3	carpet	018	3	1
+T3F.3.Ce.018	8/6/2013	15:39:00	DM	toronto	3	floor	3	ceiling	018	3	1
+T3F.3.Dr.018	8/6/2013	15:39:00	DM	toronto	3	floor	3	drywall	018	3	1
+T3W.3.Ca.018	8/6/2013	15:41:00	DM	toronto	3	wall	3	carpet	018	3	1
+T3W.3.Ce.018	8/6/2013	15:41:00	DM	toronto	3	wall	3	ceiling	018	3	1
+T3W.3.Dr.018	8/6/2013	15:41:00	DM	toronto	3	wall	3	drywall	018	3	1
+T1C.3.Ca.019	8/8/2013	15:58:00	DM	toronto	1	ceiling	3	carpet	019	3	1
+T1C.3.Ce.019	8/8/2013	15:58:00	DM	toronto	1	ceiling	3	ceiling	019	3	1
+T1C.3.Dr.019	8/8/2013	15:58:00	DM	toronto	1	ceiling	3	drywall	019	3	1
+T1F.3.Ca.019	8/8/2013	16:00:00	DM	toronto	1	floor	3	carpet	019	3	1
+T1F.3.Ce.019	8/8/2013	16:00:00	DM	toronto	1	floor	3	ceiling	019	3	1
+T1F.3.Dr.019	8/8/2013	16:00:00	DM	toronto	1	floor	3	drywall	019	3	1
+T1W.3.Ca.019	8/8/2013	16:02:00	DM	toronto	1	wall	3	carpet	019	3	1
+T1W.3.Ce.019	8/8/2013	16:02:00	DM	toronto	1	wall	3	ceiling	019	3	1
+T1W.3.Dr.019	8/8/2013	16:02:00	DM	toronto	1	wall	3	drywall	019	3	1
+T2C.3.Ca.019	8/8/2013	15:46:00	DM	toronto	2	ceiling	3	carpet	019	3	1
+T2C.3.Ce.019	8/8/2013	15:46:00	DM	toronto	2	ceiling	3	ceiling	019	3	1
+T2C.3.Dr.019	8/8/2013	15:46:00	DM	toronto	2	ceiling	3	drywall	019	3	1
+T2F.3.Ca.019	8/8/2013	15:48:00	DM	toronto	2	floor	3	carpet	019	3	1
+T2F.3.Ce.019	8/8/2013	15:48:00	DM	toronto	2	floor	3	ceiling	019	3	1
+T2F.3.Dr.019	8/8/2013	15:48:00	DM	toronto	2	floor	3	drywall	019	3	1
+T2W.3.Ca.019	8/8/2013	15:50:00	DM	toronto	2	wall	3	carpet	019	3	1
+T2W.3.Ce.019	8/8/2013	15:50:00	DM	toronto	2	wall	3	ceiling	019	3	1
+T2W.3.Dr.019	8/8/2013	15:50:00	DM	toronto	2	wall	3	drywall	019	3	1
+T3C.3.Ca.019	8/8/2013	15:36:00	DM	toronto	3	ceiling	3	carpet	019	3	1
+T3C.3.Ce.019	8/8/2013	15:36:00	DM	toronto	3	ceiling	3	ceiling	019	3	1
+T3C.3.Dr.019	8/8/2013	15:36:00	DM	toronto	3	ceiling	3	drywall	019	3	1
+T3F.3.Ca.019	8/8/2013	15:38:00	DM	toronto	3	floor	3	carpet	019	3	1
+T3F.3.Ce.019	8/8/2013	15:38:00	DM	toronto	3	floor	3	ceiling	019	3	1
+T3F.3.Dr.019	8/8/2013	15:38:00	DM	toronto	3	floor	3	drywall	019	3	1
+T3W.3.Ca.019	8/8/2013	15:39:00	DM	toronto	3	wall	3	carpet	019	3	1
+T3W.3.Ce.019	8/8/2013	15:39:00	DM	toronto	3	wall	3	ceiling	019	3	1
+T3W.3.Dr.019	8/8/2013	15:39:00	DM	toronto	3	wall	3	drywall	019	3	1
+T1C.3.Ca.020	8/12/2013	15:44:00	DM	toronto	1	ceiling	3	carpet	020	3	1
+T1C.3.Ce.020	8/12/2013	15:44:00	DM	toronto	1	ceiling	3	ceiling	020	3	1
+T1C.3.Dr.020	8/12/2013	15:44:00	DM	toronto	1	ceiling	3	drywall	020	3	1
+T1F.3.Ca.020	8/12/2013	15:46:00	DM	toronto	1	floor	3	carpet	020	3	1
+T1F.3.Ce.020	8/12/2013	15:46:00	DM	toronto	1	floor	3	ceiling	020	3	1
+T1F.3.Dr.020	8/12/2013	15:46:00	DM	toronto	1	floor	3	drywall	020	3	1
+T1W.3.Ca.020	8/12/2013	15:48:00	DM	toronto	1	wall	3	carpet	020	3	1
+T1W.3.Ce.020	8/12/2013	15:48:00	DM	toronto	1	wall	3	ceiling	020	3	1
+T1W.3.Dr.020	8/12/2013	15:48:00	DM	toronto	1	wall	3	drywall	020	3	1
+T2C.3.Ca.020	8/12/2013	15:56:00	DM	toronto	2	ceiling	3	carpet	020	3	1
+T2C.3.Ce.020	8/12/2013	15:56:00	DM	toronto	2	ceiling	3	ceiling	020	3	1
+T2C.3.Dr.020	8/12/2013	15:56:00	DM	toronto	2	ceiling	3	drywall	020	3	1
+T2F.3.Ca.020	8/12/2013	15:58:00	DM	toronto	2	floor	3	carpet	020	3	1
+T2F.3.Ce.020	8/12/2013	15:58:00	DM	toronto	2	floor	3	ceiling	020	3	1
+T2F.3.Dr.020	8/12/2013	15:58:00	DM	toronto	2	floor	3	drywall	020	3	1
+T2W.3.Ca.020	8/12/2013	16:00:00	DM	toronto	2	wall	3	carpet	020	3	1
+T2W.3.Ce.020	8/12/2013	16:00:00	DM	toronto	2	wall	3	ceiling	020	3	1
+T2W.3.Dr.020	8/12/2013	16:00:00	DM	toronto	2	wall	3	drywall	020	3	1
+T3C.3.Ca.020	8/12/2013	16:07:00	DM	toronto	3	ceiling	3	carpet	020	3	1
+T3C.3.Ce.020	8/12/2013	16:07:00	DM	toronto	3	ceiling	3	ceiling	020	3	1
+T3C.3.Dr.020	8/12/2013	16:07:00	DM	toronto	3	ceiling	3	drywall	020	3	1
+T3F.3.Ca.020	8/12/2013	16:08:00	DM	toronto	3	floor	3	carpet	020	3	1
+T3F.3.Ce.020	8/12/2013	16:08:00	DM	toronto	3	floor	3	ceiling	020	3	1
+T3F.3.Dr.020	8/12/2013	16:08:00	DM	toronto	3	floor	3	drywall	020	3	1
+T3W.3.Ca.020	8/12/2013	16:10:00	DM	toronto	3	wall	3	carpet	020	3	1
+T3W.3.Ce.020	8/12/2013	16:10:00	DM	toronto	3	wall	3	ceiling	020	3	1
+T3W.3.Dr.020	8/12/2013	16:10:00	DM	toronto	3	wall	3	drywall	020	3	1
+T1C.3.Ca.021	8/14/2013	13:18:00	DM	toronto	1	ceiling	3	carpet	021	3	1
+T1C.3.Ce.021	8/14/2013	13:18:00	DM	toronto	1	ceiling	3	ceiling	021	3	1
+T1C.3.Dr.021	8/14/2013	13:18:00	DM	toronto	1	ceiling	3	drywall	021	3	1
+T1F.3.Ca.021	8/14/2013	13:21:00	DM	toronto	1	floor	3	carpet	021	3	1
+T1F.3.Ce.021	8/14/2013	13:21:00	DM	toronto	1	floor	3	ceiling	021	3	1
+T1F.3.Dr.021	8/14/2013	13:21:00	DM	toronto	1	floor	3	drywall	021	3	1
+T1W.3.Ca.021	8/14/2013	13:24:00	DM	toronto	1	wall	3	carpet	021	3	1
+T1W.3.Ce.021	8/14/2013	13:24:00	DM	toronto	1	wall	3	ceiling	021	3	1
+T1W.3.Dr.021	8/14/2013	13:24:00	DM	toronto	1	wall	3	drywall	021	3	1
+T2C.3.Ca.021	8/14/2013	13:01:00	DM	toronto	2	ceiling	3	carpet	021	3	1
+T2C.3.Ce.021	8/14/2013	13:01:00	DM	toronto	2	ceiling	3	ceiling	021	3	1
+T2C.3.Dr.021	8/14/2013	13:01:00	DM	toronto	2	ceiling	3	drywall	021	3	1
+T2F.3.Ca.021	8/14/2013	13:04:00	DM	toronto	2	floor	3	carpet	021	3	1
+T2F.3.Ce.021	8/14/2013	13:04:00	DM	toronto	2	floor	3	ceiling	021	3	1
+T2F.3.Dr.021	8/14/2013	13:04:00	DM	toronto	2	floor	3	drywall	021	3	1
+T2W.3.Ca.021	8/14/2013	13:07:00	DM	toronto	2	wall	3	carpet	021	3	1
+T2W.3.Ce.021	8/14/2013	13:07:00	DM	toronto	2	wall	3	ceiling	021	3	1
+T2W.3.Dr.021	8/14/2013	13:07:00	DM	toronto	2	wall	3	drywall	021	3	1
+T3C.3.Ca.021	8/14/2013	12:37:00	DM	toronto	3	ceiling	3	carpet	021	3	1
+T3C.3.Ce.021	8/14/2013	12:37:00	DM	toronto	3	ceiling	3	ceiling	021	3	1
+T3C.3.Dr.021	8/14/2013	12:37:00	DM	toronto	3	ceiling	3	drywall	021	3	1
+T3F.3.Ca.021	8/14/2013	12:40:00	DM	toronto	3	floor	3	carpet	021	3	1
+T3F.3.Ce.021	8/14/2013	12:40:00	DM	toronto	3	floor	3	ceiling	021	3	1
+T3F.3.Dr.021	8/14/2013	12:40:00	DM	toronto	3	floor	3	drywall	021	3	1
+T3W.3.Ca.021	8/14/2013	12:43:00	DM	toronto	3	wall	3	carpet	021	3	1
+T3W.3.Ce.021	8/14/2013	12:43:00	DM	toronto	3	wall	3	ceiling	021	3	1
+T3W.3.Dr.021	8/14/2013	12:43:00	DM	toronto	3	wall	3	drywall	021	3	1
+T1C.2.Ca.021	8/14/2013	13:17:00	DM	toronto	1	ceiling	2	carpet	021	3	2
+T1C.2.Ce.021	8/14/2013	13:17:00	DM	toronto	1	ceiling	2	ceiling	021	3	2
+T1C.2.Dr.021	8/14/2013	13:17:00	DM	toronto	1	ceiling	2	drywall	021	3	2
+T1F.2.Ca.021	8/14/2013	13:20:00	DM	toronto	1	floor	2	carpet	021	3	2
+T1F.2.Ce.021	8/14/2013	13:20:00	DM	toronto	1	floor	2	ceiling	021	3	2
+T1F.2.Dr.021	8/14/2013	13:20:00	DM	toronto	1	floor	2	drywall	021	3	2
+T1W.2.Ca.021	8/14/2013	13:23:00	DM	toronto	1	wall	2	carpet	021	3	2
+T1W.2.Ce.021	8/14/2013	13:23:00	DM	toronto	1	wall	2	ceiling	021	3	2
+T1W.2.Dr.021	8/14/2013	13:23:00	DM	toronto	1	wall	2	drywall	021	3	2
+T2C.2.Ca.021	8/14/2013	13:00:00	DM	toronto	2	ceiling	2	carpet	021	3	2
+T2C.2.Ce.021	8/14/2013	13:00:00	DM	toronto	2	ceiling	2	ceiling	021	3	2
+T2C.2.Dr.021	8/14/2013	13:00:00	DM	toronto	2	ceiling	2	drywall	021	3	2
+T2F.2.Ca.021	8/14/2013	13:03:00	DM	toronto	2	floor	2	carpet	021	3	2
+T2F.2.Ce.021	8/14/2013	13:03:00	DM	toronto	2	floor	2	ceiling	021	3	2
+T2F.2.Dr.021	8/14/2013	13:03:00	DM	toronto	2	floor	2	drywall	021	3	2
+T2W.2.Ca.021	8/14/2013	13:06:00	DM	toronto	2	wall	2	carpet	021	3	2
+T2W.2.Ce.021	8/14/2013	13:06:00	DM	toronto	2	wall	2	ceiling	021	3	2
+T2W.2.Dr.021	8/14/2013	13:06:00	DM	toronto	2	wall	2	drywall	021	3	2
+T3C.2.Ca.021	8/14/2013	12:36:00	DM	toronto	3	ceiling	2	carpet	021	3	2
+T3C.2.Ce.021	8/14/2013	12:36:00	DM	toronto	3	ceiling	2	ceiling	021	3	2
+T3C.2.Dr.021	8/14/2013	12:36:00	DM	toronto	3	ceiling	2	drywall	021	3	2
+T3F.2.Ca.021	8/14/2013	12:39:00	DM	toronto	3	floor	2	carpet	021	3	2
+T3F.2.Ce.021	8/14/2013	12:39:00	DM	toronto	3	floor	2	ceiling	021	3	2
+T3F.2.Dr.021	8/14/2013	12:39:00	DM	toronto	3	floor	2	drywall	021	3	2
+T3W.2.Ca.021	8/14/2013	12:42:00	DM	toronto	3	wall	2	carpet	021	3	2
+T3W.2.Ce.021	8/14/2013	12:42:00	DM	toronto	3	wall	2	ceiling	021	3	2
+T3W.2.Dr.021	8/14/2013	12:42:00	DM	toronto	3	wall	2	drywall	021	3	2
+T1C.3.Ca.022	9/23/2013	11:25:00	MZ	toronto	1	ceiling	3	carpet	022	3	no_data
+T1C.3.Ce.022	9/23/2013	11:25:00	MZ	toronto	1	ceiling	3	ceiling	022	3	no_data
+T1C.3.Dr.022	9/23/2013	11:26:00	MZ	toronto	1	ceiling	3	drywall	022	3	no_data
+T1F.3.Ca.022	9/23/2013	11:24:00	JS	toronto	1	floor	3	carpet	022	3	no_data
+T1F.3.Ce.022	9/23/2013	11:24:00	JS	toronto	1	floor	3	ceiling	022	3	no_data
+T1F.3.Dr.022	9/23/2013	11:24:00	JS	toronto	1	floor	3	drywall	022	3	no_data
+T1W.3.Ca.022	9/23/2013	11:27:00	JS	toronto	1	wall	3	carpet	022	3	no_data
+T1W.3.Ce.022	9/23/2013	11:27:00	JS	toronto	1	wall	3	ceiling	022	3	no_data
+T1W.3.Dr.022	9/23/2013	11:27:00	JS	toronto	1	wall	3	drywall	022	3	no_data
+T2C.3.Ca.022	9/23/2013	11:13:00	MZ	toronto	2	ceiling	3	carpet	022	3	no_data
+T2C.3.Ce.022	9/23/2013	11:13:00	MZ	toronto	2	ceiling	3	ceiling	022	3	no_data
+T2C.3.Dr.022	9/23/2013	11:13:00	MZ	toronto	2	ceiling	3	drywall	022	3	no_data
+T2F.3.Ca.022	9/23/2013	11:15:00	MZ	toronto	2	floor	3	carpet	022	3	no_data
+T2F.3.Ce.022	9/23/2013	11:15:00	MZ	toronto	2	floor	3	ceiling	022	3	no_data
+T2F.3.Dr.022	9/23/2013	11:15:00	MZ	toronto	2	floor	3	drywall	022	3	no_data
+T2W.3.Ca.022	9/23/2013	11:12:00	JS	toronto	2	wall	3	carpet	022	3	no_data
+T2W.3.Ce.022	9/23/2013	11:12:00	JS	toronto	2	wall	3	ceiling	022	3	no_data
+T2W.3.Dr.022	9/23/2013	11:12:00	JS	toronto	2	wall	3	drywall	022	3	no_data
+T3C.3.Ca.022	9/23/2013	11:03:00	MZ	toronto	3	ceiling	3	carpet	022	3	no_data
+T3C.3.Ce.022	9/23/2013	11:03:00	MZ	toronto	3	ceiling	3	ceiling	022	3	no_data
+T3C.3.Dr.022	9/23/2013	11:03:00	MZ	toronto	3	ceiling	3	drywall	022	3	no_data
+T3F.3.Ca.022	9/23/2013	10:53:00	MZ	toronto	3	floor	3	carpet	022	3	no_data
+T3F.3.Ce.022	9/23/2013	10:53:00	JS	toronto	3	floor	3	ceiling	022	3	no_data
+T3F.3.Dr.022	9/23/2013	10:53:00	JS	toronto	3	floor	3	drywall	022	3	no_data
+T3W.3.Ca.022	9/23/2013	10:59:00	JS	toronto	3	wall	3	carpet	022	3	no_data
+T3W.3.Ce.022	9/23/2013	10:59:00	MZ	toronto	3	wall	3	ceiling	022	3	no_data
+T3W.3.Dr.022	9/23/2013	10:59:00	MZ	toronto	3	wall	3	drywall	022	3	no_data
+T1C.2.Ca.023	9/25/2013	16:26:00	MZ	toronto	1	ceiling	2	carpet	023	3	no_data
+T1C.2.Ce.023	9/25/2013	16:26:00	MZ	toronto	1	ceiling	2	ceiling	023	3	no_data
+T1C.2.Dr.023	9/25/2013	16:26:00	JS	toronto	1	ceiling	2	drywall	023	3	no_data
+T1F.2.Ca.023	9/25/2013	16:25:00	JS	toronto	1	floor	2	carpet	023	3	no_data
+T1F.2.Ce.023	9/25/2013	16:25:00	JS	toronto	1	floor	2	ceiling	023	3	no_data
+T1F.2.Dr.023	9/25/2013	16:25:00	JS	toronto	1	floor	2	drywall	023	3	no_data
+T1W.2.Ca.023	9/25/2013	16:26:00	JS	toronto	1	wall	2	carpet	023	3	no_data
+T1W.2.Ce.023	9/25/2013	16:26:00	JS	toronto	1	wall	2	ceiling	023	3	no_data
+T1W.2.Dr.023	9/25/2013	16:26:00	JS	toronto	1	wall	2	drywall	023	3	no_data
+T2C.2.Ca.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	2	carpet	023	3	no_data
+T2C.2.Ce.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	2	ceiling	023	3	no_data
+T2C.2.Dr.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	2	drywall	023	3	no_data
+T2F.2.Ca.023	9/25/2013	16:36:00	MZ	toronto	2	floor	2	carpet	023	3	no_data
+T2F.2.Ce.023	9/25/2013	16:36:00	MZ	toronto	2	floor	2	ceiling	023	3	no_data
+T2F.2.Dr.023	9/25/2013	16:36:00	JS	toronto	2	floor	2	drywall	023	3	no_data
+T2W.2.Ca.023	9/25/2013	16:33:00	JS	toronto	2	wall	2	carpet	023	3	no_data
+T2W.2.Ce.023	9/25/2013	16:33:00	JS	toronto	2	wall	2	ceiling	023	3	no_data
+T2W.2.Dr.023	9/25/2013	14:59:00	MZ	toronto	2	wall	2	drywall	023	3	no_data
+T3C.2.Ca.023	9/25/2013	14:59:00	MZ	toronto	3	ceiling	2	carpet	023	3	no_data
+T3C.2.Ce.023	9/25/2013	14:59:00	MZ	toronto	3	ceiling	2	ceiling	023	3	no_data
+T3C.2.Dr.023	9/25/2013	14:53:00	MZ	toronto	3	ceiling	2	drywall	023	3	no_data
+T3F.2.Ca.023	9/25/2013	14:53:00	MZ	toronto	3	floor	2	carpet	023	3	no_data
+T3F.2.Ce.023	9/25/2013	14:53:00	MZ	toronto	3	floor	2	ceiling	023	3	no_data
+T3F.2.Dr.023	9/25/2013	15:31:00	MZ	toronto	3	floor	2	drywall	023	3	no_data
+T3W.2.Ca.023	9/25/2013	15:31:00	MZ	toronto	3	wall	2	carpet	023	3	no_data
+T3W.2.Ce.023	9/25/2013	15:31:00	MZ	toronto	3	wall	2	ceiling	023	3	no_data
+T3W.2.Dr.023	9/25/2013	16:25:00	MZ	toronto	3	wall	2	drywall	023	3	no_data
+T1C.3.Ca.023	9/25/2013	16:25:00	MZ	toronto	1	ceiling	3	carpet	023	3	no_data
+T1C.3.Ce.023	9/25/2013	16:25:00	MZ	toronto	1	ceiling	3	ceiling	023	3	no_data
+T1C.3.Dr.023	9/25/2013	16:24:00	JS	toronto	1	ceiling	3	drywall	023	3	no_data
+T1F.3.Ca.023	9/25/2013	16:24:00	JS	toronto	1	floor	3	carpet	023	3	no_data
+T1F.3.Ce.023	9/25/2013	16:24:00	JS	toronto	1	floor	3	ceiling	023	3	no_data
+T1F.3.Dr.023	9/25/2013	16:24:00	JS	toronto	1	floor	3	drywall	023	3	no_data
+T1W.3.Ca.023	9/25/2013	16:26:00	JS	toronto	1	wall	3	carpet	023	3	no_data
+T1W.3.Ce.023	9/25/2013	16:26:00	JS	toronto	1	wall	3	ceiling	023	3	no_data
+T1W.3.Dr.023	9/25/2013	16:26:00	JS	toronto	1	wall	3	drywall	023	3	no_data
+T2C.3.Ca.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	3	carpet	023	3	no_data
+T2C.3.Ce.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	3	ceiling	023	3	no_data
+T2C.3.Dr.023	9/25/2013	16:33:00	MZ	toronto	2	ceiling	3	drywall	023	3	no_data
+T2F.3.Ca.023	9/25/2013	16:36:00	MZ	toronto	2	floor	3	carpet	023	3	no_data
+T2F.3.Ce.023	9/25/2013	16:36:00	MZ	toronto	2	floor	3	ceiling	023	3	no_data
+T2F.3.Dr.023	9/25/2013	16:36:00	MZ	toronto	2	floor	3	drywall	023	3	no_data
+T2W.3.Ca.023	9/25/2013	16:33:00	JS	toronto	2	wall	3	carpet	023	3	no_data
+T2W.3.Ce.023	9/25/2013	16:33:00	JS	toronto	2	wall	3	ceiling	023	3	no_data
+T2W.3.Dr.023	9/25/2013	16:33:00	JS	toronto	2	wall	3	drywall	023	3	no_data
+T3C.3.Ca.023	9/25/2013	14:59:00	MZ	toronto	3	ceiling	3	carpet	023	3	no_data
+T3C.3.Ce.023	9/25/2013	14:59:00	MZ	toronto	3	ceiling	3	ceiling	023	3	no_data
+T3C.3.Dr.023	9/25/2013	14:59:00	MZ	toronto	3	ceiling	3	drywall	023	3	no_data
+T3F.3.Ca.023	9/25/2013	14:53:00	MZ	toronto	3	floor	3	carpet	023	3	no_data
+T3F.3.Ce.023	9/25/2013	14:53:00	MZ	toronto	3	floor	3	ceiling	023	3	no_data
+T3F.3.Dr.023	9/25/2013	14:53:00	MZ	toronto	3	floor	3	drywall	023	3	no_data
+T3W.3.Ca.023	9/25/2013	14:30:00	MZ	toronto	3	wall	3	carpet	023	3	no_data
+T3W.3.Ce.023	9/25/2013	14:30:00	MZ	toronto	3	wall	3	ceiling	023	3	no_data
+T3W.3.Dr.023	9/25/2013	14:30:00	MZ	toronto	3	wall	3	drywall	023	3	no_data
+T1C.3.Ca.024	9/27/2013	14:44:00	SD	toronto	1	ceiling	3	carpet	024	3	no_data
+T1C.3.Ce.024	9/27/2013	14:44:00	SD	toronto	1	ceiling	3	ceiling	024	3	no_data
+T1C.3.Dr.024	9/27/2013	14:44:00	SD	toronto	1	ceiling	3	drywall	024	3	no_data
+T1F.3.Ca.024	9/27/2013	14:40:00	SD	toronto	1	floor	3	carpet	024	3	no_data
+T1F.3.Ce.024	9/27/2013	14:40:00	SD	toronto	1	floor	3	ceiling	024	3	no_data
+T1F.3.Dr.024	9/27/2013	14:40:00	SD	toronto	1	floor	3	drywall	024	3	no_data
+T1W.3.Ca.024	9/27/2013	14:52:00	SD	toronto	1	wall	3	carpet	024	3	no_data
+T1W.3.Ce.024	9/27/2013	14:52:00	SD	toronto	1	wall	3	ceiling	024	3	no_data
+T1W.3.Dr.024	9/27/2013	14:52:00	SD	toronto	1	wall	3	drywall	024	3	no_data
+T2C.3.Ca.024	9/27/2013	13:52:00	SD	toronto	2	ceiling	3	carpet	024	3	no_data
+T2C.3.Ce.024	9/27/2013	13:52:00	SD	toronto	2	ceiling	3	ceiling	024	3	no_data
+T2C.3.Dr.024	9/27/2013	13:52:00	SD (sample fell on floor)	toronto	2	ceiling	3	drywall	024	3	no_data
+T2F.3.Ca.024	9/27/2013	13:55:00	SD	toronto	2	floor	3	carpet	024	3	no_data
+T2F.3.Ce.024	9/27/2013	13:55:00	SD	toronto	2	floor	3	ceiling	024	3	no_data
+T2F.3.Dr.024	9/27/2013	13:55:00	SD	toronto	2	floor	3	drywall	024	3	no_data
+T2W.3.Ca.024	9/27/2013	14:15:00	SD	toronto	2	wall	3	carpet	024	3	no_data
+T2W.3.Ce.024	9/27/2013	14:15:00	SD	toronto	2	wall	3	ceiling	024	3	no_data
+T2W.3.Dr.024	9/27/2013	14:15:00	SD	toronto	2	wall	3	drywall	024	3	no_data
+T3C.3.Ca.024	9/27/2013	13:45:00	JS	toronto	3	ceiling	3	carpet	024	3	no_data
+T3C.3.Ce.024	9/27/2013	13:45:00	JS	toronto	3	ceiling	3	ceiling	024	3	no_data
+T3C.3.Dr.024	9/27/2013	13:45:00	JS	toronto	3	ceiling	3	drywall	024	3	no_data
+T3F.3.Ca.024	9/27/2013	13:41:00	JS	toronto	3	floor	3	carpet	024	3	no_data
+T3F.3.Ce.024	9/27/2013	13:41:00	JS	toronto	3	floor	3	ceiling	024	3	no_data
+T3F.3.Dr.024	9/27/2013	13:41:00	SD	toronto	3	floor	3	drywall	024	3	no_data
+T3W.3.Ca.024	9/27/2013	13:43:00	SD	toronto	3	wall	3	carpet	024	3	no_data
+T3W.3.Ce.024	9/27/2013	13:43:00	SD (hand changed position)	toronto	3	wall	3	ceiling	024	3	no_data
+T3W.3.Dr.024	9/27/2013	13:43:00	SD	toronto	3	wall	3	drywall	024	3	no_data
+T1C.3.Ca.025	9/30/2013	10:49:00	MZ	toronto	1	ceiling	3	carpet	025	3	no_data
+T1C.3.Ce.025	9/30/2013	10:49:00	MZ	toronto	1	ceiling	3	ceiling	025	3	no_data
+T1C.3.Dr.025	9/30/2013	10:49:00	MZ	toronto	1	ceiling	3	drywall	025	3	no_data
+T1F.3.Ca.025	9/30/2013	10:47:00	MZ	toronto	1	floor	3	carpet	025	3	no_data
+T1F.3.Ce.025	9/30/2013	10:47:00	MZ	toronto	1	floor	3	ceiling	025	3	no_data
+T1F.3.Dr.025	9/30/2013	10:47:00	MZ	toronto	1	floor	3	drywall	025	3	no_data
+T1W.3.Ca.025	9/30/2013	10:44:00	MZ	toronto	1	wall	3	carpet	025	3	no_data
+T1W.3.Ce.025	9/30/2013	10:44:00	MZ	toronto	1	wall	3	ceiling	025	3	no_data
+T1W.3.Dr.025	9/30/2013	10:44:00	MZ	toronto	1	wall	3	drywall	025	3	no_data
+T2C.3.Ca.025	9/30/2013	11:14:00	MZ	toronto	2	ceiling	3	carpet	025	3	no_data
+T2C.3.Ce.025	9/30/2013	11:14:00	MZ	toronto	2	ceiling	3	ceiling	025	3	no_data
+T2C.3.Dr.025	9/30/2013	11:14:00	MZ	toronto	2	ceiling	3	drywall	025	3	no_data
+T2F.3.Ca.025	9/30/2013	11:21:00	MZ	toronto	2	floor	3	carpet	025	3	no_data
+T2F.3.Ce.025	9/30/2013	11:21:00	MZ	toronto	2	floor	3	ceiling	025	3	no_data
+T2F.3.Dr.025	9/30/2013	11:21:00	MZ	toronto	2	floor	3	drywall	025	3	no_data
+T2W.3.Ca.025	9/30/2013	11:16:00	MZ	toronto	2	wall	3	carpet	025	3	no_data
+T2W.3.Ce.025	9/30/2013	11:16:00	MZ	toronto	2	wall	3	ceiling	025	3	no_data
+T2W.3.Dr.025	9/30/2013	11:16:00	MZ	toronto	2	wall	3	drywall	025	3	no_data
+T3C.3.Ca.025	9/30/2013	11:07:00	MZ	toronto	3	ceiling	3	carpet	025	3	no_data
+T3C.3.Ce.025	9/30/2013	11:07:00	MZ	toronto	3	ceiling	3	ceiling	025	3	no_data
+T3C.3.Dr.025	9/30/2013	11:07:00	MZ	toronto	3	ceiling	3	drywall	025	3	no_data
+T3F.3.Ca.025	9/30/2013	11:03:00	MZ	toronto	3	floor	3	carpet	025	3	no_data
+T3F.3.Ce.025	9/30/2013	11:03:00	MZ	toronto	3	floor	3	ceiling	025	3	no_data
+T3F.3.Dr.025	9/30/2013	11:03:00	MZ	toronto	3	floor	3	drywall	025	3	no_data
+T3W.3.Ca.025	9/30/2013	11:01:00	MZ	toronto	3	wall	3	carpet	025	3	no_data
+T3W.3.Ce.025	9/30/2013	11:01:00	MZ	toronto	3	wall	3	ceiling	025	3	no_data
+T3W.3.Dr.025	9/30/2013	11:01:00	MZ	toronto	3	wall	3	drywall	025	3	no_data
+T1C.3.Ca.026	10/2/2013	14:17:00	MZ	toronto	1	ceiling	3	carpet	026	3	no_data
+T1C.3.Ce.026	10/2/2013	14:17:00	MZ	toronto	1	ceiling	3	ceiling	026	3	no_data
+T1C.3.Dr.026	10/2/2013	14:17:00	MZ	toronto	1	ceiling	3	drywall	026	3	no_data
+T1F.3.Ca.026	10/2/2013	14:20:00	MZ	toronto	1	floor	3	carpet	026	3	no_data
+T1F.3.Ce.026	10/2/2013	14:20:00	MZ	toronto	1	floor	3	ceiling	026	3	no_data
+T1F.3.Dr.026	10/2/2013	14:20:00	MZ	toronto	1	floor	3	drywall	026	3	no_data
+T1W.3.Ca.026	10/2/2013	14:22:00	MZ	toronto	1	wall	3	carpet	026	3	no_data
+T1W.3.Ce.026	10/2/2013	14:22:00	MZ	toronto	1	wall	3	ceiling	026	3	no_data
+T1W.3.Dr.026	10/2/2013	14:22:00	MZ	toronto	1	wall	3	drywall	026	3	no_data
+T2C.3.Ca.026	10/2/2013	14:32:00	MZ	toronto	2	ceiling	3	carpet	026	3	no_data
+T2C.3.Ce.026	10/2/2013	14:32:00	MZ	toronto	2	ceiling	3	ceiling	026	3	no_data
+T2C.3.Dr.026	10/2/2013	14:32:00	MZ	toronto	2	ceiling	3	drywall	026	3	no_data
+T2F.3.Ca.026	10/2/2013	14:37:00	MZ	toronto	2	floor	3	carpet	026	3	no_data
+T2F.3.Ce.026	10/2/2013	14:37:00	MZ	toronto	2	floor	3	ceiling	026	3	no_data
+T2F.3.Dr.026	10/2/2013	14:37:00	MZ	toronto	2	floor	3	drywall	026	3	no_data
+T2W.3.Ca.026	10/2/2013	14:34:00	MZ	toronto	2	wall	3	carpet	026	3	no_data
+T2W.3.Ce.026	10/2/2013	14:34:00	MZ touched the plate	toronto	2	wall	3	ceiling	026	3	no_data
+T2W.3.Dr.026	10/2/2013	14:34:00	MZ	toronto	2	wall	3	drywall	026	3	no_data
+T3C.3.Ca.026	10/2/2013	14:49:00	MZ touched the plate	toronto	3	ceiling	3	carpet	026	3	no_data
+T3C.3.Ce.026	10/2/2013	14:49:00	MZ	toronto	3	ceiling	3	ceiling	026	3	no_data
+T3C.3.Dr.026	10/2/2013	14:49:00	MZ	toronto	3	ceiling	3	drywall	026	3	no_data
+T3F.3.Ca.026	10/2/2013	14:43:00	MZ	toronto	3	floor	3	carpet	026	3	no_data
+T3F.3.Ce.026	10/2/2013	14:43:00	MZ	toronto	3	floor	3	ceiling	026	3	no_data
+T3F.3.Dr.026	10/2/2013	14:43:00	MZ	toronto	3	floor	3	drywall	026	3	no_data
+T3W.3.Ca.026	10/2/2013	14:46:00	MZ	toronto	3	wall	3	carpet	026	3	no_data
+T3W.3.Ce.026	10/2/2013	14:46:00	MZ	toronto	3	wall	3	ceiling	026	3	no_data
+T3W.3.Dr.026	10/2/2013	14:46:00	MZ	toronto	3	wall	3	drywall	026	3	no_data
+T1C.3.Ca.027	10/4/2013	13:16:00	MZ	toronto	1	ceiling	3	carpet	027	3	no_data
+T1C.3.Ce.027	10/4/2013	13:16:00	MZ	toronto	1	ceiling	3	ceiling	027	3	no_data
+T1C.3.Dr.027	10/4/2013	13:16:00	MZ	toronto	1	ceiling	3	drywall	027	3	no_data
+T1F.3.Ca.027	10/4/2013	13:18:00	MZ	toronto	1	floor	3	carpet	027	3	no_data
+T1F.3.Ce.027	10/4/2013	13:18:00	MZ	toronto	1	floor	3	ceiling	027	3	no_data
+T1F.3.Dr.027	10/4/2013	13:18:00	MZ	toronto	1	floor	3	drywall	027	3	no_data
+T1W.3.Ca.027	10/4/2013	13:20:00	MZ	toronto	1	wall	3	carpet	027	3	no_data
+T1W.3.Ce.027	10/4/2013	13:20:00	MZ	toronto	1	wall	3	ceiling	027	3	no_data
+T1W.3.Dr.027	10/4/2013	13:20:00	MZ	toronto	1	wall	3	drywall	027	3	no_data
+T2C.3.Ca.027	10/4/2013	13:03:00	MZ	toronto	2	ceiling	3	carpet	027	3	no_data
+T2C.3.Ce.027	10/4/2013	13:03:00	MZ	toronto	2	ceiling	3	ceiling	027	3	no_data
+T2C.3.Dr.027	10/4/2013	13:03:00	MZ	toronto	2	ceiling	3	drywall	027	3	no_data
+T2F.3.Ca.027	10/4/2013	13:07:00	MZ	toronto	2	floor	3	carpet	027	3	no_data
+T2F.3.Ce.027	10/4/2013	13:07:00	MZ	toronto	2	floor	3	ceiling	027	3	no_data
+T2F.3.Dr.027	10/4/2013	13:07:00	MZ	toronto	2	floor	3	drywall	027	3	no_data
+T2W.3.Ca.027	10/4/2013	13:05:00	MZ	toronto	2	wall	3	carpet	027	3	no_data
+T2W.3.Ce.027	10/4/2013	13:05:00	MZ	toronto	2	wall	3	ceiling	027	3	no_data
+T2W.3.Dr.027	10/4/2013	13:05:00	MZ	toronto	2	wall	3	drywall	027	3	no_data
+T3C.3.Ca.027	10/4/2013	12:51:00	MZ	toronto	3	ceiling	3	carpet	027	3	no_data
+T3C.3.Ce.027	10/4/2013	12:51:00	MZ	toronto	3	ceiling	3	ceiling	027	3	no_data
+T3C.3.Dr.027	10/4/2013	12:51:00	MZ	toronto	3	ceiling	3	drywall	027	3	no_data
+T3F.3.Ca.027	10/4/2013	12:53:00	MZ	toronto	3	floor	3	carpet	027	3	no_data
+T3F.3.Ce.027	10/4/2013	12:53:00	MZ	toronto	3	floor	3	ceiling	027	3	no_data
+T3F.3.Dr.027	10/4/2013	12:53:00	MZ	toronto	3	floor	3	drywall	027	3	no_data
+T3W.3.Ca.027	10/4/2013	12:56:00	MZ	toronto	3	wall	3	carpet	027	3	no_data
+T3W.3.Ce.027	10/4/2013	12:56:00	MZ	toronto	3	wall	3	ceiling	027	3	no_data
+T3W.3.Dr.027	10/4/2013	12:56:00	MZ	toronto	3	wall	3	drywall	027	3	no_data
